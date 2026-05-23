@@ -1,0 +1,3693 @@
+{
+  "chapter": 30,
+  "title": "أساسيات التمريض العملي — الصفحات",
+  "title_ar": "أساسيات التمريض العملي — عرض الصفحات",
+  "title_en": "Fundamentals of Nursing Practice — Pages View",
+  "description": "عرض 102 صفحة كاملة من كتاب أساسيات التمريض العملي للأستاذ أحمد المصري — كل صفحة بمحتواها الكامل المنسق",
+  "description_en": "Complete 102-page view of Fundamentals of Nursing Practice by Mr. Ahmed Almassri — every page with full formatted content",
+  "type": "pages",
+  "pages": [
+    {
+      "id": 30001,
+      "page": 1,
+      "title_en": "Fundamental of Nursing (Practice) — Chapter 1",
+      "title_ar": "أساسيات التمريض العملي — الفصل الأول",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Fundamental of Nursing (Practice)",
+          "ar": "أساسيات التمريض العملي"
+        },
+        {
+          "type": "subtitle",
+          "en": "Chapter 1",
+          "ar": "الفصل الأول"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "ar_only",
+          "ar": "إعداد: الأستاذ أحمد المصري"
+        },
+        {
+          "type": "en_only",
+          "en": "Prepared by: Mr. Ahmed Almassri"
+        }
+      ]
+    },
+    {
+      "id": 30002,
+      "page": 2,
+      "title_en": "Introduction — Nosocomial Infections",
+      "title_ar": "مقدمة — عدوى المستشفيات",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Introduction",
+          "ar": "مقدمة"
+        },
+        {
+          "type": "bilingual",
+          "en": "Nurses must understand and practice methods to prevent nosocomial infections",
+          "ar": "يجب على الممرضين أن يفهموا وأن يمارسوا الطرق التي تمنع عدوى المستشفيات"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Nosocomial Infections",
+          "ar": "عدوى المستشفيات"
+        },
+        {
+          "type": "bilingual",
+          "en": "Infections acquired while a person is receiving care in a health care agency.",
+          "ar": "هي العدوى التي تُكتسب (تُصيب الشخص) بينما الشخص يتلقى الرعاية في المركز الصحي أو المستشفى"
+        }
+      ]
+    },
+    {
+      "id": 30003,
+      "page": 3,
+      "title_en": "The Most Common Types of Microorganisms",
+      "title_ar": "أكثر أنواع الميكروبات شيوعاً",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "The Most Common Types",
+          "ar": "أكثر أنواع الميكروبات شيوعاً"
+        },
+        {
+          "type": "bullet",
+          "en": "1) Bacteria",
+          "ar": "البكتيريا"
+        },
+        {
+          "type": "bullet",
+          "en": "2) Viruses",
+          "ar": "الفيروسات"
+        },
+        {
+          "type": "bullet",
+          "en": "3) Fungi",
+          "ar": "الفطريات"
+        }
+      ]
+    },
+    {
+      "id": 30004,
+      "page": 4,
+      "title_en": "Medical Asepsis",
+      "title_ar": "التعقيم الطبي",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Medical Asepsis",
+          "ar": "التعقيم الطبي"
+        },
+        {
+          "type": "bilingual",
+          "en": "Medical asepsis means those practices that reduce the numbers of microorganisms.",
+          "ar": "هي الممارسات التي تُقلل أو تحد من أعداد الميكروبات"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "bilingual",
+          "en": "Also called: Clean Technique",
+          "ar": "تُسمى أيضاً: التقنيات النظيفة"
+        }
+      ]
+    },
+    {
+      "id": 30005,
+      "page": 5,
+      "title_en": "Examples of Medical Aseptic Practices",
+      "title_ar": "أمثلة على التعقيم الطبي",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Examples of Medical Aseptic Practices",
+          "ar": "أمثلة على التعقيم الطبي"
+        },
+        {
+          "type": "bullet",
+          "en": "Using antimicrobial agents",
+          "ar": "استخدام مضادات الميكروبات مثل الكلور والكحول"
+        },
+        {
+          "type": "bullet",
+          "en": "Hand hygiene",
+          "ar": "غسل اليدين"
+        },
+        {
+          "type": "bullet",
+          "en": "Wearing hospital garments",
+          "ar": "ارتداء ملابس المستشفى"
+        },
+        {
+          "type": "bullet",
+          "en": "Keeping the environment as clean as possible",
+          "ar": "المحافظة على البيئة نظيفة قدر الإمكان"
+        }
+      ]
+    },
+    {
+      "id": 30006,
+      "page": 6,
+      "title_en": "Hand Washing",
+      "title_ar": "غسل اليدين",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Hand Washing",
+          "ar": "غسل اليدين"
+        },
+        {
+          "type": "bilingual",
+          "en": "Hand washing: scrubbing the hands with soap, water, and friction.",
+          "ar": "فرك (حل) اليدين باستخدام الماء والصابون"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "bilingual",
+          "en": "Hand washing is the single most effective way to prevent infections.",
+          "ar": "يُعتبر غسل اليدين من أكثر الطرق فعالية لمنع العدوى"
+        }
+      ]
+    },
+    {
+      "id": 30007,
+      "page": 7,
+      "title_en": "When to Perform Hand Washing (1)",
+      "title_ar": "متى نغسل اليدين (1)",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "When to Perform Hand Washing?",
+          "ar": "متى نغسل اليدين؟"
+        },
+        {
+          "type": "bilingual",
+          "en": "Wash hands after touching blood, body fluids, secretions, excretions, and contaminated items, whether or not gloves are worn.",
+          "ar": "اغسل يديك بعد ملامسة الدم وسوائل وإفرازات وفضلات الجسم، أو بعد ملامسة الأدوات الملوثة، سواء كنت مرتدياً قفازات أم لا"
+        }
+      ]
+    },
+    {
+      "id": 30008,
+      "page": 8,
+      "title_en": "When to Perform Hand Washing (2)",
+      "title_ar": "متى نغسل اليدين (2)",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "When to Perform Hand Washing?",
+          "ar": "متى نغسل اليدين؟"
+        },
+        {
+          "type": "bilingual",
+          "en": "Wash hands immediately after gloves are removed, between patient contacts, and wash between tasks and procedures on the same patient to prevent cross-contamination of different body sites.",
+          "ar": "اغسل يديك مباشرة بعد خلع القفازات، أو بين ملامسة المرضى، واغسل يديك بين المهام والمهارات التي تُطبَّق على نفس المريض وذلك لمنع انتقال العدوى من مكان لآخر لنفس الجسم"
+        }
+      ]
+    },
+    {
+      "id": 30009,
+      "page": 9,
+      "title_en": "Steps of Hand Washing",
+      "title_ar": "خطوات غسل اليدين",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "How to Perform Hand Washing",
+          "ar": "كيفية غسل اليدين"
+        },
+        {
+          "type": "subtitle",
+          "en": "Steps of Hand Washing",
+          "ar": "خطوات غسل اليدين"
+        },
+        {
+          "type": "note",
+          "en": "In the following slide, steps of hand washing are shown step by step. Students should focus on the image and memorize the steps.",
+          "ar": "في الشريحة التالية، كيفية غسل اليدين خطوة بخطوة. يرجى من الطلبة التركيز في الصورة وحفظ الخطوات"
+        }
+      ]
+    },
+    {
+      "id": 30010,
+      "page": 10,
+      "title_en": "Hand Washing Steps (Image)",
+      "title_ar": "صورة خطوات غسل اليدين",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Hand Washing Steps — Image Page",
+          "ar": "صورة خطوات غسل اليدين"
+        },
+        {
+          "type": "note",
+          "en": "This page contains an illustrative image of the hand washing steps (image-only page in original PDF).",
+          "ar": "هذه الصفحة تحتوي على صورة توضيحية لخطوات غسل اليدين (صفحة صور فقط في الـ PDF الأصلي)"
+        }
+      ]
+    },
+    {
+      "id": 30011,
+      "page": 11,
+      "title_en": "Surgical Scrub",
+      "title_ar": "تعقيم اليدين الجراحي",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Surgical Scrub",
+          "ar": "تعقيم (غسل) اليدين الخاص بالعمليات"
+        },
+        {
+          "type": "bilingual",
+          "en": "A surgical scrub is performed before donning sterile gloves in an operative room.",
+          "ar": "يُطبَّق تعقيم اليدين قبل ارتداء القفازات المعقمة في غرفة العمليات"
+        }
+      ]
+    },
+    {
+      "id": 30012,
+      "page": 12,
+      "title_en": "Differences: Purpose",
+      "title_ar": "الفرق في الغرض",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Differences between Hand Washing and Surgical Scrub",
+          "ar": "الفرق بين غسل اليدين وتعقيم اليدين"
+        },
+        {
+          "type": "subtitle",
+          "en": "Purpose / الغرض",
+          "ar": ""
+        },
+        {
+          "type": "bilingual",
+          "en": "Hand washing is performed for all procedures,\nwhile surgical scrub is performed only for operative procedures.",
+          "ar": "يُطبَّق غسل اليدين لجميع الإجراءات التمريضية،\nبينما تعقيم اليدين يُطبَّق فقط لإجراء العمليات الجراحية"
+        }
+      ]
+    },
+    {
+      "id": 30013,
+      "page": 13,
+      "title_en": "Differences: Duration",
+      "title_ar": "الفرق في المدة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Differences between Hand Washing and Surgical Scrub",
+          "ar": "الفرق بين غسل اليدين وتعقيم اليدين"
+        },
+        {
+          "type": "subtitle",
+          "en": "Duration / المدة",
+          "ar": ""
+        },
+        {
+          "type": "bilingual",
+          "en": "Hand washing lasts 10–15 seconds,\nwhile surgical scrub lasts 2–5 minutes.",
+          "ar": "يستغرق غسل اليدين من 10 إلى 15 ثانية،\nبينما تعقيم اليدين يستغرق من دقيقتين إلى 5 دقائق"
+        }
+      ]
+    },
+    {
+      "id": 30014,
+      "page": 14,
+      "title_en": "Differences: Agent Used",
+      "title_ar": "الفرق في المادة المستخدمة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Differences between Hand Washing and Surgical Scrub",
+          "ar": "الفرق بين غسل اليدين وتعقيم اليدين"
+        },
+        {
+          "type": "subtitle",
+          "en": "Agent Used / المادة المستخدمة",
+          "ar": ""
+        },
+        {
+          "type": "bilingual",
+          "en": "In hand washing, soap is used,\nwhile in surgical scrub, antimicrobial agents are used.",
+          "ar": "في غسل اليدين يُستعمل الصابون،\nبينما في تعقيم اليدين تُستعمل معقمات خاصة (مضادات ميكروبات)"
+        }
+      ]
+    },
+    {
+      "id": 30015,
+      "page": 15,
+      "title_en": "Disinfection & Sterilization",
+      "title_ar": "التطهير والتعقيم",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Disinfection & Sterilization",
+          "ar": "التطهير والتعقيم"
+        },
+        {
+          "type": "subtitle",
+          "en": "Disinfection",
+          "ar": "التطهير"
+        },
+        {
+          "type": "bilingual",
+          "en": "Process by which pathogens, but not necessarily spores, are destroyed.\n(e.g., alcohol, Dettol, other disinfectants)",
+          "ar": "هي عملية القضاء على معظم الميكروبات ما عدا الأبواغ.\nمثل: استعمال الكحول أو الديتول والمطهرات الأخرى"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Sterilization",
+          "ar": "التعقيم"
+        },
+        {
+          "type": "bilingual",
+          "en": "Process by which all microorganisms, including spores, are destroyed.\n(e.g., boiling water, autoclave)",
+          "ar": "هي عملية القضاء على جميع الميكروبات مع الأبواغ.\nمثل: استعمال الماء المغلي أو جهاز الأوتوكليف"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "bilingual",
+          "en": "Autoclave: device for sterilizing surgical instruments in hospitals (steam under pressure).",
+          "ar": "الأوتوكليف: جهاز تعقيم الأدوات الجراحية بالمستشفى يعمل بالبخار تحت الضغط"
+        }
+      ]
+    },
+    {
+      "id": 30016,
+      "page": 16,
+      "title_en": "Chapter 2 — Donning and Removing Gloves",
+      "title_ar": "الفصل الثاني — ارتداء وخلع القفازات",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Fundamental of Nursing (Practice) — Chapter 2",
+          "ar": "أساسيات التمريض العملي — الفصل الثاني"
+        },
+        {
+          "type": "subtitle",
+          "en": "Donning and Removing Gloves",
+          "ar": "ارتداء وخلع القفازات الطبية"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "en_only",
+          "en": "Prepared by: Mr. Ahmed Almassri"
+        },
+        {
+          "type": "ar_only",
+          "ar": "إعداد: الأستاذ أحمد المصري"
+        }
+      ]
+    },
+    {
+      "id": 30017,
+      "page": 17,
+      "title_en": "Personal Protective Equipment (PPE)",
+      "title_ar": "وسائل الحماية الشخصية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Personal Protective Equipment (PPE)",
+          "ar": "وسائل (معدات) الحماية الشخصية"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Uniforms",
+          "ar": "اللباس الموحد للطواقم الطبية"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Gowns",
+          "ar": "ثوب أو رداء الحماية"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Masks",
+          "ar": "الكمامات الطبية"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Gloves",
+          "ar": "القفازات الطبية"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Protective eyewear",
+          "ar": "النظارات (غطاء العين)"
+        },
+        {
+          "type": "bullet",
+          "en": "6. Hair and Shoe Covers",
+          "ar": "غطاء الشعر والحذاء"
+        }
+      ]
+    },
+    {
+      "id": 30018,
+      "page": 18,
+      "title_en": "Why Nurses Must Wear Gloves (1)",
+      "title_ar": "لماذا يجب ارتداء القفازات (1)",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Gloves — Why Nurses Must Wear Them?",
+          "ar": "القفازات — لماذا يجب على الممرضين ارتداؤها؟"
+        },
+        {
+          "type": "bilingual",
+          "en": "Nurses wear gloves in the following situations:",
+          "ar": "تتم ارتداء القفازات في الحالات التالية:"
+        },
+        {
+          "type": "bullet",
+          "en": "1. As a barrier to prevent direct hand contact with blood, body fluids, secretions, excretions, and mucous membranes.",
+          "ar": "تُستخدم كحاجز لمنع احتكاك اليد بالدم أو سوائل وإفرازات وفضلات الجسم والأغشية المخاطية"
+        }
+      ]
+    },
+    {
+      "id": 30019,
+      "page": 19,
+      "title_en": "Why Nurses Must Wear Gloves (2)",
+      "title_ar": "لماذا يجب ارتداء القفازات (2)",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Why Nurses Must Wear Gloves? (continued)",
+          "ar": "لماذا يجب ارتداء القفازات؟ (تابع)"
+        },
+        {
+          "type": "bullet",
+          "en": "2. To protect nurses from microorganisms transmitted from clients.",
+          "ar": "لحماية الممرض من المريض (منع العدوى)"
+        },
+        {
+          "type": "bullet",
+          "en": "3. To protect clients from microorganisms transmitted from nurses.",
+          "ar": "لحماية المريض من الممرض (منع العدوى)"
+        },
+        {
+          "type": "bullet",
+          "en": "4. To protect clients from microorganisms transmitted from another client.",
+          "ar": "لحماية المريض من مريض آخر (منع العدوى)"
+        }
+      ]
+    },
+    {
+      "id": 30020,
+      "page": 20,
+      "title_en": "Gloves Material — Latex",
+      "title_ar": "مادة القفازات — لاتكس",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Gloves",
+          "ar": "القفازات الطبية"
+        },
+        {
+          "type": "bilingual",
+          "en": "Gloves are generally made of latex.",
+          "ar": "القفازات الطبية مصنوعة بشكل عام من مادة اللاتكس"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "bilingual",
+          "en": "Unfortunately, some nurses and clients are allergic to latex.",
+          "ar": "لسوء الحظ، بعض الممرضين والمرضى لديهم حساسية من مادة اللاتكس"
+        }
+      ]
+    },
+    {
+      "id": 30021,
+      "page": 21,
+      "title_en": "Types of Gloves",
+      "title_ar": "أنواع القفازات الطبية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Types of Gloves",
+          "ar": "أنواع القفازات الطبية"
+        },
+        {
+          "type": "subtitle",
+          "en": "1. Clean Gloves",
+          "ar": "القفازات النظيفة"
+        },
+        {
+          "type": "en_only",
+          "en": "Also called:"
+        },
+        {
+          "type": "bullet",
+          "en": "• Examination gloves",
+          "ar": "قفازات الفحص الطبي"
+        },
+        {
+          "type": "bullet",
+          "en": "• Latex gloves",
+          "ar": "قفازات لاتكس"
+        },
+        {
+          "type": "bullet",
+          "en": "• Disposable gloves",
+          "ar": "قفازات الاستخدام لمرة واحدة"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "2. Sterile Gloves",
+          "ar": "القفازات المعقمة"
+        },
+        {
+          "type": "en_only",
+          "en": "Also called:"
+        },
+        {
+          "type": "bullet",
+          "en": "• Surgical gloves",
+          "ar": "القفازات الجراحية"
+        }
+      ]
+    },
+    {
+      "id": 30022,
+      "page": 22,
+      "title_en": "Clean Gloves — When to Wear",
+      "title_ar": "متى ترتدي القفازات النظيفة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Clean Gloves",
+          "ar": "القفازات النظيفة"
+        },
+        {
+          "type": "bullet",
+          "en": "Should be worn during non-sterile procedures.",
+          "ar": "يجب ارتداؤها أثناء ممارسة الإجراءات التمريضية غير المعقمة"
+        },
+        {
+          "type": "bullet",
+          "en": "Should be worn when hand contact with blood or contaminated substances is possible.",
+          "ar": "يجب ارتداء القفازات النظيفة عندما يكون هناك احتمالية لمس اليد بالدم أو المواد الملوثة"
+        }
+      ]
+    },
+    {
+      "id": 30023,
+      "page": 23,
+      "title_en": "Sterile Gloves — When to Wear",
+      "title_ar": "متى ترتدي القفازات المعقمة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Sterile Gloves",
+          "ar": "القفازات المعقمة"
+        },
+        {
+          "type": "bilingual",
+          "en": "Gloves should be worn during invasive or sterile procedures including surgical procedures and aseptic pharmaceutical preparation.",
+          "ar": "يجب ارتداء هذه القفازات أثناء ممارسة الإجراءات التمريضية المعقمة والتي تشمل إجراء العمليات الجراحية وتحضير الأدوية التي تتطلب التعقيم"
+        }
+      ]
+    },
+    {
+      "id": 30024,
+      "page": 24,
+      "title_en": "Creating a Sterile Field",
+      "title_ar": "خلق مجال معقم",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Creating a Sterile Field",
+          "ar": "خلق مجال (مكان) معقم"
+        },
+        {
+          "type": "bilingual",
+          "en": "A sterile field means a work area free of microorganisms.",
+          "ar": "المجال المعقم هو المنطقة أو المكان الخالي من الميكروبات"
+        }
+      ]
+    },
+    {
+      "id": 30025,
+      "page": 25,
+      "title_en": "Principles of Sterile Field (1 & 2)",
+      "title_ar": "مبادئ المجال المعقم (1 و 2)",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Principles of Sterile Field",
+          "ar": "مبادئ المجال المعقم"
+        },
+        {
+          "type": "subtitle",
+          "en": "Principle 1",
+          "ar": "المبدأ الأول"
+        },
+        {
+          "type": "bilingual",
+          "en": "They preserve sterility by touching one sterile item with another that is sterile.",
+          "ar": "المادة المعقمة عند ملامستها مادة أخرى معقمة يبقى المجال معقماً"
+        },
+        {
+          "type": "formula",
+          "en": "✅  Sterile  +  Sterile  =  Sterile"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Principle 2",
+          "ar": "المبدأ الثاني"
+        },
+        {
+          "type": "bilingual",
+          "en": "Once a sterile item touches something that is not sterile, it is considered contaminated.",
+          "ar": "المادة المعقمة عند ملامستها مادة أخرى غير معقمة، في هذه الحالة يكون المجال ملوثاً"
+        },
+        {
+          "type": "formula",
+          "en": "❌  Sterile  +  Non-sterile  =  Contaminated"
+        }
+      ]
+    },
+    {
+      "id": 30026,
+      "page": 26,
+      "title_en": "Principles of Sterile Field (3, 4 & 5)",
+      "title_ar": "مبادئ المجال المعقم (3، 4 و 5)",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Principles of Sterile Field (continued)",
+          "ar": "مبادئ المجال المعقم (تابع)"
+        },
+        {
+          "type": "subtitle",
+          "en": "Principle 3",
+          "ar": "المبدأ الثالث"
+        },
+        {
+          "type": "bilingual",
+          "en": "If there is a question about the sterility of an item, it is considered unsterile.",
+          "ar": "إذا كان هناك تساؤل (شكوك) هل المادة معقمة أو لا، في هذه الحالة يجب اعتبارها غير معقمة"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Principle 4",
+          "ar": "المبدأ الرابع"
+        },
+        {
+          "type": "bilingual",
+          "en": "Any partially unwrapped sterile package is considered contaminated.",
+          "ar": "أي علبة معقمة غير مغلفة يتم اعتبارها ملوثة"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Principle 5",
+          "ar": "المبدأ الخامس"
+        },
+        {
+          "type": "bilingual",
+          "en": "Packaged sterile item is not considered sterile past its recommended expiration date.",
+          "ar": "أي علبة معقمة منتهية الصلاحية يتم اعتبارها غير معقمة"
+        }
+      ]
+    },
+    {
+      "id": 30027,
+      "page": 27,
+      "title_en": "Principles of Sterile Field (6 & 7)",
+      "title_ar": "مبادئ المجال المعقم (6 و 7)",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Principles of Sterile Field (continued)",
+          "ar": "مبادئ المجال المعقم (تابع)"
+        },
+        {
+          "type": "subtitle",
+          "en": "Principle 6",
+          "ar": "المبدأ السادس"
+        },
+        {
+          "type": "bilingual",
+          "en": "The outer 1-inch margin of a sterile area is considered a zone of contamination.",
+          "ar": "تُعتبر حدود المجال المعقم التي مساحتها 1 إنش منطقة ملوثة"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Principle 7",
+          "ar": "المبدأ السابع"
+        },
+        {
+          "type": "bilingual",
+          "en": "Sterile items that are located or lowered below waist level are considered contaminated.",
+          "ar": "المواد المعقمة الموجودة تحت مستوى الخصر يتم اعتبارها ملوثة"
+        }
+      ]
+    },
+    {
+      "id": 30028,
+      "page": 28,
+      "title_en": "Important Videos for Sterile Gloves",
+      "title_ar": "فيديوهات هامة للقفازات المعقمة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Important Videos",
+          "ar": "فيديوهات هامة جداً"
+        },
+        {
+          "type": "subtitle",
+          "en": "To learn how to don sterile gloves:",
+          "ar": "لتعلم ارتداء القفازات المعقمة:"
+        },
+        {
+          "type": "en_only",
+          "en": "🎬 http://www.youtube.com/watch?v=pAKZ3mdFIj4"
+        },
+        {
+          "type": "en_only",
+          "en": "🎬 http://www.youtube.com/watch?v=AL0EE8zhNVM"
+        }
+      ]
+    },
+    {
+      "id": 30029,
+      "page": 29,
+      "title_en": "Chapter 3 — Bed Making",
+      "title_ar": "الفصل الثالث — تنظيم السرير",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Fundamental of Nursing (Practice) — Chapter 3",
+          "ar": "أساسيات التمريض العملي — الفصل الثالث"
+        },
+        {
+          "type": "subtitle",
+          "en": "Bed Making",
+          "ar": "تنظيم (تحضير) سرير المريض"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "en_only",
+          "en": "Prepared by: Mr. Ahmed Almassri"
+        },
+        {
+          "type": "ar_only",
+          "ar": "إعداد: الأستاذ أحمد المصري"
+        }
+      ]
+    },
+    {
+      "id": 30030,
+      "page": 30,
+      "title_en": "Client's Room",
+      "title_ar": "غرفة المريض",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Client's Room",
+          "ar": "غرفة المريض"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Walls",
+          "ar": "الجدران"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Floors",
+          "ar": "الأرضية"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Lighting",
+          "ar": "الإضاءة"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Climate control",
+          "ar": "التحكم بالمناخ"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Room furnishings",
+          "ar": "أثاث الغرفة"
+        }
+      ]
+    },
+    {
+      "id": 30031,
+      "page": 31,
+      "title_en": "Walls, Lighting & Floors",
+      "title_ar": "الجدران والإضاءة والأرضية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Room Environment",
+          "ar": "بيئة الغرفة"
+        },
+        {
+          "type": "subtitle",
+          "en": "1. Walls",
+          "ar": "الجدران"
+        },
+        {
+          "type": "bilingual",
+          "en": "Blue or light green colors that promote relaxation.",
+          "ar": "اللون الأزرق أو الأخضر الفاتح يعززان الشعور بالراحة والاسترخاء للمريض"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "2. Lighting",
+          "ar": "الإضاءة الجيدة"
+        },
+        {
+          "type": "bilingual",
+          "en": "Adequate lighting, both natural or artificial, is important for the comfort of client and nursing personnel.",
+          "ar": "الإضاءة الكافية سواء كانت طبيعية أو صناعية ضرورية جداً لراحة المريض والطاقم التمريضي"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "3. Floors",
+          "ar": "الأرضية"
+        }
+      ]
+    },
+    {
+      "id": 30032,
+      "page": 32,
+      "title_en": "Temperature, Humidity & Ventilation",
+      "title_ar": "الحرارة والرطوبة والتهوية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Climate Control",
+          "ar": "التحكم بالمناخ"
+        },
+        {
+          "type": "subtitle",
+          "en": "Temperature",
+          "ar": "درجة الحرارة"
+        },
+        {
+          "type": "bilingual",
+          "en": "Room temperature: 20°C – 23°C",
+          "ar": "حرارة غرفة المريض يجب أن تكون ما بين 20 – 23 درجة"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Humidity",
+          "ar": "الرطوبة"
+        },
+        {
+          "type": "bilingual",
+          "en": "Amount of moisture in the air or water vapor: 30% – 60%",
+          "ar": "كمية الرطوبة في الغرفة يجب أن تكون ما بين 30% – 60%"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Ventilation",
+          "ar": "التهوية الجيدة"
+        },
+        {
+          "type": "bilingual",
+          "en": "Amount of air in place — good ventilation is essential.",
+          "ar": "التهوية الجيدة (كمية الهواء في المكان) ضرورية لراحة المريض"
+        }
+      ]
+    },
+    {
+      "id": 30033,
+      "page": 33,
+      "title_en": "Room Furnishings (A–E)",
+      "title_ar": "أثاث غرفة المريض",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Room Furnishings",
+          "ar": "أثاث الغرفة"
+        },
+        {
+          "type": "bullet",
+          "en": "A. The Bed",
+          "ar": "سرير المريض"
+        },
+        {
+          "type": "bullet",
+          "en": "B. Privacy Curtain",
+          "ar": "ستائر السرير (ستائر الخصوصية)"
+        },
+        {
+          "type": "bullet",
+          "en": "C. Over Bed Table",
+          "ar": "طاولة الطعام"
+        },
+        {
+          "type": "bullet",
+          "en": "D. Bedside Stand",
+          "ar": "الطاولة التي بجانب السرير (الكوميديونا)"
+        },
+        {
+          "type": "bullet",
+          "en": "E. Chairs",
+          "ar": "الكراسي"
+        }
+      ]
+    },
+    {
+      "id": 30034,
+      "page": 34,
+      "title_en": "Client Room (Image Page)",
+      "title_ar": "صورة غرفة المريض",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Client Room",
+          "ar": "غرفة المريض"
+        },
+        {
+          "type": "note",
+          "en": "This page contains an illustrative image of the client room (image-only page in original PDF).",
+          "ar": "هذه الصفحة تحتوي على صورة توضيحية لغرفة المريض (صفحة صور في الـ PDF الأصلي)"
+        }
+      ]
+    },
+    {
+      "id": 30035,
+      "page": 35,
+      "title_en": "A. The Bed",
+      "title_ar": "أ. سرير المريض",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "A. The Bed",
+          "ar": "سرير المريض"
+        },
+        {
+          "type": "bullet",
+          "en": "• Adjusting the bed to promote comfort.",
+          "ar": "يجب أن يكون السرير مدعوماً بجميع الوضعيات لتعزيز راحة المريض"
+        },
+        {
+          "type": "bullet",
+          "en": "• Full or half side rails are attached to the bed frame.",
+          "ar": "يجب أن يكون السرير مدعوماً بجانب أو جانبين لحماية المريض من السقوط"
+        }
+      ]
+    },
+    {
+      "id": 30036,
+      "page": 36,
+      "title_en": "The Bed (Image 1)",
+      "title_ar": "سرير المريض — صورة 1",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "The Bed — Image Page",
+          "ar": "سرير المريض — صورة توضيحية"
+        },
+        {
+          "type": "note",
+          "en": "Image page from original PDF.",
+          "ar": "صفحة صور من الـ PDF الأصلي"
+        }
+      ]
+    },
+    {
+      "id": 30037,
+      "page": 37,
+      "title_en": "The Bed (Image 2)",
+      "title_ar": "سرير المريض — صورة 2",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "The Bed — Image Page",
+          "ar": "سرير المريض — صورة توضيحية"
+        },
+        {
+          "type": "note",
+          "en": "Image page from original PDF.",
+          "ar": "صفحة صور من الـ PDF الأصلي"
+        }
+      ]
+    },
+    {
+      "id": 30038,
+      "page": 38,
+      "title_en": "1. Mattress",
+      "title_ar": "الفراش",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "1. Mattress",
+          "ar": "فرشة (فراش) السرير"
+        },
+        {
+          "type": "bilingual",
+          "en": "The mattress provides comfort and support for the patient.",
+          "ar": "الفراش المستخدم في سرير المريض"
+        }
+      ]
+    },
+    {
+      "id": 30039,
+      "page": 39,
+      "title_en": "2. Pillows",
+      "title_ar": "المخدات",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "2. Pillows",
+          "ar": "المخدات"
+        },
+        {
+          "type": "bilingual",
+          "en": "Pillows are primarily used for comfort, but they also are used to:",
+          "ar": "تُستخدم المخدات بشكل أساسي للراحة، ولكن قد تُستخدم أيضاً:"
+        },
+        {
+          "type": "bullet",
+          "en": "• Elevate a part of the body",
+          "ar": "لرفع أجزاء الجسم"
+        },
+        {
+          "type": "bullet",
+          "en": "• Relieve swelling",
+          "ar": "لتخفيف التورمات"
+        },
+        {
+          "type": "bullet",
+          "en": "• Promote breathing",
+          "ar": "لتعزيز عملية التنفس"
+        }
+      ]
+    },
+    {
+      "id": 30040,
+      "page": 40,
+      "title_en": "3. Bed Linen",
+      "title_ar": "شراشف السرير",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "3. Bed Linen",
+          "ar": "شراشف السرير"
+        },
+        {
+          "type": "bilingual",
+          "en": "The linen used for most hospital beds includes the following:",
+          "ar": "الشراشف المستخدمة في معظم أسرة المستشفيات تشمل:"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Mattress pad",
+          "ar": "غطاء الفرشة (وجه الفرشة)"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Bottom sheet",
+          "ar": "الشرشف الذي يُوضع تحت المريض"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Draw sheet",
+          "ar": "الشرشف الذي يساعد في تغيير وضعيات (تقليب) المريض"
+        },
+        {
+          "type": "note",
+          "en": "Draw sheet: placed beneath the client's hips to help change position, help in bed making, and facilitate moving or transferring patients from bed to another bed.",
+          "ar": "يُوضع تحت حوض المريض ليساعده على تغيير الوضعية، وتنظيم السرير وتسهيل عملية نقل المريض من سرير إلى آخر"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Top sheet",
+          "ar": "الشرشف الذي يُوضع فوق المريض"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Blanket",
+          "ar": "البطانية (الحرام)"
+        }
+      ]
+    },
+    {
+      "id": 30041,
+      "page": 41,
+      "title_en": "Bed Linen (Image)",
+      "title_ar": "شراشف السرير — صورة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Bed Linen — Image Page",
+          "ar": "شراشف السرير — صورة توضيحية"
+        },
+        {
+          "type": "note",
+          "en": "Image page from original PDF.",
+          "ar": "صفحة صور من الـ PDF الأصلي"
+        }
+      ]
+    },
+    {
+      "id": 30042,
+      "page": 42,
+      "title_en": "B. Privacy Curtain & C. Over Bed Table",
+      "title_ar": "ستائر الخصوصية وطاولة الطعام",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "B. Privacy Curtain",
+          "ar": "ستائر السرير (ستائر الخصوصية)"
+        },
+        {
+          "type": "bilingual",
+          "en": "It can be drawn completely around each client's bed.",
+          "ar": "يجب أن تكون محيطة بالمريض بشكل كامل للحفاظ على خصوصيته"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "title",
+          "en": "C. Over Bed Table",
+          "ar": "طاولة الطعام"
+        },
+        {
+          "type": "bilingual",
+          "en": "Helping the client to eat while in bed and to perform personal hygiene.",
+          "ar": "تساعد هذه الطاولة المريض على تناول الطعام وممارسة النظافة الشخصية بينما المريض في السرير"
+        }
+      ]
+    },
+    {
+      "id": 30043,
+      "page": 43,
+      "title_en": "D. Bedside Stand & E. Chairs",
+      "title_ar": "الكوميديونا والكراسي",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "D. Bedside Stand  &  E. Chairs",
+          "ar": "الطاولة التي بجانب السرير (الكوميديونا) والكراسي"
+        },
+        {
+          "type": "note",
+          "en": "Image page from original PDF showing bedside stand and chairs.",
+          "ar": "صفحة صور من الـ PDF الأصلي تُظهر الكوميديونا والكراسي"
+        }
+      ]
+    },
+    {
+      "id": 30044,
+      "page": 44,
+      "title_en": "Bed Making — Definition & Types",
+      "title_ar": "تنظيم السرير — التعريف والأنواع",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Bed Making",
+          "ar": "تنظيم السرير"
+        },
+        {
+          "type": "bilingual",
+          "en": "The technique of preparing the bed and changing linen.",
+          "ar": "هي عملية تحضير السرير وتغيير شراشفه"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Types of Bed Making",
+          "ar": "أنواع تحضير السرير"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Unoccupied bed making: changing linen when the bed is empty.",
+          "ar": "تغيير الشراشف عندما يكون السرير فارغاً"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Occupied bed making: changing linen while the client remains in bed.",
+          "ar": "تغيير الشراشف بينما المريض موجود على السرير"
+        }
+      ]
+    },
+    {
+      "id": 30045,
+      "page": 45,
+      "title_en": "Purpose of Bed Making",
+      "title_ar": "أهداف تنظيم السرير",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Purpose of Bed Making",
+          "ar": "أهداف تنظيم السرير"
+        },
+        {
+          "type": "bullet",
+          "en": "1. To promote client's comfort.",
+          "ar": "تعزيز راحة المريض"
+        },
+        {
+          "type": "bullet",
+          "en": "2. To provide a clean environment for the clients.",
+          "ar": "توفير بيئة نظيفة للمرضى"
+        },
+        {
+          "type": "bullet",
+          "en": "3. To minimize sources of skin irritation.",
+          "ar": "الحد من المصادر المهيجة للجلد مثل البول والعرق"
+        },
+        {
+          "type": "bullet",
+          "en": "4. To conserve the client's energy.",
+          "ar": "المحافظة على طاقة المريض"
+        },
+        {
+          "type": "bullet",
+          "en": "5. To prevent or avoid microorganisms from contacting the patient.",
+          "ar": "منع الميكروبات من الوصول للمريض"
+        }
+      ]
+    },
+    {
+      "id": 30046,
+      "page": 46,
+      "title_en": "How to Apply Bed Making — YouTube Reference",
+      "title_ar": "كيفية تطبيق تنظيم السرير",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "How to Apply Bed Making?",
+          "ar": "كيفية تطبيق تنظيم السرير؟"
+        },
+        {
+          "type": "subtitle",
+          "en": "(Unoccupied & Occupied)",
+          "ar": "(فارغ ومع مريض)"
+        },
+        {
+          "type": "bilingual",
+          "en": "Enter on YouTube site and search for:",
+          "ar": "يرجى الدخول على اليوتيوب وكتابة:"
+        },
+        {
+          "type": "formula",
+          "en": "🔎  Occupied and unoccupied bed making"
+        },
+        {
+          "type": "bilingual",
+          "en": "To learn how to arrange the bed and change the linen whether the patient is in bed or not.",
+          "ar": "لتتعلم كيفية ترتيب السرير وتغيير الشراشف سواء كان المريض موجوداً على السرير أم لا"
+        }
+      ]
+    },
+    {
+      "id": 30047,
+      "page": 47,
+      "title_en": "Common Patient Positions",
+      "title_ar": "الوضعيات الشائعة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Positions",
+          "ar": "الوضعيات"
+        },
+        {
+          "type": "subtitle",
+          "en": "Common Positions",
+          "ar": "الوضعيات الشائعة"
+        },
+        {
+          "type": "bullet",
+          "en": "I.    Supine position",
+          "ar": "وضعية الاستلقاء على الظهر"
+        },
+        {
+          "type": "bullet",
+          "en": "II.   Fowler position",
+          "ar": "الوضعية القريبة من الجلوس"
+        },
+        {
+          "type": "bullet",
+          "en": "III.  Semi-Fowler position",
+          "ar": "الوضعية القريبة من الاستلقاء"
+        },
+        {
+          "type": "bullet",
+          "en": "IV.  Sitting position",
+          "ar": "وضعية الجلوس"
+        },
+        {
+          "type": "bullet",
+          "en": "V.   Lateral position",
+          "ar": "وضعية النوم على الجانب"
+        },
+        {
+          "type": "bullet",
+          "en": "VI.  Prone position",
+          "ar": "وضعية النوم على البطن"
+        },
+        {
+          "type": "bullet",
+          "en": "VII. Trendelenburg position (Shock position)",
+          "ar": "وضعية ترندلنبرغ (وضعية الصدمة)"
+        }
+      ]
+    },
+    {
+      "id": 30048,
+      "page": 48,
+      "title_en": "Supine Position (Image)",
+      "title_ar": "وضعية الاستلقاء على الظهر — صورة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Supine Position — Image Page",
+          "ar": "وضعية الاستلقاء على الظهر — صورة توضيحية"
+        },
+        {
+          "type": "bilingual",
+          "en": "The patient lies flat on their back.",
+          "ar": "المريض يستلقي على ظهره بشكل مستقيم"
+        },
+        {
+          "type": "note",
+          "en": "Image page from original PDF.",
+          "ar": "صفحة صور من الـ PDF الأصلي"
+        }
+      ]
+    },
+    {
+      "id": 30049,
+      "page": 49,
+      "title_en": "Fowler & Semi-Fowler Positions",
+      "title_ar": "وضعيتا فاولر ونصف فاولر",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Fowler Position  &  Semi-Fowler Position",
+          "ar": "وضعية فاولر ووضعية نصف فاولر"
+        },
+        {
+          "type": "subtitle",
+          "en": "Fowler Position",
+          "ar": "وضعية فاولر"
+        },
+        {
+          "type": "bilingual",
+          "en": "Patient on bed with angle 60° – 90°",
+          "ar": "في وضعية الفاولر تكون زاوية السرير من 60 – 90 درجة"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Semi-Fowler Position",
+          "ar": "وضعية نصف فاولر"
+        },
+        {
+          "type": "bilingual",
+          "en": "Patient on bed with angle 30° – 45°",
+          "ar": "في وضعية السيمي فاولر تكون زاوية السرير من 30 – 45 درجة"
+        }
+      ]
+    },
+    {
+      "id": 30050,
+      "page": 50,
+      "title_en": "Sitting Position (Image)",
+      "title_ar": "وضعية الجلوس — صورة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Sitting Position — Image Page",
+          "ar": "وضعية الجلوس — صورة توضيحية"
+        },
+        {
+          "type": "bilingual",
+          "en": "The patient sits upright on the bed.",
+          "ar": "المريض يجلس بشكل عمودي على السرير"
+        },
+        {
+          "type": "note",
+          "en": "Image page from original PDF.",
+          "ar": "صفحة صور من الـ PDF الأصلي"
+        }
+      ]
+    },
+    {
+      "id": 30051,
+      "page": 51,
+      "title_en": "Trendelenburg Position (Shock Position)",
+      "title_ar": "وضعية ترندلنبرغ (وضعية الصدمة)",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Trendelenburg Position",
+          "ar": "وضعية ترندلنبرغ"
+        },
+        {
+          "type": "bullet",
+          "en": "• Patient elevates legs above heart level using the bed.",
+          "ar": "في هذه الوضعية يتم رفع الأرجل أعلى من مستوى القلب"
+        },
+        {
+          "type": "bullet",
+          "en": "• It is also called Shock Position.",
+          "ar": "تُسمى أيضاً وضعية الصدمة"
+        }
+      ]
+    },
+    {
+      "id": 30052,
+      "page": 52,
+      "title_en": "Lateral Position (Image)",
+      "title_ar": "وضعية النوم على الجانب — صورة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Lateral Position — Image Page",
+          "ar": "وضعية النوم على الجانب — صورة توضيحية"
+        },
+        {
+          "type": "bilingual",
+          "en": "The patient lies on their right or left side.",
+          "ar": "المريض يستلقي على جانبه الأيمن أو الأيسر"
+        },
+        {
+          "type": "note",
+          "en": "Image page from original PDF.",
+          "ar": "صفحة صور من الـ PDF الأصلي"
+        }
+      ]
+    },
+    {
+      "id": 30053,
+      "page": 53,
+      "title_en": "Prone Position (Image)",
+      "title_ar": "وضعية النوم على البطن — صورة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Prone Position — Image Page",
+          "ar": "وضعية النوم على البطن — صورة توضيحية"
+        },
+        {
+          "type": "bilingual",
+          "en": "The patient lies face down on the abdomen.",
+          "ar": "المريض يستلقي على بطنه وجهاً للأسفل"
+        },
+        {
+          "type": "note",
+          "en": "Image page from original PDF.",
+          "ar": "صفحة صور من الـ PDF الأصلي"
+        }
+      ]
+    },
+    {
+      "id": 30054,
+      "page": 54,
+      "title_en": "Chapter 5 — Hygiene",
+      "title_ar": "الفصل الخامس — النظافة الشخصية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Fundamental of Nursing (Practice) — Chapter 5",
+          "ar": "أساسيات التمريض العملي — الفصل الخامس"
+        },
+        {
+          "type": "subtitle",
+          "en": "Hygiene",
+          "ar": "النظافة"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "en_only",
+          "en": "Prepared by: Mr. Ahmed Almassri"
+        },
+        {
+          "type": "ar_only",
+          "ar": "إعداد: الأستاذ أحمد المصري"
+        }
+      ]
+    },
+    {
+      "id": 30055,
+      "page": 55,
+      "title_en": "Hygiene — Definition & Activities",
+      "title_ar": "النظافة — التعريف والأنشطة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Hygiene",
+          "ar": "النظافة الشخصية"
+        },
+        {
+          "type": "bilingual",
+          "en": "Hygiene: practices that promote health through personal cleanliness.",
+          "ar": "الهايجين: هي الممارسات التي تعزز الصحة من خلال النظافة الشخصية"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Activities That Foster Hygiene",
+          "ar": "الأنشطة التي تعزز النظافة"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Bathing",
+          "ar": "الاستحمام"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Nails care",
+          "ar": "العناية بالأظافر"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Oral care",
+          "ar": "العناية بنظافة الفم"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Hair care",
+          "ar": "العناية بالشعر"
+        }
+      ]
+    },
+    {
+      "id": 30056,
+      "page": 56,
+      "title_en": "Bathing — Definition & Advantages",
+      "title_ar": "الاستحمام — التعريف والفوائد",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Bathing",
+          "ar": "الاستحمام"
+        },
+        {
+          "type": "bilingual",
+          "en": "Uses a cleansing agent such as soap and water to remove sweat, oil, dirt, and microorganisms from the skin.",
+          "ar": "استخدام مواد التنظيف مثل الصابون والماء لإزالة العرق والزيت والوسخ والميكروبات من الجلد"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Advantages of Bathing",
+          "ar": "مميزات (فوائد) الاستحمام"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Eliminates body odor.",
+          "ar": "التخلص من رائحة الجسم الكريهة"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Reduces the potential of infection.",
+          "ar": "تقليل احتمالية الإصابة بالعدوى"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Stimulates circulation.",
+          "ar": "تحفيز الدورة الدموية"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Provides a refreshed and relaxed feeling.",
+          "ar": "يزود الشعور بالانتعاش والاسترخاء"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Improves self-image.",
+          "ar": "تحسين المظهر الجسمي"
+        }
+      ]
+    },
+    {
+      "id": 30057,
+      "page": 57,
+      "title_en": "Types of Bathing",
+      "title_ar": "أنواع الاستحمام",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Types of Bathing",
+          "ar": "أنواع الاستحمام"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Tub bath or shower.",
+          "ar": "الاستحمام تحت الدوش أو في البانيو"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Partial bathing: washing only those body areas subject to greatest soiling or that are sources of body odor.",
+          "ar": "الاستحمام الجزئي: غسيل فقط أماكن الجسم المعرضة للتلوث أو التي يصدر منها الروائح الكريهة مثل الإبط ومنطقة العانة"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Bed bath: used for dependent (unconscious) persons.",
+          "ar": "الاستحمام على السرير: يُستخدم فقط للمرضى العاجزين أو فاقدي الوعي"
+        }
+      ]
+    },
+    {
+      "id": 30058,
+      "page": 58,
+      "title_en": "Shaving",
+      "title_ar": "الحلاقة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Shaving",
+          "ar": "الحلاقة"
+        },
+        {
+          "type": "bilingual",
+          "en": "Removes unwanted body hair.",
+          "ar": "هي إزالة شعر الجسم غير المرغوب به"
+        },
+        {
+          "type": "bilingual",
+          "en": "Accomplished with an electric or a safety razor.",
+          "ar": "تتم عملية الحلاقة باستخدام ماكينة الحلاقة الكهربائية أو باستخدام شفرة الحلاقة"
+        }
+      ]
+    },
+    {
+      "id": 30059,
+      "page": 59,
+      "title_en": "Oral Hygiene",
+      "title_ar": "نظافة الفم",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Oral Hygiene",
+          "ar": "نظافة الفم"
+        },
+        {
+          "type": "bilingual",
+          "en": "Brushing and flossing the teeth.",
+          "ar": "القيام بتنظيف الأسنان باستخدام الفرشاة"
+        },
+        {
+          "type": "bilingual",
+          "en": "Dentures and bridges require special cleaning and care.",
+          "ar": "طقم الأسنان والجسور تحتاج رعاية خاصة"
+        },
+        {
+          "type": "bilingual",
+          "en": "Oral hygiene: unconscious clients need oral care more frequently than conscious clients.",
+          "ar": "المرضى فاقدو الوعي يحتاجون نظافة الفم بشكل متكرر أكثر من المرضى الواعيين"
+        },
+        {
+          "type": "note",
+          "en": "Preventing aspiration is very important, especially for unconscious patients.",
+          "ar": "منع الاختناق ضروري جداً أثناء نظافة الفم وخاصاً للمرضى فاقدي الوعي"
+        }
+      ]
+    },
+    {
+      "id": 30060,
+      "page": 60,
+      "title_en": "Hair Care",
+      "title_ar": "العناية بالشعر",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Hair Care",
+          "ar": "العناية بالشعر"
+        },
+        {
+          "type": "bullet",
+          "en": "• Use oil on the hair if it is dry.",
+          "ar": "استخدم الزيت إذا كان الشعر جافاً"
+        },
+        {
+          "type": "bullet",
+          "en": "• Braid the hair to help prevent tangles.",
+          "ar": "قم بجدله لمنع تشابكه"
+        },
+        {
+          "type": "bullet",
+          "en": "• Brush the hair slowly to increase circulation of sebum.",
+          "ar": "قم بتمشيطه ببطء لزيادة الدورة الدموية"
+        },
+        {
+          "type": "bullet",
+          "en": "• Use a wide-toothed comb, combing from end to crown.",
+          "ar": "استخدم مشط ذو أسنان واسعة، التمشيط يكون من نهاية الشعر إلى المنبت"
+        },
+        {
+          "type": "bullet",
+          "en": "• Use shampoo to clean hair.",
+          "ar": "استخدم الشامبو لتنظيف الشعر"
+        }
+      ]
+    },
+    {
+      "id": 30061,
+      "page": 61,
+      "title_en": "Nail Care",
+      "title_ar": "العناية بالأظافر",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Nail Care",
+          "ar": "العناية بالأظافر"
+        },
+        {
+          "type": "bilingual",
+          "en": "Keeping the fingernails and toenails clean and trimmed.",
+          "ar": "المحافظة على أظافر اليد وأظافر القدم نظيفة ومقلمة"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Requires extreme caution for:",
+          "ar": "العناية بالأظافر تتم بحذر شديد للحالات التالية:"
+        },
+        {
+          "type": "bullet",
+          "en": "• Clients with diabetes.",
+          "ar": "المرضى المصابون بداء السكري"
+        },
+        {
+          "type": "bullet",
+          "en": "• Clients with thick nails.",
+          "ar": "المرضى ذوو الأظافر السميكة"
+        }
+      ]
+    },
+    {
+      "id": 30062,
+      "page": 62,
+      "title_en": "Bed Bath — Equipment",
+      "title_ar": "أدوات الاستحمام على السرير",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "How to Apply Bed Bath",
+          "ar": "كيفية الاستحمام على السرير"
+        },
+        {
+          "type": "subtitle",
+          "en": "Equipment Required",
+          "ar": "الأدوات المطلوبة"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Wash basin",
+          "ar": "وعاء غسيل"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Soap and dish",
+          "ar": "صابون وغبق"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Wash cloths (sponge)",
+          "ar": "قطعة قماش للغسيل (سفنجة)"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Bath blanket",
+          "ar": "بطانية الاستحمام"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Towel (×2)",
+          "ar": "منشفة عدد 2"
+        },
+        {
+          "type": "bullet",
+          "en": "6. Clean gloves",
+          "ar": "قفازات نظيفة"
+        }
+      ]
+    },
+    {
+      "id": 30063,
+      "page": 63,
+      "title_en": "Bed Bath — Steps 1 & 2",
+      "title_ar": "خطوات الاستحمام على السرير 1 و2",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Bed Bath — Procedure",
+          "ar": "خطوات الاستحمام على السرير"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 1",
+          "ar": "الخطوة 1"
+        },
+        {
+          "type": "bilingual",
+          "en": "Discuss procedure with the client and assess the client's ability to assist in the bathing process.",
+          "ar": "يجب على الممرض أن يشرح للمريض آلية الاستحمام وتقييم المريض هل باستطاعته المساعدة في عملية الاستحمام أو لا"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 2",
+          "ar": "الخطوة 2"
+        },
+        {
+          "type": "bilingual",
+          "en": "Review the client chart for any limitation in physical activity.",
+          "ar": "مراجعة ملف المريض لمعرفة هل مسموح تحريك المريض أو لا"
+        }
+      ]
+    },
+    {
+      "id": 30064,
+      "page": 64,
+      "title_en": "Bed Bath — Steps 3, 4 & 5",
+      "title_ar": "خطوات الاستحمام على السرير 3 و4 و5",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Bed Bath — Procedure (continued)",
+          "ar": "خطوات الاستحمام على السرير (تابع)"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 3",
+          "ar": "الخطوة 3"
+        },
+        {
+          "type": "bilingual",
+          "en": "Bring necessary equipment to the bedside stand.",
+          "ar": "إحضار الأدوات المهمة ووضعها على العربة بجانب السرير"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 4",
+          "ar": "الخطوة 4"
+        },
+        {
+          "type": "bilingual",
+          "en": "Close the curtains around the bed and close the door (provide privacy).",
+          "ar": "المحافظة على خصوصية المريض من خلال إغلاق الستائر المحيطة بالسرير وإغلاق الباب"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 5",
+          "ar": "الخطوة 5"
+        },
+        {
+          "type": "bilingual",
+          "en": "Wash your hands and wear clean gloves.",
+          "ar": "اغسل يديك وارتدِ القفازات النظيفة"
+        }
+      ]
+    },
+    {
+      "id": 30065,
+      "page": 65,
+      "title_en": "Bed Bath — Steps 6, 7 & 8",
+      "title_ar": "خطوات الاستحمام على السرير 6 و7 و8",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Bed Bath — Procedure (continued)",
+          "ar": "خطوات الاستحمام على السرير (تابع)"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 6",
+          "ar": "الخطوة 6"
+        },
+        {
+          "type": "bilingual",
+          "en": "Fill the basin with sufficient amount of warm water (43°C – 46°C).",
+          "ar": "إملاء الوعاء بكمية كافية من الماء الدافئ (بين 43 – 46 درجة مئوية)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 7",
+          "ar": "الخطوة 7"
+        },
+        {
+          "type": "bilingual",
+          "en": "Folding wash cloth around the hand, then place it in the water.",
+          "ar": "قم بطي (لف) قطعة قماش الغسيل على اليد، ثم ضعها في الماء"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 8",
+          "ar": "الخطوة 8"
+        },
+        {
+          "type": "bilingual",
+          "en": "Bathe the client's face, neck, ears, and eyes — avoiding soap in the wash cloth.",
+          "ar": "ابدأ بغسل وجه المريض والرقبة والأذن والعيون مع تجنب الصابون"
+        }
+      ]
+    },
+    {
+      "id": 30066,
+      "page": 66,
+      "title_en": "Bed Bath — Steps 9 to 13",
+      "title_ar": "خطوات الاستحمام على السرير 9 إلى 13",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Bed Bath — Procedure (continued)",
+          "ar": "خطوات الاستحمام على السرير (تابع)"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 9",
+          "ar": "الخطوة 9"
+        },
+        {
+          "type": "bilingual",
+          "en": "Soaking hand in the basin.",
+          "ar": "ضع اليد في الوعاء"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 10",
+          "ar": "الخطوة 10"
+        },
+        {
+          "type": "bilingual",
+          "en": "Washing the chest area including the axilla.",
+          "ar": "قم بغسل منطقة الصدر مع الإبط"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 11",
+          "ar": "الخطوة 11"
+        },
+        {
+          "type": "bilingual",
+          "en": "Washing the abdomen and chest area covered.",
+          "ar": "قم بغسل البطن، وتغطية منطقة الصدر"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 12",
+          "ar": "الخطوة 12"
+        },
+        {
+          "type": "bilingual",
+          "en": "Washing the arms.",
+          "ar": "قم بغسل الذراعين"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 13",
+          "ar": "الخطوة 13"
+        },
+        {
+          "type": "bilingual",
+          "en": "Washing the legs.",
+          "ar": "قم بغسل القدمين"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "note",
+          "en": "Any part of the body that is washed should be dried and covered immediately to maintain the client's privacy.",
+          "ar": "أي جزء من الجسم يتم غسله، يجب تجفيفه وتغطيته مباشرة حفاظاً على خصوصية المريض"
+        }
+      ]
+    },
+    {
+      "id": 30067,
+      "page": 67,
+      "title_en": "Bed Bath — Steps 14 to 19",
+      "title_ar": "خطوات الاستحمام على السرير 14 إلى 19",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Bed Bath — Procedure (continued)",
+          "ar": "خطوات الاستحمام على السرير (تابع)"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 14",
+          "ar": "الخطوة 14"
+        },
+        {
+          "type": "bilingual",
+          "en": "Assist the client to prone position or side line position.",
+          "ar": "مساعدة المريض بوضعه على بطنه أو على جانبه"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 15",
+          "ar": "الخطوة 15"
+        },
+        {
+          "type": "bilingual",
+          "en": "Washing the upper back and lower back.",
+          "ar": "قم بغسل الظهر من الأعلى ومن الأسفل"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 16",
+          "ar": "الخطوة 16"
+        },
+        {
+          "type": "bilingual",
+          "en": "Clean the client's perianal area.",
+          "ar": "قم بتنظيف منطقة العانة"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 17",
+          "ar": "الخطوة 17"
+        },
+        {
+          "type": "bilingual",
+          "en": "Groom the client's hair.",
+          "ar": "قم بتمشيط شعر المريض"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 18",
+          "ar": "الخطوة 18"
+        },
+        {
+          "type": "bilingual",
+          "en": "Change bed linens.",
+          "ar": "قم بتغيير شراشف السرير"
+        },
+        {
+          "type": "subtitle",
+          "en": "Step 19",
+          "ar": "الخطوة 19"
+        },
+        {
+          "type": "bilingual",
+          "en": "Record any significant observations on the client chart.",
+          "ar": "تسجيل أي ملاحظات هامة في ملف المريض"
+        }
+      ]
+    },
+    {
+      "id": 30068,
+      "page": 68,
+      "title_en": "Vital Signs — Chapter Title",
+      "title_ar": "العلامات الحيوية — عنوان الفصل",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Fundamental of Nursing (Practice)",
+          "ar": "أساسيات التمريض العملي"
+        },
+        {
+          "type": "subtitle",
+          "en": "Vital Signs",
+          "ar": "العلامات الحيوية"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "en_only",
+          "en": "Prepared by: Mr. Ahmed Almassri"
+        },
+        {
+          "type": "ar_only",
+          "ar": "إعداد: الأستاذ أحمد المصري"
+        }
+      ]
+    },
+    {
+      "id": 30069,
+      "page": 69,
+      "title_en": "Five Vital Signs",
+      "title_ar": "العلامات الحيوية الخمسة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Vital Signs",
+          "ar": "العلامات الحيوية"
+        },
+        {
+          "type": "bilingual",
+          "en": "There are five vital signs:",
+          "ar": "توجد خمسة علامات حيوية هامة:"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Body temperature",
+          "ar": "درجة الحرارة"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Pulse",
+          "ar": "معدل النبض"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Respiratory rate",
+          "ar": "معدل التنفس"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Blood pressure",
+          "ar": "ضغط الدم"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Pain",
+          "ar": "الألم"
+        }
+      ]
+    },
+    {
+      "id": 30070,
+      "page": 70,
+      "title_en": "When to Measure Vital Signs",
+      "title_ar": "متى نقيس العلامات الحيوية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "When to Measure Vital Signs",
+          "ar": "الحالات التي نقيس فيها العلامات الحيوية"
+        },
+        {
+          "type": "bullet",
+          "en": "A. On admission of the client.",
+          "ar": "عند دخول المريض المستشفى"
+        },
+        {
+          "type": "bullet",
+          "en": "B. According to written medical orders.",
+          "ar": "حسب ما هو مكتوب في ملف المريض"
+        },
+        {
+          "type": "bullet",
+          "en": "C. Once per day when a client is stable.",
+          "ar": "مرة واحدة يومياً إذا كانت حالة المريض مستقرة"
+        },
+        {
+          "type": "bullet",
+          "en": "D. At least every 4 hours when one or more vital signs is abnormal.",
+          "ar": "على الأقل كل أربع ساعات عندما يكون علامة حيوية واحدة أو أكثر غير طبيعية"
+        },
+        {
+          "type": "bullet",
+          "en": "E. Every 5 to 15 minutes when a client is unstable (e.g., after surgery).",
+          "ar": "كل 5 إلى 15 دقيقة عندما تكون حالة المريض غير مستقرة مثلاً بعد العملية"
+        },
+        {
+          "type": "bullet",
+          "en": "F. When a client is feeling unusual.",
+          "ar": "عندما يشعر المريض بأنه غير طبيعي"
+        },
+        {
+          "type": "bullet",
+          "en": "G. Before, during, and after blood transfusion.",
+          "ar": "قبل وأثناء وبعد نقل الدم"
+        }
+      ]
+    },
+    {
+      "id": 30071,
+      "page": 71,
+      "title_en": "Body Temperature — Overview",
+      "title_ar": "درجة حرارة الجسم — نظرة عامة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Body Temperature",
+          "ar": "درجة حرارة الجسم (أولاً)"
+        },
+        {
+          "type": "bilingual",
+          "en": "Refers to the warmth of the human body.",
+          "ar": "هي دفء جسم الإنسان"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "I. Shell Temperature",
+          "ar": "حرارة الجسم السطحية"
+        },
+        {
+          "type": "bilingual",
+          "en": "The warmth at the skin surface.",
+          "ar": "هو الدفء الذي يكون على سطح الجلد"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "II. Core Temperature",
+          "ar": "حرارة الجسم الداخلية"
+        },
+        {
+          "type": "bilingual",
+          "en": "The warmth in deeper sites within the body like the brain and heart.",
+          "ar": "هو دفء الأماكن العميقة داخل الجسم مثل الدماغ والقلب"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "note",
+          "en": "Shell temperature is usually lower than core temperature.",
+          "ar": "حرارة الجسم السطحية في العادة أقل من حرارة الجسم الداخلية"
+        }
+      ]
+    },
+    {
+      "id": 30072,
+      "page": 72,
+      "title_en": "Normal Body Temperature & Hypothalamus",
+      "title_ar": "درجة الحرارة الطبيعية وتحت المهاد",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Normal Body Temperature",
+          "ar": "حرارة الجسم الطبيعية"
+        },
+        {
+          "type": "bilingual",
+          "en": "In normal, shell temperature generally ranges from 35.8°C to 37.4°C.",
+          "ar": "معدل درجة حرارة الجسم الطبيعية يتراوح من 35.8 إلى 37.4 درجة مئوية"
+        },
+        {
+          "type": "note",
+          "en": "⭐ Important: All students must memorize the normal range (35.8 – 37.4).",
+          "ar": "⭐ ملاحظة هامة: يجب على جميع الطلبة حفظ المعدل الطبيعي للحرارة (35.8 – 37.4)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Temperature Regulation",
+          "ar": "تنظيم حرارة الجسم"
+        },
+        {
+          "type": "bilingual",
+          "en": "Hypothalamus: \"a structure within the brain that regulates temperature.\"",
+          "ar": "تحت المهاد: هي غدة موجودة داخل الدماغ مسؤولة عن تنظيم حرارة الجسم"
+        }
+      ]
+    },
+    {
+      "id": 30073,
+      "page": 73,
+      "title_en": "Assessment Sites for Temperature",
+      "title_ar": "أماكن قياس درجة الحرارة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Assessment Sites for Temperature",
+          "ar": "أماكن قياس درجة الحرارة"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Oral Site",
+          "ar": "قياس الحرارة عن طريق الفم"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Rectal Site",
+          "ar": "قياس الحرارة عن طريق كتحة الشرج"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Axillary Site",
+          "ar": "قياس الحرارة عن طريق الإبط"
+        },
+        {
+          "type": "bullet",
+          "en": "4. The Ear (Tympanic Membrane)",
+          "ar": "قياس الحرارة عن طريق الأذن"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Temporal (Forehead)",
+          "ar": "قياس الحرارة عن طريق جبهة الرأس"
+        }
+      ]
+    },
+    {
+      "id": 30074,
+      "page": 74,
+      "title_en": "Oral Temperature Site",
+      "title_ar": "قياس الحرارة عن طريق الفم",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "1. Oral Site",
+          "ar": "قياس الحرارة عن طريق الفم"
+        },
+        {
+          "type": "bilingual",
+          "en": "Proximal to sublingual artery. Duration: 3–5 minutes.",
+          "ar": "يتم وضع ميزان الحرارة تحت اللسان لمدة 3 إلى 5 دقائق"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Contraindications",
+          "ar": "موانع القياس عن طريق الفم"
+        },
+        {
+          "type": "bullet",
+          "en": "• Uncooperative patient",
+          "ar": "إذا كان المريض غير متعاون"
+        },
+        {
+          "type": "bullet",
+          "en": "• Unconscious patient",
+          "ar": "إذا كان المريض فاقد الوعي"
+        },
+        {
+          "type": "bullet",
+          "en": "• Very young children",
+          "ar": "إذا كان المريض طفلاً صغيراً"
+        },
+        {
+          "type": "bullet",
+          "en": "• Those who have oral surgery",
+          "ar": "إذا كان المريض لديه عملية في الفم"
+        },
+        {
+          "type": "bullet",
+          "en": "• Mouth breathers (e.g., nasal congestion)",
+          "ar": "إذا كان المريض يتنفس من الفم (يعاني من الزكام)"
+        },
+        {
+          "type": "bullet",
+          "en": "• Those prone to seizures",
+          "ar": "إذا كان المريض يعاني من التشنجات"
+        }
+      ]
+    },
+    {
+      "id": 30075,
+      "page": 75,
+      "title_en": "Rectal Temperature Site",
+      "title_ar": "قياس الحرارة عن طريق كتحة الشرج",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "2. Rectal Site",
+          "ar": "قياس الحرارة عن طريق كتحة الشرج"
+        },
+        {
+          "type": "bullet",
+          "en": "✅ Most accurate site for measuring temperature especially in children.",
+          "ar": "تُعتبر من أكثر الأماكن دقة لقياس درجة الحرارة وخاصة عند الأطفال"
+        },
+        {
+          "type": "bullet",
+          "en": "⚠️  This site may be embarrassing for the patient.",
+          "ar": "هذا المكان يُسبب إحراجاً للمريض"
+        },
+        {
+          "type": "bullet",
+          "en": "📊 0.5°C higher than oral.",
+          "ar": "أكبر من حرارة الفم بنصف درجة"
+        },
+        {
+          "type": "bullet",
+          "en": "⏱️  Duration: 1 minute.",
+          "ar": "مدة القياس: دقيقة واحدة"
+        }
+      ]
+    },
+    {
+      "id": 30076,
+      "page": 76,
+      "title_en": "Axillary Temperature Site",
+      "title_ar": "قياس الحرارة عن طريق الإبط",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "3. Axillary Site (Under Arm)",
+          "ar": "قياس الحرارة عن طريق الإبط (تحت الذراع)"
+        },
+        {
+          "type": "bullet",
+          "en": "📊 0.5°C lower than oral.",
+          "ar": "أقل من حرارة الفم بنصف درجة"
+        },
+        {
+          "type": "bullet",
+          "en": "✅ Best site for adults, infants, and newborns.",
+          "ar": "من أفضل الأماكن لقياس درجة الحرارة عند البالغين والرضع والمواليد الجدد"
+        },
+        {
+          "type": "bullet",
+          "en": "✅ Accessible.",
+          "ar": "سهل الوصول"
+        },
+        {
+          "type": "bullet",
+          "en": "✅ Safe, low infection risk.",
+          "ar": "آمن، احتمالية نقل العدوى قليل"
+        },
+        {
+          "type": "bullet",
+          "en": "✅ Less embarrassing for the patient.",
+          "ar": "أقل إحراجاً للمريض"
+        },
+        {
+          "type": "bullet",
+          "en": "⏱️  Duration: 3–5 minutes.",
+          "ar": "مدة القياس: 3 إلى 5 دقائق"
+        }
+      ]
+    },
+    {
+      "id": 30077,
+      "page": 77,
+      "title_en": "Ear (Tympanic) Temperature Site",
+      "title_ar": "قياس الحرارة عن طريق الأذن",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "4. The Ear (Tympanic Membrane)",
+          "ar": "قياس الحرارة عن طريق الأذن"
+        },
+        {
+          "type": "bullet",
+          "en": "✅ Tympanic membrane near hypothalamus (temperature regulator).",
+          "ar": "غشاء طبلة الأذن قريب من الغدة تحت المهاد (منظم الحرارة)"
+        },
+        {
+          "type": "bullet",
+          "en": "✅ More reliable than oral and axilla (but less than rectal).",
+          "ar": "يُعتبر أكثر دقة (وثوقاً) من الفم والإبط (ولكنه أقل دقة من كتحة الشرج)"
+        },
+        {
+          "type": "bullet",
+          "en": "⚡ Fastest site for measuring temperature.",
+          "ar": "الأكثر سرعة لقياس الحرارة"
+        },
+        {
+          "type": "bullet",
+          "en": "⏱️  Duration: seconds (requires a special electronic device).",
+          "ar": "مدة القياس: ثوانٍ (يتم استعمال جهاز خاص إلكتروني وليس الموازين العادية)"
+        }
+      ]
+    },
+    {
+      "id": 30078,
+      "page": 78,
+      "title_en": "Forehead (Temporal) Temperature Site",
+      "title_ar": "قياس الحرارة عن طريق جبهة الرأس",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "5. Forehead (Temporal)",
+          "ar": "قياس الحرارة عن طريق جبهة الرأس"
+        },
+        {
+          "type": "bullet",
+          "en": "📍 Measures temporal artery.",
+          "ar": "يقيس حرارة الشريان الصدغي"
+        },
+        {
+          "type": "bullet",
+          "en": "🔌 Requires electronic equipment.",
+          "ar": "يحتاج جهاز إلكتروني"
+        },
+        {
+          "type": "bullet",
+          "en": "✅ Safe and fast.",
+          "ar": "آمن وسريع"
+        },
+        {
+          "type": "bullet",
+          "en": "⚠️  Non-accurate.",
+          "ar": "غير دقيق"
+        },
+        {
+          "type": "bullet",
+          "en": "⏱️  Duration: seconds (2–60 seconds depending on device).",
+          "ar": "مدة القياس: ثوانٍ (2 – 60 ثانية حسب الجهاز المستخدم)"
+        }
+      ]
+    },
+    {
+      "id": 30079,
+      "page": 79,
+      "title_en": "Important Notes on Temperature Measurement",
+      "title_ar": "ملاحظات هامة على قياس الحرارة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Important Notes",
+          "ar": "ملاحظات هامة"
+        },
+        {
+          "type": "bullet",
+          "en": "📍 Mouth → document reading as is (no change).",
+          "ar": "عند قياس الحرارة عن طريق الفم → تبقى القراءة كما هي"
+        },
+        {
+          "type": "bullet",
+          "en": "📍 Axilla or Forehead → add 0.5°C  (+0.5).",
+          "ar": "عند قياس الحرارة عن طريق الإبط أو جبهة الرأس → يتم إضافة نصف درجة (+0.5)"
+        },
+        {
+          "type": "bullet",
+          "en": "📍 Rectum or Ear → subtract 0.5°C  (−0.5).",
+          "ar": "عند قياس الحرارة عن طريق كتحة الشرج أو الأذن → يتم خصم نصف درجة (−0.5)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "ar_only",
+          "ar": "أ. أحمد المصري *** كلية التمريض *** الجامعة الإسلامية غزة"
+        }
+      ]
+    },
+    {
+      "id": 30080,
+      "page": 80,
+      "title_en": "Temperature Measurement Examples",
+      "title_ar": "أمثلة على قياس درجة الحرارة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Important Notes — Examples",
+          "ar": "ملاحظات هامة — أمثلة"
+        },
+        {
+          "type": "subtitle",
+          "en": "Example 1",
+          "ar": "مثال (1)"
+        },
+        {
+          "type": "bilingual",
+          "en": "When measuring Mohammed's temperature via the axilla, the reading was 36.6°C.\nTherefore, Mohammed's actual temperature = 36.6 + 0.5 = 37.1°C\n→ Document in chart: 37.1",
+          "ar": "عند قياس درجة حرارة محمد عن طريق الإبط وكانت القراءة 36.6\nفإن درجة الحرارة الحقيقية لمحمد هي 37.1 ويتم تسجيلها في ملف المريض 37.1"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Example 2",
+          "ar": "مثال (2)"
+        },
+        {
+          "type": "bilingual",
+          "en": "When measuring Omar's temperature via the rectum, the reading was 37.4°C.\nTherefore, Omar's actual temperature = 37.4 − 0.5 = 36.9°C\n→ Document in chart: 36.9",
+          "ar": "عند قياس درجة حرارة عمر عن طريق كتحة الشرج وكانت القراءة 37.4\nفإن درجة الحرارة الحقيقية لعمر هي 36.9 ويتم تسجيلها في ملف المريض 36.9"
+        }
+      ]
+    },
+    {
+      "id": 30081,
+      "page": 81,
+      "title_en": "Clinical Thermometers",
+      "title_ar": "أجهزة قياس الحرارة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Clinical Thermometers",
+          "ar": "أجهزة قياس الحرارة المستخدمة في المستشفيات"
+        },
+        {
+          "type": "bilingual",
+          "en": "Instruments used to measure body temperature:",
+          "ar": "الأجهزة المستخدمة لقياس درجة حرارة الجسم:"
+        },
+        {
+          "type": "bullet",
+          "en": "• Digital thermometer",
+          "ar": "الميزان الرقمي الإلكتروني"
+        },
+        {
+          "type": "bullet",
+          "en": "• Glass thermometer",
+          "ar": "الميزان الزئبقي الزجاجي"
+        },
+        {
+          "type": "bullet",
+          "en": "• Tympanic thermometer",
+          "ar": "جهاز خاص للأذن"
+        },
+        {
+          "type": "bullet",
+          "en": "• Electronic thermometer",
+          "ar": "الجهاز الإلكتروني"
+        },
+        {
+          "type": "bullet",
+          "en": "• Chemical thermometer (rarely used)",
+          "ar": "الشريط الكيميائي (قليل الاستخدام)"
+        }
+      ]
+    },
+    {
+      "id": 30082,
+      "page": 82,
+      "title_en": "Elevated Body Temperature",
+      "title_ar": "ارتفاع حرارة الجسم",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Elevated Body Temperature",
+          "ar": "ارتفاع حرارة الجسم"
+        },
+        {
+          "type": "subtitle",
+          "en": "Fever",
+          "ar": "الحمى"
+        },
+        {
+          "type": "bilingual",
+          "en": "Fever: condition in which the body temperature exceeds 37.4°C.",
+          "ar": "الحمى: هي الحالة التي تتجاوز فيها حرارة الجسم 37.4 درجة مئوية"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Pyrexia",
+          "ar": "بيركسيا"
+        },
+        {
+          "type": "bilingual",
+          "en": "Pyrexia: another term for fever — condition in which the temperature is warmer than the normal set point.",
+          "ar": "بيركسيا: مصطلح آخر للحمى — الحالة التي تكون فيها حرارة الجسم أكثر دفئاً من الطبيعي"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Hyperthermia",
+          "ar": "هايبرثيرميا"
+        },
+        {
+          "type": "bilingual",
+          "en": "Hyperthermia: condition in which core temperature is excessively high and exceeds 40.6°C.",
+          "ar": "ارتفاع حرارة الجسم: هي الحالة التي تتجاوز فيها حرارة الجسم 40.6 درجة مئوية"
+        }
+      ]
+    },
+    {
+      "id": 30083,
+      "page": 83,
+      "title_en": "Nursing Management of Elevated Temperature",
+      "title_ar": "التدخلات التمريضية لارتفاع الحرارة",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Nursing Interventions — Elevated Temperature",
+          "ar": "الإجراءات التمريضية في حالة ارتفاع درجة الحرارة"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Increase fluids intake.",
+          "ar": "تشجيع المريض على زيادة شرب السوائل"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Rest.",
+          "ar": "تشجيع المريض على الراحة"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Antipyretics.",
+          "ar": "إعطاء المريض أدوية خافضة للحرارة"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Provide low caloric diet.",
+          "ar": "تناول الأطعمة ذات السعرات الحرارية القليلة"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Cold compresses (on forehead, axillary, groin/pelvic area).",
+          "ar": "وضع كمادات ماء باردة على جبهة الرأس أو الإبط أو على الحوض"
+        },
+        {
+          "type": "bullet",
+          "en": "6. Increase room ventilation.",
+          "ar": "زيادة تهوية الغرفة"
+        },
+        {
+          "type": "bullet",
+          "en": "7. Remove extra clothes.",
+          "ar": "تشجيع المريض على تخفيف الملابس"
+        }
+      ]
+    },
+    {
+      "id": 30084,
+      "page": 84,
+      "title_en": "Hypothermia & Nursing Management",
+      "title_ar": "انخفاض الحرارة والتدخلات التمريضية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Hypothermia",
+          "ar": "انخفاض حرارة الجسم"
+        },
+        {
+          "type": "bilingual",
+          "en": "Core body temperature less than 35°C.",
+          "ar": "هي الحالة التي يكون فيها حرارة الجسم الداخلية أقل من 35 درجة مئوية"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Nursing Management",
+          "ar": "التدخلات التمريضية"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Raise room temperature.",
+          "ar": "رفع حرارة الغرفة"
+        },
+        {
+          "type": "bullet",
+          "en": "2. More clothes and covers.",
+          "ar": "ارتداء ملابس ووضع أغطية إضافية"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Provide warm fluids.",
+          "ar": "تشجيع المريض على شرب السوائل الدافئة"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Massage the skin to produce warmth.",
+          "ar": "عمل مساج لتدفئة الجسم"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Warm compresses.",
+          "ar": "استعمال كمادات ماء دافئة"
+        }
+      ]
+    },
+    {
+      "id": 30085,
+      "page": 85,
+      "title_en": "Pulse — Definition & Normal Rate",
+      "title_ar": "النبض — التعريف والمعدل الطبيعي",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Pulse",
+          "ar": "النبض (ثانياً)"
+        },
+        {
+          "type": "bilingual",
+          "en": "Wave-like sensation that can be palpated in peripheral arteries.",
+          "ar": "النبض هو عبارة عن إحساس يشبه الموجة يمكن لمسه في الشرايين الطرفية"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Pulse Rate",
+          "ar": "معدل النبض"
+        },
+        {
+          "type": "bilingual",
+          "en": "Number of peripheral pulsations in a minute.",
+          "ar": "هو عدد النبضات الطرفية في الدقيقة الواحدة"
+        },
+        {
+          "type": "bilingual",
+          "en": "The normal pulse rate for adults: 60 to 100 beats per minute at rest.",
+          "ar": "معدل النبض الطبيعي عند البالغين: من 60 إلى 100 نبضة في الدقيقة"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "formula",
+          "en": "Pulse Rate  =  Heart Rate"
+        }
+      ]
+    },
+    {
+      "id": 30086,
+      "page": 86,
+      "title_en": "Abnormal Pulse Rate",
+      "title_ar": "معدل النبض غير الطبيعي",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Abnormal Pulse Rate",
+          "ar": "معدل النبض غير الطبيعي"
+        },
+        {
+          "type": "subtitle",
+          "en": "1. Rapid Pulse Rate",
+          "ar": "معدل النبض السريع"
+        },
+        {
+          "type": "bullet",
+          "en": "• Tachycardia: heart rate more than 100 b/min for adults.",
+          "ar": "تكيكارديا: هي الحالة التي يكون فيها معدل النبض أكثر من 100 نبضة في الدقيقة عند البالغين"
+        },
+        {
+          "type": "bullet",
+          "en": "• Palpitation: awareness of one's own heartbeat.",
+          "ar": "الخفقان: هو شعور الشخص بنبض قلبه"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "2. Slow Pulse Rate",
+          "ar": "معدل النبض البطيء"
+        },
+        {
+          "type": "bullet",
+          "en": "• Bradycardia: heart rate less than 60 b/min for adults.",
+          "ar": "براديكارديا: هي الحالة التي يكون فيها معدل النبض أقل من 60 نبضة في الدقيقة عند البالغين"
+        }
+      ]
+    },
+    {
+      "id": 30087,
+      "page": 87,
+      "title_en": "Normal Pulse Rates by Age",
+      "title_ar": "معدل النبض الطبيعي حسب العمر",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Normal Pulse Rates per Minute at Various Ages",
+          "ar": "معدل النبض الطبيعي حسب العمر"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Age / العمر",
+            "Range / المدى",
+            "Average / المتوسط"
+          ],
+          "rows": [
+            [
+              "Newborn / المواليد الجدد",
+              "120–160",
+              "140"
+            ],
+            [
+              "1–12 months / 1–12 شهر",
+              "100–140",
+              "120"
+            ],
+            [
+              "1–2 years / 1–2 سنة",
+              "90–130",
+              "110"
+            ],
+            [
+              "3–6 years / 3–6 سنوات",
+              "80–120",
+              "100"
+            ],
+            [
+              "7–12 years / 7–12 سنة",
+              "75–115",
+              "95"
+            ],
+            [
+              "Adolescence / المراهقون",
+              "60–100",
+              "80"
+            ],
+            [
+              "Adulthood / البالغون",
+              "60–100",
+              "80"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30088,
+      "page": 88,
+      "title_en": "Pulse Assessment Techniques",
+      "title_ar": "تقنيات تقييم النبض",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Pulse Assessment Techniques",
+          "ar": "تقنيات تقييم النبض"
+        },
+        {
+          "type": "subtitle",
+          "en": "Primary Pulse Assessment Site",
+          "ar": "المكان الأساسي لقياس النبض"
+        },
+        {
+          "type": "bilingual",
+          "en": "Radial artery — located at inner (thumb) side of the wrist.",
+          "ar": "الشريان الكعبري — موجود بمحاذاة الإبهام في الرسغ"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Pulse Deficit",
+          "ar": "مقدار العجز في النبض"
+        },
+        {
+          "type": "bilingual",
+          "en": "Difference between the apical and radial pulse rate.",
+          "ar": "هو الفرق بين معدل النبض المقاط من القلب مباشرة ومعدل النبض المقاط من الشريان الكعبري"
+        },
+        {
+          "type": "formula",
+          "en": "Pulse Deficit  =  Apical Pulse  −  Radial Pulse"
+        }
+      ]
+    },
+    {
+      "id": 30089,
+      "page": 89,
+      "title_en": "Peripheral Pulse Sites",
+      "title_ar": "أماكن قياس النبض",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Peripheral Pulse Sites",
+          "ar": "أماكن قياس النبض"
+        },
+        {
+          "type": "note",
+          "en": "Students must memorize ALL of the following sites.",
+          "ar": "يرجى من الطلبة حفظ جميع هذه الأماكن غيباً"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Temporal",
+          "ar": "الصدغي"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Radial",
+          "ar": "الكعبري"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Carotid",
+          "ar": "السباتي"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Femoral",
+          "ar": "الفخذي"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Brachial",
+          "ar": "العضدي"
+        },
+        {
+          "type": "bullet",
+          "en": "6. Posterior tibial",
+          "ar": "الظنبوبي الخلفي"
+        },
+        {
+          "type": "bullet",
+          "en": "7. Dorsalis pedis",
+          "ar": "ظهر القدم"
+        },
+        {
+          "type": "bullet",
+          "en": "8. Popliteal",
+          "ar": "المأبضي"
+        },
+        {
+          "type": "bullet",
+          "en": "9. Apical",
+          "ar": "القمي"
+        }
+      ]
+    },
+    {
+      "id": 30090,
+      "page": 90,
+      "title_en": "Respiration — Definition & Ventilation",
+      "title_ar": "التنفس — التعريف والتهوية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Respiration",
+          "ar": "التنفس (ثالثاً)"
+        },
+        {
+          "type": "bilingual",
+          "en": "Exchange of oxygen and carbon dioxide.",
+          "ar": "التنفس هي عملية تبادل الأكسجين وثاني أكسيد الكربون"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Ventilation",
+          "ar": "التهوية / النفَس الكامل"
+        },
+        {
+          "type": "bilingual",
+          "en": "Movement of air in and out of chest.",
+          "ar": "هو دخول الهواء وخروجه من الصدر"
+        },
+        {
+          "type": "formula",
+          "en": "Ventilation  =  Inspiration (شهيق)  +  Expiration (زفير)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Respiratory Rate",
+          "ar": "معدل التنفس"
+        },
+        {
+          "type": "bilingual",
+          "en": "Number of ventilations per minute.",
+          "ar": "هو عدد الأنفاس في الدقيقة الواحدة"
+        }
+      ]
+    },
+    {
+      "id": 30091,
+      "page": 91,
+      "title_en": "Normal & Abnormal Respiratory Rate",
+      "title_ar": "معدل التنفس الطبيعي وغير الطبيعي",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Respiration",
+          "ar": "التنفس (تابع)"
+        },
+        {
+          "type": "subtitle",
+          "en": "Normal Respiratory Rate",
+          "ar": "معدل التنفس الطبيعي"
+        },
+        {
+          "type": "bullet",
+          "en": "• Adults: 12–20 breaths/minute at rest.",
+          "ar": "معدل التنفس الطبيعي عند البالغين: من 12 إلى 20 نفساً في الدقيقة"
+        },
+        {
+          "type": "bullet",
+          "en": "• Children: 15–25 breaths/minute at rest.",
+          "ar": "معدل التنفس الطبيعي عند الأطفال: من 15 إلى 25 نفساً في الدقيقة"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Abnormal Respiratory Rate",
+          "ar": "معدل التنفس غير الطبيعي"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Tachypnea: rapid respiratory rate (above normal).",
+          "ar": "تاكي بنيا: هي الحالة التي يكون فيها معدل التنفس أعلى من المعدل الطبيعي"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Bradypnea: slow respiratory rate (below normal).",
+          "ar": "برادي بنيا: هي الحالة التي يكون فيها معدل التنفس أقل من المعدل الطبيعي"
+        }
+      ]
+    },
+    {
+      "id": 30092,
+      "page": 92,
+      "title_en": "Abnormal Breathing Characteristics",
+      "title_ar": "سمات التنفس غير الطبيعية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Abnormal Breathing Characteristics",
+          "ar": "سمات التنفس غير الطبيعية"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Hyperventilation: rapid or deep breathing or both.",
+          "ar": "فرط التنفس: التنفس بعمق أو بسرعة أو كلاهما"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Hypoventilation: diminished breathing.",
+          "ar": "انعدام / تعائل التنفس: تعائل عملية التنفس"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Dyspnea: difficult or labored breathing.",
+          "ar": "عسر التنفس (دسبنيا): هي صعوبة التنفس"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Orthopnea: breathing that is facilitated by sitting or standing position (difficult when lying).",
+          "ar": "تنفس الجلوس (أورثوبنيا): الحالة التي تكون فيها عملية التنفس سهلة في وضعية الجلوس أو الوقوف وتكون صعبة في وضعية النوم على الظهر"
+        },
+        {
+          "type": "bullet",
+          "en": "5. Apnea: absence of breathing.",
+          "ar": "انقطاع التنفس (أبنيا): عدم التنفس"
+        }
+      ]
+    },
+    {
+      "id": 30093,
+      "page": 93,
+      "title_en": "Blood Pressure — Definition & Blood Volume",
+      "title_ar": "ضغط الدم — التعريف وحجم الدم",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Blood Pressure",
+          "ar": "ضغط الدم (رابعاً)"
+        },
+        {
+          "type": "bilingual",
+          "en": "Force that the blood exerts within the arteries.",
+          "ar": "هي القوة التي يبذلها الدم داخل الشرايين"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Circulating Blood Volume",
+          "ar": "حجم الدم المتداول"
+        },
+        {
+          "type": "bullet",
+          "en": "• Adult women: 4.5–5.5 liters",
+          "ar": "النساء البالغات: 4.5 – 5.5 لتر"
+        },
+        {
+          "type": "bullet",
+          "en": "• Adult men: 5.0–6.0 liters",
+          "ar": "الرجال البالغون: 5 – 6 لتر"
+        },
+        {
+          "type": "bullet",
+          "en": "• Lower volumes → decrease in blood pressure",
+          "ar": "نقصان حجم الدم → يسبب هبوطاً في ضغط الدم"
+        },
+        {
+          "type": "bullet",
+          "en": "• Excess volumes → increase in blood pressure",
+          "ar": "زيادة حجم الدم → يسبب زيادة في ضغط الدم"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Cardiac Output",
+          "ar": "كارديات أوت بوت"
+        },
+        {
+          "type": "bilingual",
+          "en": "Volume of blood ejected from the heart per minute.",
+          "ar": "هو حجم الدم الذي ينبع من القلب في الدقيقة الواحدة"
+        }
+      ]
+    },
+    {
+      "id": 30094,
+      "page": 94,
+      "title_en": "Cardiac Output Formula",
+      "title_ar": "معادلة حجم الدم القلبي",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Blood Pressure — Cardiac Output",
+          "ar": "ضغط الدم — حجم الدم القلبي"
+        },
+        {
+          "type": "bilingual",
+          "en": "Cardiac output (CO) per minute = heart rate (HR) per minute × stroke volume (SV).",
+          "ar": "حجم الدم الذي ينبع من القلب في الدقيقة الواحدة = معدل نبض القلب × حجم الضربة"
+        },
+        {
+          "type": "formula",
+          "en": "CO / min  =  HR / min  ×  SV (70 ml)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Stroke Volume",
+          "ar": "ستوك فوليوم"
+        },
+        {
+          "type": "bilingual",
+          "en": "Volume of blood ejected from the heart per beat ≈ 70 ml.",
+          "ar": "هو حجم الدم الذي ينبع من القلب في كل نبضة ويساوي تقريباً 70 مل من الدم"
+        }
+      ]
+    },
+    {
+      "id": 30095,
+      "page": 95,
+      "title_en": "Factors Affecting Blood Pressure (1)",
+      "title_ar": "العوامل المؤثرة على ضغط الدم (1)",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Factors Affecting Blood Pressure",
+          "ar": "العوامل التي تؤثر على ضغط الدم"
+        },
+        {
+          "type": "bullet",
+          "en": "1. Age: increased age → increased BP (due to atherosclerosis).",
+          "ar": "العمر: ازدياد العمر يؤدي إلى زيادة ضغط الدم بسبب تصلب الشرايين"
+        },
+        {
+          "type": "bullet",
+          "en": "2. Gender: women tend to have lower BP than men of the same age.",
+          "ar": "الجنس: ضغط الدم عند النساء غالباً أقل من الرجال لنفس الفئة العمرية"
+        },
+        {
+          "type": "bullet",
+          "en": "3. Exercise and activity: BP raised during exercise and activity.",
+          "ar": "التمارين الرياضية: ضغط الدم يزداد أثناء ممارسة التمارين الرياضية والنشاط"
+        },
+        {
+          "type": "bullet",
+          "en": "4. Emotions and pain: strong emotions tend to raise BP.",
+          "ar": "الألم والقلق والعواطف والتوتر: تؤدي إلى زيادة ضغط الدم"
+        }
+      ]
+    },
+    {
+      "id": 30096,
+      "page": 96,
+      "title_en": "Factors Affecting Blood Pressure (2)",
+      "title_ar": "العوامل المؤثرة على ضغط الدم (2)",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Factors Affecting Blood Pressure (continued)",
+          "ar": "العوامل التي تؤثر على ضغط الدم (تابع)"
+        },
+        {
+          "type": "bullet",
+          "en": "• BP is lower when lying down than when sitting or standing.",
+          "ar": "ضغط الدم يكون أقل بوضعية النوم على الظهر من الجلوس أو الوقوف"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "BP is higher in the following cases:",
+          "ar": "ضغط الدم يكون مرتفعاً في الحالات التالية:"
+        },
+        {
+          "type": "bullet",
+          "en": "• When urinary bladder is full.",
+          "ar": "عندما تكون مثانة البول ممتلئة"
+        },
+        {
+          "type": "bullet",
+          "en": "• When the legs are crossed.",
+          "ar": "عندما يكون الساقان كول بعض"
+        },
+        {
+          "type": "bullet",
+          "en": "• When the person is cold.",
+          "ar": "عندما يكون الشخص بارداً"
+        },
+        {
+          "type": "bullet",
+          "en": "• When drugs that stimulate the heart are taken.",
+          "ar": "عند تناول الأدوية التي تحفز القلب"
+        }
+      ]
+    },
+    {
+      "id": 30097,
+      "page": 97,
+      "title_en": "Blood Pressure Measurements",
+      "title_ar": "قياسات ضغط الدم",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Blood Pressure Measurements",
+          "ar": "قياسات ضغط الدم"
+        },
+        {
+          "type": "subtitle",
+          "en": "Systolic Pressure",
+          "ar": "ضغط الدم الانقباضي"
+        },
+        {
+          "type": "bilingual",
+          "en": "Pressure within the arterial system when the heart contracts.",
+          "ar": "هو الضغط داخل الشرايين عندما يكون القلب منقبضاً"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Diastolic Pressure",
+          "ar": "ضغط الدم الانبساطي"
+        },
+        {
+          "type": "bilingual",
+          "en": "Pressure when the heart relaxes and fills with blood.",
+          "ar": "هو الضغط داخل الشرايين عندما يكون القلب مرتخياً ويمتلئ بالدم"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Pulse Pressure",
+          "ar": "ضغط النبض"
+        },
+        {
+          "type": "bilingual",
+          "en": "Difference between systolic and diastolic blood pressure.",
+          "ar": "هو الفرق بين ضغط الدم الانقباضي وضغط الدم الانبساطي"
+        },
+        {
+          "type": "formula",
+          "en": "Pulse Pressure  =  Systolic  −  Diastolic"
+        }
+      ]
+    },
+    {
+      "id": 30098,
+      "page": 98,
+      "title_en": "Blood Pressure Assessment Sites",
+      "title_ar": "أماكن قياس ضغط الدم",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Assessment Sites",
+          "ar": "أماكن قياس ضغط الدم"
+        },
+        {
+          "type": "bilingual",
+          "en": "Usually assessed from the brachial artery (most commonly used).",
+          "ar": "في العادة يتم قياس الضغط من الشريان العضدي (الأكثر استخداماً)"
+        },
+        {
+          "type": "bilingual",
+          "en": "Radial artery may also be used.",
+          "ar": "قد يتم قياس الضغط من الشريان الكعبري أيضاً"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Popliteal artery (behind the knee) is used when:",
+          "ar": "يتم قياس الضغط من الشريان المأبضي خلف الركبة في الحالات التالية:"
+        },
+        {
+          "type": "bullet",
+          "en": "• Client's arms are missing.",
+          "ar": "ذراعا المريض مبتوستان"
+        },
+        {
+          "type": "bullet",
+          "en": "• Both of a client's breasts have been removed (mastectomy).",
+          "ar": "استئصال الثديين عند المريضة"
+        },
+        {
+          "type": "bullet",
+          "en": "• Client has had vascular surgery on the arms.",
+          "ar": "إذا كان لدى المريض عملية في أوعية الذراع"
+        }
+      ]
+    },
+    {
+      "id": 30099,
+      "page": 99,
+      "title_en": "Equipment for Measuring Blood Pressure",
+      "title_ar": "أدوات قياس ضغط الدم",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Equipment for Measuring Blood Pressure",
+          "ar": "أدوات قياس ضغط الدم"
+        },
+        {
+          "type": "bullet",
+          "en": "• Sphygmomanometer",
+          "ar": "جهاز ضغط الدم الزئبقي"
+        },
+        {
+          "type": "bullet",
+          "en": "• Aneroid manometer",
+          "ar": "جهاز ضغط الدم الهوائي"
+        },
+        {
+          "type": "bullet",
+          "en": "• Electronic manometer",
+          "ar": "جهاز ضغط الدم الإلكتروني"
+        },
+        {
+          "type": "bullet",
+          "en": "• Inflatable cuff",
+          "ar": "الكفة المنفوخة (ما يوضع على الذراع)"
+        },
+        {
+          "type": "bullet",
+          "en": "• Stethoscope",
+          "ar": "السماعة الطبية"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Korotkoff Sound",
+          "ar": "صوت كوروتكوف"
+        },
+        {
+          "type": "bilingual",
+          "en": "Sound that results from the vibrations of blood within the arterial wall — heard during BP measurement.",
+          "ar": "هو الصوت الذي يتم سماعه أثناء قياس ضغط الدم نتيجة اهتزازات الدم داخل جدار الشريان"
+        }
+      ]
+    },
+    {
+      "id": 30100,
+      "page": 100,
+      "title_en": "Abnormal Blood Pressure Measurements",
+      "title_ar": "قياسات ضغط الدم غير الطبيعية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Abnormal Blood Pressure Measurements",
+          "ar": "قياسات ضغط الدم غير الطبيعية"
+        },
+        {
+          "type": "bilingual",
+          "en": "Blood pressures above or below normal ranges indicate significant health problems.",
+          "ar": "ضغط الدم المرتفع أو المنخفض عن المعدل الطبيعي مؤشر على وجود مشاكل صحية في الجسم"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "bullet",
+          "en": "• Hypertension: high blood pressure.",
+          "ar": "ارتفاع ضغط الدم"
+        },
+        {
+          "type": "bullet",
+          "en": "• Hypotension: low blood pressure.",
+          "ar": "انخفاض ضغط الدم"
+        },
+        {
+          "type": "bullet",
+          "en": "• Postural (Orthostatic) Hypotension: sudden but temporary drop in blood pressure when rising from a reclining position.",
+          "ar": "هبوط ضغط الدم الوضعي: هبوط ضغط الدم بشكل مفاجئ عندما يقوم الشخص بسرعة من وضعية الاستلقاء"
+        }
+      ]
+    },
+    {
+      "id": 30101,
+      "page": 101,
+      "title_en": "Normal Blood Pressure Values",
+      "title_ar": "قيم ضغط الدم الطبيعية",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Blood Pressure (Normal Values)",
+          "ar": "ضغط الدم (القيم الطبيعية)"
+        },
+        {
+          "type": "bilingual",
+          "en": "Blood pressure is expressed in millimeters of mercury (mmHg) as a fraction: Systolic / Diastolic.",
+          "ar": "وحدة قياس ضغط الدم هي mmHg ويتم كتابة القراءة بصورة كسر (SBP/DBP)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Normal Blood Pressure",
+          "ar": "ضغط الدم الطبيعي"
+        },
+        {
+          "type": "formula",
+          "en": "Systolic:   90  –  139  mmHg"
+        },
+        {
+          "type": "formula",
+          "en": "Diastolic: 60  –  89   mmHg"
+        }
+      ]
+    },
+    {
+      "id": 30102,
+      "page": 102,
+      "title_en": "Hypertension & Hypotension Values",
+      "title_ar": "قيم ارتفاع وانخفاض ضغط الدم",
+      "blocks": [
+        {
+          "type": "title",
+          "en": "Blood Pressure (Abnormal Values)",
+          "ar": "ضغط الدم (القيم غير الطبيعية)"
+        },
+        {
+          "type": "subtitle",
+          "en": "Hypertension (ارتفاع ضغط الدم)",
+          "ar": ""
+        },
+        {
+          "type": "formula",
+          "en": "Systolic  ≥  140  mmHg"
+        },
+        {
+          "type": "formula",
+          "en": "Diastolic  ≥  90  mmHg"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "subtitle",
+          "en": "Hypotension (انخفاض ضغط الدم)",
+          "ar": ""
+        },
+        {
+          "type": "formula",
+          "en": "Systolic  ≤  89  mmHg"
+        },
+        {
+          "type": "formula",
+          "en": "Diastolic  ≤  59  mmHg"
+        }
+      ]
+    }
+  ]
+}

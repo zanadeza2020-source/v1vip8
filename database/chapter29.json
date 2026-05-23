@@ -1,0 +1,2819 @@
+{
+  "chapter": 29,
+  "title": "أساسيات التمريض العملي",
+  "title_ar": "أساسيات التمريض العملي",
+  "title_en": "Fundamentals of Nursing Practice",
+  "description": "محتوى كامل وشامل لكتاب أساسيات التمريض العملي 102 صفحة - الأستاذ أحمد المصري - كل صفحة مستخرجة بالكامل مع النطق الصوتي العربي والإنجليزي لكل مصطلح وجملة",
+  "description_en": "Complete 102-page content of Fundamentals of Nursing Practice by Mr. Ahmed Almassri - every page fully extracted with Arabic and English pronunciation for every term and sentence",
+  "terms": [
+    {
+      "id": 29001,
+      "term": "Fundamental of Nursing Practice",
+      "arabic": "أساسيات التمريض العملي",
+      "pronunciation": "أساسِيّات التَّمريض العَملي",
+      "pronunciation_en": "fun-dah-MEN-tal NUR-sing PRAK-tis",
+      "definition": "مادة دراسية تغطي المهارات والمبادئ الأساسية للتمريض العملي إعداد الأستاذ أحمد المصري",
+      "definition_en": "A study course covering essential practical nursing skills prepared by Mr. Ahmed Almassri",
+      "englishSentence": "Fundamental of Nursing Practice covers essential practical nursing skills.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 1,
+      "keywords": [
+        "fundamental of nursing practice",
+        "أساسيات التمريض العملي"
+      ]
+    },
+    {
+      "id": 29002,
+      "term": "Nosocomial Infection",
+      "arabic": "عدوى المستشفيات",
+      "pronunciation": "عَدْوى المُسْتَشْفَيات",
+      "pronunciation_en": "noh-so-KO-mee-al in-FEK-shun",
+      "definition": "هي العدوى التي تُكتسب (تصيب الشخص) بينما الشخص يتلقى الرعاية في المركز الصحي أو المستشفى؛ يجب على الممرضين أن يفهموا وأن يمارسوا الطرق التي تمنع عدوى المستشفيات",
+      "definition_en": "Infections acquired while a person is receiving care in a health care agency; nurses must understand and practice methods to prevent nosocomial infections",
+      "englishSentence": "Nurses must understand and practice methods to prevent nosocomial infections.",
+      "arabicSentence": "",
+      "type": "disease",
+      "chapter": 29,
+      "page": 2,
+      "keywords": [
+        "nosocomial infection",
+        "عدوى المستشفيات"
+      ]
+    },
+    {
+      "id": 29003,
+      "term": "Most Common Types of Microorganisms",
+      "arabic": "أكثر أنواع الميكروبات شيوعاً",
+      "pronunciation": "أكثَر أنواع المَيكروبات شُيوعاً",
+      "pronunciation_en": "mohst KOM-on typz my-kroh-OR-gan-izmz",
+      "definition": "أكثر أنواع الميكروبات شيوعاً هي: 1) البكتيريا، 2) الفيروسات، 3) الفطريات",
+      "definition_en": "The most common types of microorganisms are: 1) Bacteria, 2) Viruses, 3) Fungi",
+      "englishSentence": "The most common types of microorganisms are bacteria, viruses, and fungi.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 3,
+      "keywords": [
+        "most common types of microorganisms",
+        "أكثر أنواع الميكروبات شيوعاً"
+      ]
+    },
+    {
+      "id": 29004,
+      "term": "Bacteria",
+      "arabic": "البكتيريا",
+      "pronunciation": "البَكْتيريا",
+      "pronunciation_en": "bak-TEER-ee-ah",
+      "definition": "كائنات مجهرية أحادية الخلية من أكثر أنواع الميكروبات شيوعاً",
+      "definition_en": "Microscopic single-celled organisms; one of the most common types",
+      "englishSentence": "Bacteria are one of the most common types of microorganisms.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 3,
+      "keywords": [
+        "bacteria",
+        "البكتيريا"
+      ]
+    },
+    {
+      "id": 29005,
+      "term": "Viruses",
+      "arabic": "الفيروسات",
+      "pronunciation": "الفيروسات",
+      "pronunciation_en": "VY-rus-ez",
+      "definition": "جسيمات دقيقة معدية من أكثر أنواع الميكروبات شيوعاً",
+      "definition_en": "Tiny infectious particles; one of the most common types",
+      "englishSentence": "Viruses are one of the most common types of microorganisms.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 3,
+      "keywords": [
+        "viruses",
+        "الفيروسات"
+      ]
+    },
+    {
+      "id": 29006,
+      "term": "Fungi",
+      "arabic": "الفطريات",
+      "pronunciation": "الفِطْريات",
+      "pronunciation_en": "FUN-jy",
+      "definition": "كائنات دقيقة شبيهة بالنبات من أكثر أنواع الميكروبات شيوعاً",
+      "definition_en": "Plant-like microorganisms; one of the most common types",
+      "englishSentence": "Fungi are one of the most common types of microorganisms.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 3,
+      "keywords": [
+        "fungi",
+        "الفطريات"
+      ]
+    },
+    {
+      "id": 29007,
+      "term": "Medical Asepsis",
+      "arabic": "التعقيم الطبي",
+      "pronunciation": "التَّعْقيم الطِّبي",
+      "pronunciation_en": "MED-ih-kal ay-SEP-sis",
+      "definition": "هي الممارسات التي تقلل أو تحد من أعداد الميكروبات - وتسمى أيضاً التقنيات النظيفة",
+      "definition_en": "Practices that reduce the numbers of microorganisms; also called clean technique",
+      "englishSentence": "Medical asepsis means those practices that reduce the numbers of microorganisms.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 4,
+      "keywords": [
+        "medical asepsis",
+        "التعقيم الطبي"
+      ]
+    },
+    {
+      "id": 29008,
+      "term": "Clean Technique",
+      "arabic": "التقنيات النظيفة",
+      "pronunciation": "التَّقنيات النَّظيفة",
+      "pronunciation_en": "kleen tek-NEEK",
+      "definition": "الاسم الآخر للتعقيم الطبي - الممارسات التي تقلل من أعداد الميكروبات",
+      "definition_en": "Another name for medical asepsis",
+      "englishSentence": "Medical asepsis is also called clean technique.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 4,
+      "keywords": [
+        "clean technique",
+        "التقنيات النظيفة"
+      ]
+    },
+    {
+      "id": 29009,
+      "term": "Examples of Medical Aseptic Practices",
+      "arabic": "أمثلة على التعقيم الطبي",
+      "pronunciation": "أمثِلة على التَّعقيم الطِّبي",
+      "pronunciation_en": "eg-ZAM-pulz MED-ih-kal ay-SEP-tik PRAK-tis-ez",
+      "definition": "من الأمثلة على التعقيم الطبي: 1-استخدام مضادات الميكروبات مثل الكلور والكحول، 2-غسل اليدين، 3-ارتداء ملابس المستشفى، 4-المحافظة على البيئة نظيفة قدر الإمكان",
+      "definition_en": "Examples include: using antimicrobial agents (chlorine/alcohol), hand hygiene, wearing hospital garments, keeping environment clean",
+      "englishSentence": "Examples of medical aseptic practices include antimicrobial agents, hand hygiene, hospital garments, and keeping the environment clean.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 5,
+      "keywords": [
+        "examples of medical aseptic practices",
+        "أمثلة على التعقيم الطبي"
+      ]
+    },
+    {
+      "id": 29010,
+      "term": "Antimicrobial Agents",
+      "arabic": "مضادات الميكروبات",
+      "pronunciation": "مُضادّات المَيكروبات",
+      "pronunciation_en": "an-tee-my-KRO-bee-al AY-jents",
+      "definition": "مواد كيميائية تقتل أو تثبط نمو الميكروبات مثل الكلور والكحول",
+      "definition_en": "Chemical substances that kill/inhibit microorganisms such as chlorine and alcohol",
+      "englishSentence": "Using antimicrobial agents such as chlorine and alcohol is an example of medical aseptic practice.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 5,
+      "keywords": [
+        "antimicrobial agents",
+        "مضادات الميكروبات"
+      ]
+    },
+    {
+      "id": 29011,
+      "term": "Wearing Hospital Garments",
+      "arabic": "ارتداء ملابس المستشفى",
+      "pronunciation": "ارتِداء مَلابِس المُسْتَشْفى",
+      "pronunciation_en": "WAIR-ing HOS-pih-tal GAR-ments",
+      "definition": "ارتداء الزي الرسمي للمستشفى كجزء من ممارسات التعقيم الطبي",
+      "definition_en": "Wearing hospital uniforms as part of medical aseptic practices",
+      "englishSentence": "Wearing hospital garments is an example of medical aseptic practice.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 5,
+      "keywords": [
+        "wearing hospital garments",
+        "ارتداء ملابس المستشفى"
+      ]
+    },
+    {
+      "id": 29012,
+      "term": "Keeping Environment Clean",
+      "arabic": "المحافظة على البيئة نظيفة قدر الإمكان",
+      "pronunciation": "المُحافَظة على البيئة نَظيفة",
+      "pronunciation_en": "KEE-ping en-VY-ron-ment kleen",
+      "definition": "المحافظة على البيئة نظيفة قدر الإمكان من أمثلة التعقيم الطبي",
+      "definition_en": "Keeping the environment as clean as possible is an example of medical asepsis",
+      "englishSentence": "Keeping the environment as clean as possible is an example of medical aseptic practice.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 5,
+      "keywords": [
+        "keeping environment clean",
+        "المحافظة على البيئة نظيفة قدر الإمكان"
+      ]
+    },
+    {
+      "id": 29013,
+      "term": "Hand Washing",
+      "arabic": "غسل اليدين",
+      "pronunciation": "غَسْل اليَدَيْن",
+      "pronunciation_en": "hand WAH-shing",
+      "definition": "فرك (حل) اليدين باستخدام الماء والصابون، ويعتبر من أكثر الطرق فعالية لمنع العدوى",
+      "definition_en": "Scrubbing the hands with soap, water, and friction; the single most effective way to prevent infections",
+      "englishSentence": "Hand washing is the single most effective way to prevent infections.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 6,
+      "keywords": [
+        "hand washing",
+        "غسل اليدين"
+      ]
+    },
+    {
+      "id": 29014,
+      "term": "When to Perform Hand Washing (1)",
+      "arabic": "متى نغسل اليدين - الحالة الأولى",
+      "pronunciation": "مَتى نَغسِل اليَدَيْن الحالة الأولى",
+      "pronunciation_en": "when to per-FORM hand WAH-shing 1",
+      "definition": "اغسل يديك بعد ملامسة الدم وسوائل وإفرازات وفضلات الجسم أو بعد ملامسة الأدوات الملوثة سواء كنت مرتدياً قفازات أم لا",
+      "definition_en": "Wash hands after touching blood, body fluids, secretions, excretions, and contaminated items, whether or not gloves are worn",
+      "englishSentence": "Wash hands after touching blood, body fluids, secretions, excretions, and contaminated items whether or not gloves are worn.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 7,
+      "keywords": [
+        "when to perform hand washing (1)",
+        "متى نغسل اليدين - الحالة الأولى"
+      ]
+    },
+    {
+      "id": 29015,
+      "term": "When to Perform Hand Washing (2)",
+      "arabic": "متى نغسل اليدين - الحالة الثانية",
+      "pronunciation": "مَتى نَغسِل اليَدَيْن الحالة الثانية",
+      "pronunciation_en": "when to per-FORM hand WAH-shing 2",
+      "definition": "اغسل يديك مباشرة بعد خلع القفازات، أو بين ملامسة المرضى، واغسل يديك بين المهام والمهارات التي تطبق على نفس المريض وذلك لمنع انتقال العدوى من مكان لآخر لنفس الجسم",
+      "definition_en": "Wash hands immediately after gloves removed, between patient contacts, between tasks on same patient to prevent cross-contamination",
+      "englishSentence": "Wash hands immediately after gloves are removed, between patient contacts, and between tasks to prevent cross-contamination.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 8,
+      "keywords": [
+        "when to perform hand washing (2)",
+        "متى نغسل اليدين - الحالة الثانية"
+      ]
+    },
+    {
+      "id": 29016,
+      "term": "Steps of Hand Washing",
+      "arabic": "خطوات غسل اليدين",
+      "pronunciation": "خُطُوات غَسْل اليَدَيْن",
+      "pronunciation_en": "steps ov hand WAH-shing",
+      "definition": "في الشريحة التالية، كيفية غسل اليدين خطوة بخطوة - يرجى من الطلبة التركيز في الصورة وحفظ الخطوات",
+      "definition_en": "Step-by-step hand washing instructions; students should focus on the image and memorize the steps",
+      "englishSentence": "Students should focus on the hand washing steps image and memorize the procedure.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 9,
+      "keywords": [
+        "steps of hand washing",
+        "خطوات غسل اليدين"
+      ]
+    },
+    {
+      "id": 29017,
+      "term": "Hand Washing Steps Image",
+      "arabic": "صورة خطوات غسل اليدين",
+      "pronunciation": "صورة خُطُوات غَسْل اليَدَيْن",
+      "pronunciation_en": "hand WAH-shing steps IM-ij",
+      "definition": "صفحة صورة توضيحية لخطوات غسل اليدين بالتفصيل",
+      "definition_en": "Image page showing detailed hand washing steps",
+      "englishSentence": "This image page illustrates the detailed steps of correct hand washing.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 10,
+      "keywords": [
+        "hand washing steps image",
+        "صورة خطوات غسل اليدين"
+      ]
+    },
+    {
+      "id": 29018,
+      "term": "Surgical Scrub",
+      "arabic": "تعقيم (غسل) اليدين الخاص بالعمليات",
+      "pronunciation": "تَعقيم اليَدَيْن الجِراحي",
+      "pronunciation_en": "SUR-jih-kal skrub",
+      "definition": "يُطبَّق قبل ارتداء القفازات المعقمة في غرفة العمليات",
+      "definition_en": "Performed before donning sterile gloves in an operative room",
+      "englishSentence": "A surgical scrub is performed before donning sterile gloves in an operative room.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 11,
+      "keywords": [
+        "surgical scrub",
+        "تعقيم (غسل) اليدين الخاص بالعمليات"
+      ]
+    },
+    {
+      "id": 29019,
+      "term": "Hand Washing vs Surgical Scrub - Purpose",
+      "arabic": "الفرق في الغرض بين غسل اليدين وتعقيم اليدين",
+      "pronunciation": "الفَرْق في الغَرَض",
+      "pronunciation_en": "dif-er-ens PUR-pos hand WAH-shing SUR-jih-kal skrub",
+      "definition": "غسل اليدين يتم تطبيقه لجميع الإجراءات التمريضية، بينما تعقيم اليدين يتم تطبيقه فقط لإجراء العمليات الجراحية",
+      "definition_en": "Hand washing is performed for all procedures, while surgical scrub is for operative procedures only",
+      "englishSentence": "Hand washing is performed for all procedures, while surgical scrub is performed only for operative procedures.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 12,
+      "keywords": [
+        "hand washing vs surgical scrub - purpose",
+        "الفرق في الغرض بين غسل اليدين وتعقيم اليدين"
+      ]
+    },
+    {
+      "id": 29020,
+      "term": "Hand Washing vs Surgical Scrub - Duration",
+      "arabic": "الفرق في المدة بين غسل اليدين وتعقيم اليدين",
+      "pronunciation": "الفَرْق في المُدَّة",
+      "pronunciation_en": "dif-er-ens doo-RAY-shun hand WAH-shing SUR-jih-kal skrub",
+      "definition": "غسل اليدين يستغرق من 10 إلى 15 ثانية، بينما تعقيم اليدين يستغرق من دقيقتين إلى 5 دقائق",
+      "definition_en": "Hand washing lasts 10-15 seconds, while surgical scrub lasts 2-5 minutes",
+      "englishSentence": "Hand washing lasts 10 to 15 seconds, while surgical scrub lasts 2 to 5 minutes.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 13,
+      "keywords": [
+        "hand washing vs surgical scrub - duration",
+        "الفرق في المدة بين غسل اليدين وتعقيم اليدين"
+      ]
+    },
+    {
+      "id": 29021,
+      "term": "Hand Washing vs Surgical Scrub - Agent Used",
+      "arabic": "الفرق في المادة المستخدمة بين غسل اليدين وتعقيم اليدين",
+      "pronunciation": "الفَرْق في المادَّة المُستَخدَمة",
+      "pronunciation_en": "dif-er-ens AY-jent used hand WAH-shing SUR-jih-kal skrub",
+      "definition": "في غسل اليدين يتم استعمال الصابون، بينما في تعقيم اليدين يتم استعمال معقمات خاصة (مضادات ميكروبات)",
+      "definition_en": "In hand washing soap is used; in surgical scrub antimicrobial agents are used",
+      "englishSentence": "In hand washing soap is used, while in surgical scrub antimicrobial agents are used.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 14,
+      "keywords": [
+        "hand washing vs surgical scrub - agent used",
+        "الفرق في المادة المستخدمة بين غسل اليدين وتعقيم اليدين"
+      ]
+    },
+    {
+      "id": 29022,
+      "term": "Disinfection",
+      "arabic": "التطهير",
+      "pronunciation": "التَّطْهير",
+      "pronunciation_en": "dis-in-FEK-shun",
+      "definition": "هي عملية القضاء على معظم الميكروبات ما عدا الأبواغ، مثل استعمال الكحول أو الديتول والمطهرات الأخرى",
+      "definition_en": "Process by which pathogens but not necessarily spores are destroyed (e.g., alcohol, Dettol)",
+      "englishSentence": "Disinfection destroys most pathogens but not necessarily spores.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 15,
+      "keywords": [
+        "disinfection",
+        "التطهير"
+      ]
+    },
+    {
+      "id": 29023,
+      "term": "Sterilization",
+      "arabic": "التعقيم",
+      "pronunciation": "التَّعْقيم",
+      "pronunciation_en": "ster-ih-lih-ZAY-shun",
+      "definition": "هي عملية القضاء على جميع الميكروبات مع الأبواغ، مثل استعمال الماء المغلي أو جهاز الأوتوكليف",
+      "definition_en": "Process by which all microorganisms including spores are destroyed (e.g., autoclave, boiling water)",
+      "englishSentence": "Sterilization destroys all microorganisms including spores.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 15,
+      "keywords": [
+        "sterilization",
+        "التعقيم"
+      ]
+    },
+    {
+      "id": 29024,
+      "term": "Autoclave",
+      "arabic": "الأوتوكليف - جهاز تعقيم الأدوات الجراحية",
+      "pronunciation": "الأُوتُوكليف",
+      "pronunciation_en": "AW-toh-klayv",
+      "definition": "جهاز تعقيم الأدوات الجراحية بالمستشفى يستخدم البخار تحت الضغط",
+      "definition_en": "Device for sterilizing surgical instruments using steam under pressure",
+      "englishSentence": "An autoclave sterilizes surgical instruments using steam under pressure.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 15,
+      "keywords": [
+        "autoclave",
+        "الأوتوكليف - جهاز تعقيم الأدوات الجراحية"
+      ]
+    },
+    {
+      "id": 29025,
+      "term": "Donning and Removing Gloves",
+      "arabic": "ارتداء وخلع القفازات الطبية",
+      "pronunciation": "ارتِداء وخَلْع القُفّازات الطِّبِيَّة",
+      "pronunciation_en": "DON-ing and reh-MOO-ving gluvz",
+      "definition": "الفصل الثاني: يشرح كيفية ارتداء وخلع القفازات الطبية بشكل صحيح - إعداد الأستاذ أحمد المصري",
+      "definition_en": "Chapter 2: how to correctly don and remove medical gloves - by Mr. Ahmed Almassri",
+      "englishSentence": "Chapter 2 covers the correct technique for donning and removing medical gloves.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 16,
+      "keywords": [
+        "donning and removing gloves",
+        "ارتداء وخلع القفازات الطبية"
+      ]
+    },
+    {
+      "id": 29026,
+      "term": "Personal Protective Equipment PPE",
+      "arabic": "وسائل (معدات) الحماية الشخصية",
+      "pronunciation": "وَسائِل الحِماية الشَّخصِيَّة",
+      "pronunciation_en": "PER-son-al pro-TEK-tiv ee-KWIP-ment",
+      "definition": "معدات الحماية الشخصية تشمل: 1-اللباس الموحد للطواقم الطبية، 2-ثوب أو رداء الحماية، 3-الكمامات الطبية، 4-القفازات الطبية، 5-النظارات (غطاء العين)، 6-غطاء الشعر والحذاء",
+      "definition_en": "PPE includes: 1-Uniforms, 2-Gowns, 3-Masks, 4-Gloves, 5-Protective eyewear, 6-Hair and Shoe Covers",
+      "englishSentence": "PPE includes uniforms, gowns, masks, gloves, protective eyewear, and hair and shoe covers.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 17,
+      "keywords": [
+        "personal protective equipment ppe",
+        "وسائل (معدات) الحماية الشخصية"
+      ]
+    },
+    {
+      "id": 29027,
+      "term": "Uniforms",
+      "arabic": "اللباس الموحد للطواقم الطبية",
+      "pronunciation": "اللِّباس المُوَحَّد",
+      "pronunciation_en": "YOO-nih-formz",
+      "definition": "الملابس الرسمية الموحدة التي يرتديها الطاقم الطبي في المستشفى",
+      "definition_en": "Standard clothing worn by medical staff in hospitals",
+      "englishSentence": "Uniforms are part of PPE worn by nursing staff.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 17,
+      "keywords": [
+        "uniforms",
+        "اللباس الموحد للطواقم الطبية"
+      ]
+    },
+    {
+      "id": 29028,
+      "term": "Gowns",
+      "arabic": "ثوب أو رداء الحماية",
+      "pronunciation": "ثَوْب الحِماية",
+      "pronunciation_en": "gownz",
+      "definition": "رداء واقٍ يُرتدى فوق الملابس الرسمية لحماية الطاقم الطبي من التلوث",
+      "definition_en": "Protective garment worn over uniforms to protect from contamination",
+      "englishSentence": "Gowns are worn as part of PPE to prevent contamination.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 17,
+      "keywords": [
+        "gowns",
+        "ثوب أو رداء الحماية"
+      ]
+    },
+    {
+      "id": 29029,
+      "term": "Masks",
+      "arabic": "الكمامات الطبية",
+      "pronunciation": "الكَمّامات الطِّبِيَّة",
+      "pronunciation_en": "masks",
+      "definition": "أغطية الوجه الطبية التي تحمي من رذاذ الجراثيم",
+      "definition_en": "Medical face coverings that protect against microbial droplets",
+      "englishSentence": "Masks protect against airborne microorganisms.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 17,
+      "keywords": [
+        "masks",
+        "الكمامات الطبية"
+      ]
+    },
+    {
+      "id": 29030,
+      "term": "Protective Eyewear",
+      "arabic": "النظارات (غطاء العين)",
+      "pronunciation": "النَّظّارات الواقِيَة",
+      "pronunciation_en": "pro-TEK-tiv EYE-wair",
+      "definition": "نظارات واقية تحمي العينين من الرذاذ والمواد المعدية",
+      "definition_en": "Protective glasses that protect eyes from splashes and infectious materials",
+      "englishSentence": "Protective eyewear protects eyes during patient procedures.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 17,
+      "keywords": [
+        "protective eyewear",
+        "النظارات (غطاء العين)"
+      ]
+    },
+    {
+      "id": 29031,
+      "term": "Hair and Shoe Covers",
+      "arabic": "غطاء الشعر والحذاء",
+      "pronunciation": "غِطاء الشَّعْر والحِذاء",
+      "pronunciation_en": "hair and shoo KUV-erz",
+      "definition": "أغطية للشعر والحذاء تستخدم للحفاظ على بيئة معقمة في غرف العمليات",
+      "definition_en": "Covers for hair and shoes to maintain sterile environment in operating rooms",
+      "englishSentence": "Hair and shoe covers maintain sterile environments in operating rooms.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 17,
+      "keywords": [
+        "hair and shoe covers",
+        "غطاء الشعر والحذاء"
+      ]
+    },
+    {
+      "id": 29032,
+      "term": "Why Nurses Must Wear Gloves - Reason 1",
+      "arabic": "لماذا يجب على الممرضين لبس القفازات - السبب الأول",
+      "pronunciation": "لِماذا يَجِب على الممَرِّضين ارتِداء القُفّازات",
+      "pronunciation_en": "why nurz must wair gluvz REE-zun 1",
+      "definition": "السبب الأول: كحاجز لمنع احتكاك اليد بالدم أو سوائل وإفرازات وفضلات الجسم أو الأغشية المخاطية",
+      "definition_en": "Reason 1: as a barrier to prevent direct hand contact with blood, body fluids, secretions, excretions, mucous membranes",
+      "englishSentence": "Nurses wear gloves as a barrier to prevent direct hand contact with blood, body fluids, secretions, excretions, and mucous membranes.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 18,
+      "keywords": [
+        "why nurses must wear gloves - reason 1",
+        "لماذا يجب على الممرضين لبس القفازات - السبب الأول"
+      ]
+    },
+    {
+      "id": 29033,
+      "term": "Why Nurses Must Wear Gloves - Reasons 2, 3, 4",
+      "arabic": "لماذا يجب على الممرضين لبس القفازات - الأسباب 2 3 4",
+      "pronunciation": "أسباب ارتِداء القُفّازات",
+      "pronunciation_en": "why nurz must wair gluvz REE-zunz 2 3 4",
+      "definition": "2-لحماية الممرض من المريض (منع العدوى)، 3-لحماية المريض من الممرض (منع العدوى)، 4-لحماية المريض من مريض آخر (منع العدوى)",
+      "definition_en": "2-To protect nurses from patients, 3-To protect clients from nurses, 4-To protect clients from other clients",
+      "englishSentence": "Gloves protect nurses from patients, patients from nurses, and patients from other patients.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 19,
+      "keywords": [
+        "why nurses must wear gloves - reasons 2, 3, 4",
+        "لماذا يجب على الممرضين لبس القفازات - الأسباب 2 3 4"
+      ]
+    },
+    {
+      "id": 29034,
+      "term": "Latex Material",
+      "arabic": "القفازات مصنوعة من مادة اللاتكس",
+      "pronunciation": "قُفّازات اللاتِكْس",
+      "pronunciation_en": "LAY-tex mah-TEER-ee-al",
+      "definition": "القفازات الطبية مصنوعة بشكل عام من مادة اللاتكس؛ وللأسف بعض الممرضين والمرضى لديهم حساسية من مادة اللاتكس",
+      "definition_en": "Gloves are generally made of latex; unfortunately some nurses and clients are allergic to latex",
+      "englishSentence": "Gloves are generally made of latex; unfortunately some nurses and clients are allergic to latex.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 20,
+      "keywords": [
+        "latex material",
+        "القفازات مصنوعة من مادة اللاتكس"
+      ]
+    },
+    {
+      "id": 29035,
+      "term": "Types of Gloves",
+      "arabic": "أنواع القفازات الطبية",
+      "pronunciation": "أنواع القُفّازات الطِّبِيَّة",
+      "pronunciation_en": "typz ov med-ih-kal gluvz",
+      "definition": "1-القفازات النظيفة (وتسمى أيضاً: قفازات الفحص الطبي، قفازات لاتكس، قفازات الاستخدام لمرة واحدة)؛ 2-القفازات المعقمة (وتسمى أيضاً بالقفازات الجراحية)",
+      "definition_en": "1-Clean gloves (also called: examination gloves, latex gloves, disposable gloves); 2-Sterile gloves (also called surgical gloves)",
+      "englishSentence": "Types of gloves: clean gloves (examination/latex/disposable) and sterile gloves (surgical gloves).",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 21,
+      "keywords": [
+        "types of gloves",
+        "أنواع القفازات الطبية"
+      ]
+    },
+    {
+      "id": 29036,
+      "term": "Clean Gloves",
+      "arabic": "القفازات النظيفة",
+      "pronunciation": "القُفّازات النَّظيفة",
+      "pronunciation_en": "kleen gluvz",
+      "definition": "تسمى أيضاً: قفازات الفحص الطبي، قفازات لاتكس، قفازات الاستخدام لمرة واحدة",
+      "definition_en": "Also called: examination gloves, latex gloves, disposable gloves",
+      "englishSentence": "Clean gloves are also called examination gloves, latex gloves, or disposable gloves.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 21,
+      "keywords": [
+        "clean gloves",
+        "القفازات النظيفة"
+      ]
+    },
+    {
+      "id": 29037,
+      "term": "Sterile Gloves",
+      "arabic": "القفازات المعقمة",
+      "pronunciation": "القُفّازات المُعَقَّمة",
+      "pronunciation_en": "STAIR-il gluvz",
+      "definition": "تسمى أيضاً بالقفازات الجراحية",
+      "definition_en": "Also called surgical gloves",
+      "englishSentence": "Sterile gloves are also called surgical gloves.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 21,
+      "keywords": [
+        "sterile gloves",
+        "القفازات المعقمة"
+      ]
+    },
+    {
+      "id": 29038,
+      "term": "When to Wear Clean Gloves",
+      "arabic": "متى ترتدي القفازات النظيفة",
+      "pronunciation": "مَتى تَرتَدي القُفّازات النَّظيفة",
+      "pronunciation_en": "when to wair kleen gluvz",
+      "definition": "يجب ارتداءها أثناء ممارسة الإجراءات التمريضية غير المعقمة؛ يجب ارتداؤها عندما يكون هناك احتمالية لمس اليد بالدم أو المواد الملوثة",
+      "definition_en": "Should be worn during non-sterile procedures and when hand contact with blood or contaminated substances is possible",
+      "englishSentence": "Clean gloves should be worn during non-sterile procedures and when hand contact with blood is possible.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 22,
+      "keywords": [
+        "when to wear clean gloves",
+        "متى ترتدي القفازات النظيفة"
+      ]
+    },
+    {
+      "id": 29039,
+      "term": "When to Wear Sterile Gloves",
+      "arabic": "متى ترتدي القفازات المعقمة",
+      "pronunciation": "مَتى تَرتَدي القُفّازات المُعَقَّمة",
+      "pronunciation_en": "when to wair STAIR-il gluvz",
+      "definition": "يجب ارتداء هذه القفازات أثناء ممارسة الإجراءات التمريضية المعقمة والتي تشمل إجراء العمليات الجراحية وتحضير الأدوية التي تتطلب التعقيم",
+      "definition_en": "Should be worn during invasive or sterile procedures including surgical procedures and aseptic pharmaceutical preparation",
+      "englishSentence": "Sterile gloves should be worn during sterile procedures including surgical procedures and aseptic pharmaceutical preparation.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 23,
+      "keywords": [
+        "when to wear sterile gloves",
+        "متى ترتدي القفازات المعقمة"
+      ]
+    },
+    {
+      "id": 29040,
+      "term": "Sterile Field",
+      "arabic": "المجال المعقم",
+      "pronunciation": "المَجال المُعَقَّم",
+      "pronunciation_en": "STAIR-il feeld",
+      "definition": "المجال المعقم هو المنطقة أو المكان الخالي من الميكروبات",
+      "definition_en": "A sterile field is a work area free of microorganisms",
+      "englishSentence": "A sterile field means a work area free of microorganisms.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 24,
+      "keywords": [
+        "sterile field",
+        "المجال المعقم"
+      ]
+    },
+    {
+      "id": 29041,
+      "term": "Principles of Sterile Field 1 and 2",
+      "arabic": "مبادئ المجال المعقم (1 و2)",
+      "pronunciation": "مَبادئ المَجال المُعَقَّم الأُولى والثانِيَة",
+      "pronunciation_en": "PRIN-sih-pelz STAIR-il feeld 1 and 2",
+      "definition": "1-المادة المعقمة عند ملامستها مادة أخرى معقمة يبقى المجال معقماً: معقم + معقم = معقم؛ 2-المادة المعقمة عند ملامستها مادة أخرى غير معقمة يكون المجال ملوثاً: معقم + غير معقم = ملوث",
+      "definition_en": "1-Sterile + Sterile = Sterile; 2-Sterile + Non-sterile = Contaminated",
+      "englishSentence": "Sterile plus sterile equals sterile; sterile plus non-sterile equals contaminated.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 25,
+      "keywords": [
+        "principles of sterile field 1 and 2",
+        "مبادئ المجال المعقم (1 و2)"
+      ]
+    },
+    {
+      "id": 29042,
+      "term": "Principles of Sterile Field 3, 4, 5",
+      "arabic": "مبادئ المجال المعقم (3 و4 و5)",
+      "pronunciation": "مَبادئ المَجال المُعَقَّم 3 و4 و5",
+      "pronunciation_en": "PRIN-sih-pelz STAIR-il feeld 3 4 5",
+      "definition": "3-إذا كان هناك تساؤل (شكوك) هل المادة معقمة أو لا فيجب اعتبارها غير معقمة؛ 4-أي علبة معقمة غير مغلفة يتم اعتبارها ملوثة؛ 5-أي علبة معقمة منتهية الصلاحية يتم اعتبارها غير معقمة",
+      "definition_en": "3-If in doubt consider it unsterile; 4-Partially unwrapped package is contaminated; 5-Expired sterile item is not sterile",
+      "englishSentence": "If in doubt consider unsterile; partially unwrapped packages are contaminated; expired items are not sterile.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 26,
+      "keywords": [
+        "principles of sterile field 3, 4, 5",
+        "مبادئ المجال المعقم (3 و4 و5)"
+      ]
+    },
+    {
+      "id": 29043,
+      "term": "Principles of Sterile Field 6 and 7",
+      "arabic": "مبادئ المجال المعقم (6 و7)",
+      "pronunciation": "مَبادئ المَجال المُعَقَّم 6 و7",
+      "pronunciation_en": "PRIN-sih-pelz STAIR-il feeld 6 and 7",
+      "definition": "6-تعتبر حدود المجال المعقم التي مساحتها 1 إنش منطقة ملوثة؛ 7-المواد المعقمة الموجودة تحت مستوى الخصر يتم اعتبارها ملوثة",
+      "definition_en": "6-Outer 1-inch margin is contaminated; 7-Sterile items below waist level are contaminated",
+      "englishSentence": "The outer 1-inch margin of a sterile area is contaminated; sterile items below waist level are contaminated.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 27,
+      "keywords": [
+        "principles of sterile field 6 and 7",
+        "مبادئ المجال المعقم (6 و7)"
+      ]
+    },
+    {
+      "id": 29044,
+      "term": "Important Videos for Sterile Gloves",
+      "arabic": "فيديوهات هامة جداً لتعلم ارتداء القفازات المعقمة",
+      "pronunciation": "فيديوهات هامَّة لارتِداء القُفّازات المُعَقَّمة",
+      "pronunciation_en": "im-POR-tant VID-ee-ohz STAIR-il gluvz",
+      "definition": "فيديوهات هامة جداً لتعلم ارتداء القفازات المعقمة: http://www.youtube.com/watch?v=pAKZ3mdFIj4 و http://www.youtube.com/watch?v=AL0EE8zhNVM",
+      "definition_en": "Important videos for learning donning sterile gloves available on YouTube",
+      "englishSentence": "Important videos for learning how to don sterile gloves are available on YouTube.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 28,
+      "keywords": [
+        "important videos for sterile gloves",
+        "فيديوهات هامة جداً لتعلم ارتداء القفازات المعقمة"
+      ]
+    },
+    {
+      "id": 29045,
+      "term": "Bed Making Chapter Title",
+      "arabic": "تنظيم (تحضير) سرير المريض - الفصل الثالث",
+      "pronunciation": "تَنْظيم سَرير المَريض - الفَصل الثالِث",
+      "pronunciation_en": "bed MAY-king chap-ter TY-tel",
+      "definition": "الفصل الثالث: تنظيم (تحضير) سرير المريض - إعداد الأستاذ أحمد المصري",
+      "definition_en": "Chapter 3: Bed Making - prepared by Mr. Ahmed Almassri",
+      "englishSentence": "Chapter 3 covers bed making and room preparation by Mr. Ahmed Almassri.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 29,
+      "keywords": [
+        "bed making chapter title",
+        "تنظيم (تحضير) سرير المريض - الفصل الثالث"
+      ]
+    },
+    {
+      "id": 29046,
+      "term": "Client Room Components List",
+      "arabic": "مكونات غرفة المريض - القائمة",
+      "pronunciation": "مُكَوِّنات غُرْفة المَريض",
+      "pronunciation_en": "KLY-ent room kom-POH-nents list",
+      "definition": "غرفة المريض تشمل: 2-الأرضية (Floors)، 3-الإضاءة (Lighting)، 4-التحكم بالمناخ (Climate control)، 5-أثاث الغرفة (Room furnishings)",
+      "definition_en": "Client room includes: 2-Floors, 3-Lighting, 4-Climate control, 5-Room furnishings",
+      "englishSentence": "The client's room includes floors, lighting, climate control, and room furnishings.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 30,
+      "keywords": [
+        "client room components list",
+        "مكونات غرفة المريض - القائمة"
+      ]
+    },
+    {
+      "id": 29047,
+      "term": "Walls and Room Color",
+      "arabic": "الجدران ولون الغرفة",
+      "pronunciation": "الجُدْران ولَوْن الغُرْفة",
+      "pronunciation_en": "wawlz and room KUL-er",
+      "definition": "اللون الأزرق أو الأخضر الفاتح يعززان الشعور بالراحة والاسترخاء للمريض؛ الإضاءة الكافية سواء كانت طبيعية أو صناعية ضرورية جداً لراحة المريض والطاقم التمريضي",
+      "definition_en": "Blue or light green colors promote relaxation; adequate lighting (natural or artificial) is important for comfort",
+      "englishSentence": "Blue or light green colors promote relaxation; adequate natural or artificial lighting is important for patient comfort.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 31,
+      "keywords": [
+        "walls and room color",
+        "الجدران ولون الغرفة"
+      ]
+    },
+    {
+      "id": 29048,
+      "term": "Lighting",
+      "arabic": "الإضاءة الجيدة",
+      "pronunciation": "الإضاءة الجَيِّدة",
+      "pronunciation_en": "LY-ting ade-ih-kwat",
+      "definition": "الإضاءة الكافية سواء كانت طبيعية أو صناعية ضرورية جداً لراحة المريض والطاقم التمريضي",
+      "definition_en": "Adequate lighting, both natural or artificial, is important for client and nursing personnel comfort",
+      "englishSentence": "Adequate lighting, both natural or artificial, is important for the comfort of client and nursing personnel.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 31,
+      "keywords": [
+        "lighting",
+        "الإضاءة الجيدة"
+      ]
+    },
+    {
+      "id": 29049,
+      "term": "Floors",
+      "arabic": "الأرضية",
+      "pronunciation": "الأَرْضِيَّة",
+      "pronunciation_en": "florz",
+      "definition": "الأرضية عنصر مهم في غرفة المريض",
+      "definition_en": "Floors are an important element of the patient room",
+      "englishSentence": "Floors are an important component of the patient room.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 31,
+      "keywords": [
+        "floors",
+        "الأرضية"
+      ]
+    },
+    {
+      "id": 29050,
+      "term": "Room Temperature 20-23",
+      "arabic": "حرارة غرفة المريض 20-23 درجة",
+      "pronunciation": "حَرارة الغُرْفة 20-23 دَرَجة",
+      "pronunciation_en": "room TEM-per-ah-chur 20 to 23",
+      "definition": "حرارة غرفة المريض يجب أن تكون ما بين 20 – 23 درجة مئوية",
+      "definition_en": "Room temperature should be between 20°C and 23°C",
+      "englishSentence": "Room temperature should be maintained between 20°C and 23°C.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 32,
+      "keywords": [
+        "room temperature 20-23",
+        "حرارة غرفة المريض 20-23 درجة"
+      ]
+    },
+    {
+      "id": 29051,
+      "term": "Humidity 30-60 Percent",
+      "arabic": "الرطوبة 30-60 بالمئة",
+      "pronunciation": "الرُّطوبة 30-60 بالمِئة",
+      "pronunciation_en": "hyoo-MID-ih-tee 30 to 60 per-sent",
+      "definition": "كمية الرطوبة في الغرفة (كمية بخار الماء في الهواء) يجب أن تكون ما بين 30%-60%",
+      "definition_en": "Amount of moisture in the air (water vapor) should be 30%-60%",
+      "englishSentence": "Humidity in the patient room should be maintained between 30% and 60%.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 32,
+      "keywords": [
+        "humidity 30-60 percent",
+        "الرطوبة 30-60 بالمئة"
+      ]
+    },
+    {
+      "id": 29052,
+      "term": "Ventilation Amount of Air",
+      "arabic": "التهوية الجيدة - كمية الهواء في المكان",
+      "pronunciation": "التَّهوِيَة الجَيِّدة",
+      "pronunciation_en": "ven-tih-LAY-shun AM-ownt ov air",
+      "definition": "التهوية الجيدة (كمية الهواء في المكان) ضرورية لراحة المريض",
+      "definition_en": "Ventilation: amount of air in place is essential for patient comfort",
+      "englishSentence": "Good ventilation - adequate amount of air - is essential for patient comfort.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 32,
+      "keywords": [
+        "ventilation amount of air",
+        "التهوية الجيدة - كمية الهواء في المكان"
+      ]
+    },
+    {
+      "id": 29053,
+      "term": "Room Furnishings A to E",
+      "arabic": "أثاث غرفة المريض من أ إلى هـ",
+      "pronunciation": "أثاث غُرْفة المَريض",
+      "pronunciation_en": "room FUR-nish-ingz A to E",
+      "definition": "أثاث الغرفة: أ-سرير المريض، ب-ستائر السرير (ستائر الخصوصية)، ج-طاولة الطعام، د-الطاولة التي بجانب السرير (الكوميديونا)، هـ-الكراسي",
+      "definition_en": "Furnishings: A-The bed, B-Privacy curtain, C-Over bed table, D-Bedside stand (commode), E-Chairs",
+      "englishSentence": "Room furnishings include the bed, privacy curtain, over bed table, bedside stand, and chairs.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 33,
+      "keywords": [
+        "room furnishings a to e",
+        "أثاث غرفة المريض من أ إلى هـ"
+      ]
+    },
+    {
+      "id": 29054,
+      "term": "Client Room Image",
+      "arabic": "صورة غرفة المريض",
+      "pronunciation": "صورة غُرْفة المَريض",
+      "pronunciation_en": "KLY-ent room IM-ij",
+      "definition": "صورة توضيحية لغرفة المريض وأثاثها (صفحة صور فقط)",
+      "definition_en": "Illustrative image of client room and furnishings",
+      "englishSentence": "This page shows an illustrative image of the patient room.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 34,
+      "keywords": [
+        "client room image",
+        "صورة غرفة المريض"
+      ]
+    },
+    {
+      "id": 29055,
+      "term": "The Bed Features",
+      "arabic": "سرير المريض - الخصائص",
+      "pronunciation": "سَرير المَريض والخَصائِص",
+      "pronunciation_en": "thuh bed FEE-cherz",
+      "definition": "يجب أن يكون السرير مدعوماً بجميع الوضعيات لتعزيز راحة المريض؛ يجب أن يكون السرير مدعوماً بجانب أو جانبين لحماية المريض من السقوط",
+      "definition_en": "The bed should be adjustable in all positions; full or half side rails attached to bed frame to prevent falls",
+      "englishSentence": "The bed should be adjustable to promote comfort and have side rails to prevent falls.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 35,
+      "keywords": [
+        "the bed features",
+        "سرير المريض - الخصائص"
+      ]
+    },
+    {
+      "id": 29056,
+      "term": "Bed Adjustment Images",
+      "arabic": "صور ضبط السرير",
+      "pronunciation": "صُوَر ضَبْط السَّرير",
+      "pronunciation_en": "bed ad-JUST-ment IM-ijz",
+      "definition": "صفحات صور توضيحية لأوضاع السرير المختلفة (صفحات صور فقط)",
+      "definition_en": "Image pages showing different bed positions",
+      "englishSentence": "These pages show illustrative images of different bed adjustment positions.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 36,
+      "keywords": [
+        "bed adjustment images",
+        "صور ضبط السرير"
+      ]
+    },
+    {
+      "id": 29156,
+      "term": "Bed Side Rails Image",
+      "arabic": "صورة جوانب السرير",
+      "pronunciation": "صورة جَوانِب السَّرير",
+      "pronunciation_en": "bed syd RAYL IM-ij",
+      "definition": "صفحة صورة توضيحية لجوانب السرير (side rails) التي تحمي المريض من السقوط",
+      "definition_en": "Image page showing bed side rails that protect the patient from falling",
+      "englishSentence": "This image page shows the bed side rails used to prevent patients from falling.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 37,
+      "keywords": [
+        "side rails",
+        "bed image",
+        "صورة"
+      ]
+    },
+    {
+      "id": 29057,
+      "term": "Mattress",
+      "arabic": "فرشة (فراش) السرير",
+      "pronunciation": "فِراش السَّرير",
+      "pronunciation_en": "MAT-res",
+      "definition": "الفراش المستخدم في سرير المريض لتوفير الراحة",
+      "definition_en": "The padding used on the hospital bed for patient comfort",
+      "englishSentence": "The mattress provides comfort and support for the patient in bed.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 38,
+      "keywords": [
+        "mattress",
+        "فرشة (فراش) السرير"
+      ]
+    },
+    {
+      "id": 29058,
+      "term": "Pillows",
+      "arabic": "المخدات",
+      "pronunciation": "المِخَدّات",
+      "pronunciation_en": "PIL-ohz",
+      "definition": "تستخدم المخدات بشكل أساسي للراحة، ولكن قد تستخدم أيضاً لرفع أجزاء الجسم وتخفيف التورمات وتعزيز عملية التنفس",
+      "definition_en": "Pillows primarily for comfort but also to elevate body parts, relieve swelling, and promote breathing",
+      "englishSentence": "Pillows are primarily used for comfort but also to elevate body parts, relieve swelling, and promote breathing.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 39,
+      "keywords": [
+        "pillows",
+        "المخدات"
+      ]
+    },
+    {
+      "id": 29059,
+      "term": "Bed Linen Complete List",
+      "arabic": "شراشف السرير - القائمة الكاملة",
+      "pronunciation": "شَراشِف السَّرير",
+      "pronunciation_en": "bed LIN-en kom-PLEET list",
+      "definition": "الشراشف المستخدمة في معظم أسرة المستشفيات تشمل: 1-غطاء الفرشة (وجه الفرشة)، 2-الشرشف الذي يوضع تحت المريض (Bottom sheet)، 3-الشرشف الذي يساعد في تغيير وضعيات المريض (Draw sheet)، 4-الشرشف الذي يوضع فوق المريض (Top sheet)، 5-البطانية (الحرام)",
+      "definition_en": "Linen: 1-Mattress pad, 2-Bottom sheet, 3-Draw sheet (under hips to help change position/transfer), 4-Top sheet, 5-Blanket",
+      "englishSentence": "Hospital bed linen includes mattress pad, bottom sheet, draw sheet, top sheet, and blanket.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 40,
+      "keywords": [
+        "bed linen complete list",
+        "شراشف السرير - القائمة الكاملة"
+      ]
+    },
+    {
+      "id": 29060,
+      "term": "Mattress Pad",
+      "arabic": "غطاء الفرشة (وجه الفرشة)",
+      "pronunciation": "غِطاء الفِرشة",
+      "pronunciation_en": "MAT-res pad",
+      "definition": "غطاء الفرشة يوضع فوق الفراش مباشرة ويحميه",
+      "definition_en": "Cover placed directly over the mattress",
+      "englishSentence": "The mattress pad is placed directly over the mattress for protection.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 40,
+      "keywords": [
+        "mattress pad",
+        "غطاء الفرشة (وجه الفرشة)"
+      ]
+    },
+    {
+      "id": 29061,
+      "term": "Bottom Sheet",
+      "arabic": "الشرشف الذي يوضع تحت المريض",
+      "pronunciation": "الشَّرشَف السُّفلي",
+      "pronunciation_en": "BOT-em sheet",
+      "definition": "الشرشف الذي يوضع تحت المريض مباشرة على الفراش",
+      "definition_en": "The sheet placed directly under the patient",
+      "englishSentence": "The bottom sheet is placed directly under the patient.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 40,
+      "keywords": [
+        "bottom sheet",
+        "الشرشف الذي يوضع تحت المريض"
+      ]
+    },
+    {
+      "id": 29062,
+      "term": "Draw Sheet",
+      "arabic": "الشرشف الذي يساعد في تغيير وضعيات (تقليب) المريض",
+      "pronunciation": "الشَّرشَف المُتَحَرِّك",
+      "pronunciation_en": "draw sheet",
+      "definition": "يوضع هذا الشرشف تحت حوض المريض ليساعده على تغيير الوضعية وتنظيم السرير وتسهيل نقل المريض من سرير لآخر",
+      "definition_en": "Placed beneath hips to help change position, bed making, and transfer between beds",
+      "englishSentence": "The draw sheet is placed beneath the hips to help change position and transfer patients.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 40,
+      "keywords": [
+        "draw sheet",
+        "الشرشف الذي يساعد في تغيير وضعيات (تقليب) المريض"
+      ]
+    },
+    {
+      "id": 29063,
+      "term": "Top Sheet",
+      "arabic": "الشرشف الذي يوضع فوق المريض",
+      "pronunciation": "الشَّرشَف العُلوي",
+      "pronunciation_en": "top sheet",
+      "definition": "الشرشف الذي يوضع فوق المريض للتغطية",
+      "definition_en": "The sheet placed on top of the patient for covering",
+      "englishSentence": "The top sheet is placed on top of the patient for coverage.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 40,
+      "keywords": [
+        "top sheet",
+        "الشرشف الذي يوضع فوق المريض"
+      ]
+    },
+    {
+      "id": 29064,
+      "term": "Blanket",
+      "arabic": "البطانية (الحرام)",
+      "pronunciation": "البَطانِيَّة الحِرام",
+      "pronunciation_en": "BLANG-ket",
+      "definition": "غطاء دافئ يستخدم لتدفئة المريض",
+      "definition_en": "Warm covering to keep patient warm",
+      "englishSentence": "The blanket keeps the patient warm and comfortable.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 40,
+      "keywords": [
+        "blanket",
+        "البطانية (الحرام)"
+      ]
+    },
+    {
+      "id": 29065,
+      "term": "Bed Linen Image",
+      "arabic": "صورة شراشف السرير",
+      "pronunciation": "صورة شَراشِف السَّرير",
+      "pronunciation_en": "bed LIN-en IM-ij",
+      "definition": "صورة توضيحية لشراشف السرير (صفحة صور فقط)",
+      "definition_en": "Illustrative image of bed linen",
+      "englishSentence": "This page shows an illustrative image of bed linen arrangement.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 41,
+      "keywords": [
+        "bed linen image",
+        "صورة شراشف السرير"
+      ]
+    },
+    {
+      "id": 29066,
+      "term": "Privacy Curtain",
+      "arabic": "ستائر السرير (ستائر الخصوصية)",
+      "pronunciation": "سَتائِر الخُصوصِيَّة",
+      "pronunciation_en": "PRY-vah-see KUR-ten",
+      "definition": "يجب أن تكون محيطة بالمريض بشكل كامل للحفاظ على خصوصيته",
+      "definition_en": "Can be drawn completely around each client's bed to maintain privacy",
+      "englishSentence": "The privacy curtain should be drawn completely around the bed to maintain the client's privacy.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 42,
+      "keywords": [
+        "privacy curtain",
+        "ستائر السرير (ستائر الخصوصية)"
+      ]
+    },
+    {
+      "id": 29067,
+      "term": "Over Bed Table",
+      "arabic": "طاولة الطعام",
+      "pronunciation": "طاوِلة الطَّعام",
+      "pronunciation_en": "OH-ver bed TAY-bul",
+      "definition": "تساعد هذه الطاولة المريض على تناول الطعام وممارسة النظافة الشخصية بينما المريض في السرير",
+      "definition_en": "Helps the client eat while in bed and perform personal hygiene",
+      "englishSentence": "The over bed table helps the client eat and perform personal hygiene while in bed.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 42,
+      "keywords": [
+        "over bed table",
+        "طاولة الطعام"
+      ]
+    },
+    {
+      "id": 29068,
+      "term": "Bedside Stand and Chairs",
+      "arabic": "الطاولة التي بجانب السرير (الكوميديونا) والكراسي",
+      "pronunciation": "الكُوميديونا والكَراسي",
+      "pronunciation_en": "BED-syd stand and chairz",
+      "definition": "الطاولة الموجودة بجانب سرير المريض لتخزين مستلزماته الشخصية والكراسي لاستخدام المريض والزوار",
+      "definition_en": "Bedside stand for storing personal items; chairs for patient and visitors",
+      "englishSentence": "The bedside stand stores personal items; chairs are provided for patient and visitors.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 43,
+      "keywords": [
+        "bedside stand and chairs",
+        "الطاولة التي بجانب السرير (الكوميديونا) والكراسي"
+      ]
+    },
+    {
+      "id": 29069,
+      "term": "Bed Making Types",
+      "arabic": "أنواع تحضير السرير",
+      "pronunciation": "أنواع تَحضير السَّرير",
+      "pronunciation_en": "typz ov bed MAY-king",
+      "definition": "تنظيم السرير هي عملية تحضير السرير وتغيير شراشفه؛ الأنواع: 1-تغيير الشراشف عندما يكون السرير فارغاً (Unoccupied)، 2-تغيير الشراشف بينما المريض موجود على السرير (Occupied)",
+      "definition_en": "Bed making is preparing the bed and changing linen; Types: 1-Unoccupied (empty bed), 2-Occupied (patient in bed)",
+      "englishSentence": "Types of bed making: unoccupied (empty bed) and occupied (patient in bed).",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 44,
+      "keywords": [
+        "bed making types",
+        "أنواع تحضير السرير"
+      ]
+    },
+    {
+      "id": 29070,
+      "term": "Unoccupied Bed Making",
+      "arabic": "تغيير الشراشف عندما يكون السرير فارغاً",
+      "pronunciation": "تَحضير السَّرير الفارِغ",
+      "pronunciation_en": "un-OK-yoo-pyd bed MAY-king",
+      "definition": "تغيير الشراشف عندما يكون السرير فارغاً (بدون مريض)",
+      "definition_en": "Changing linen when the bed is empty",
+      "englishSentence": "Unoccupied bed making involves changing linen when the bed is empty.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 44,
+      "keywords": [
+        "unoccupied bed making",
+        "تغيير الشراشف عندما يكون السرير فارغاً"
+      ]
+    },
+    {
+      "id": 29071,
+      "term": "Occupied Bed Making",
+      "arabic": "تغيير الشراشف بينما المريض موجود على السرير",
+      "pronunciation": "تَحضير السَّرير المَشْغول",
+      "pronunciation_en": "OK-yoo-pyd bed MAY-king",
+      "definition": "تغيير الشراشف بينما المريض موجود على السرير",
+      "definition_en": "Changing linen while the client remains in bed",
+      "englishSentence": "Occupied bed making involves changing linen while the patient remains in bed.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 44,
+      "keywords": [
+        "occupied bed making",
+        "تغيير الشراشف بينما المريض موجود على السرير"
+      ]
+    },
+    {
+      "id": 29072,
+      "term": "Purpose of Bed Making",
+      "arabic": "أهداف تنظيم السرير",
+      "pronunciation": "أهداف تَنْظيم السَّرير",
+      "pronunciation_en": "PUR-pos ov bed MAY-king",
+      "definition": "أهداف تنظيم السرير: 1-تعزيز راحة المريض، 2-توفير بيئة نظيفة للمرضى، 3-الحد من المصادر المهيجة للجلد مثل البول والعرق، 4-المحافظة على طاقة المريض، 5-منع الميكروبات من الوصول للمريض",
+      "definition_en": "Purposes: 1-Promote comfort, 2-Provide clean environment, 3-Minimize skin irritation, 4-Conserve energy, 5-Prevent microorganisms",
+      "englishSentence": "Bed making promotes comfort, provides a clean environment, minimizes skin irritation, conserves energy, and prevents microorganisms.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 45,
+      "keywords": [
+        "purpose of bed making",
+        "أهداف تنظيم السرير"
+      ]
+    },
+    {
+      "id": 29073,
+      "term": "How to Apply Bed Making YouTube",
+      "arabic": "كيفية تطبيق تنظيم السرير - مرجع يوتيوب",
+      "pronunciation": "كَيفِيَّة تَطبيق تَنْظيم السَّرير",
+      "pronunciation_en": "how to AP-ly bed MAY-king YOO-toob",
+      "definition": "لتتعلم كيفية ترتيب السرير وتغيير الشراشف يرجى الدخول على اليوتيوب وكتابة: Occupied and unoccupied bed making",
+      "definition_en": "To learn bed making, search YouTube for: Occupied and unoccupied bed making",
+      "englishSentence": "Search YouTube for occupied and unoccupied bed making to learn the technique.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 46,
+      "keywords": [
+        "how to apply bed making youtube",
+        "كيفية تطبيق تنظيم السرير - مرجع يوتيوب"
+      ]
+    },
+    {
+      "id": 29074,
+      "term": "Common Positions List",
+      "arabic": "الوضعيات الشائعة - القائمة",
+      "pronunciation": "الوَضعِيّات الشّائِعة",
+      "pronunciation_en": "KOM-on poh-ZI-shunz list",
+      "definition": "الوضعيات الشائعة: I-وضعية الاستلقاء على الظهر (Supine)، II-وضعية فاولر (Fowler)، III-وضعية نصف فاولر (Semi-fowler)، IV-وضعية الجلوس (Sitting)، V-وضعية النوم على الجانب (Lateral)، VI-وضعية النوم على البطن (Prone)، VII-وضعية ترندلنبرغ أو وضعية الصدمة (Trendelenburg/shock)",
+      "definition_en": "Common positions: I-Supine, II-Fowler, III-Semi-fowler, IV-Sitting, V-Lateral, VI-Prone, VII-Trendelenburg/shock position",
+      "englishSentence": "Common positions: supine, Fowler, semi-Fowler, sitting, lateral, prone, and Trendelenburg (shock) positions.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 47,
+      "keywords": [
+        "common positions list",
+        "الوضعيات الشائعة - القائمة"
+      ]
+    },
+    {
+      "id": 29075,
+      "term": "Supine Position",
+      "arabic": "وضعية الاستلقاء على الظهر",
+      "pronunciation": "وَضعِيَّة الاسْتِلقاء على الظَّهْر",
+      "pronunciation_en": "SOO-pine poh-ZI-shun",
+      "definition": "وضعية الاستلقاء على الظهر بشكل مستقيم",
+      "definition_en": "Lying flat on the back",
+      "englishSentence": "The supine position involves lying flat on the back.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 47,
+      "keywords": [
+        "supine position",
+        "وضعية الاستلقاء على الظهر"
+      ]
+    },
+    {
+      "id": 29076,
+      "term": "Fowler Position 60-90 Degrees",
+      "arabic": "وضعية فاولر 60-90 درجة",
+      "pronunciation": "وَضعِيَّة فاولِر 60-90 دَرَجة",
+      "pronunciation_en": "FOW-ler poh-ZI-shun 60 to 90 de-GREEZ",
+      "definition": "وضعية المريض على السرير بزاوية 60-90 درجة",
+      "definition_en": "Patient on bed with angle 60-90 degrees",
+      "englishSentence": "In the Fowler position, the patient is on bed with an angle of 60 to 90 degrees.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 47,
+      "keywords": [
+        "fowler position 60-90 degrees",
+        "وضعية فاولر 60-90 درجة"
+      ]
+    },
+    {
+      "id": 29077,
+      "term": "Semi-Fowler Position 30-45 Degrees",
+      "arabic": "وضعية نصف فاولر 30-45 درجة",
+      "pronunciation": "وَضعِيَّة نِصف فاولِر 30-45 دَرَجة",
+      "pronunciation_en": "SEM-ee FOW-ler poh-ZI-shun 30 to 45 de-GREEZ",
+      "definition": "وضعية المريض على السرير بزاوية 30-45 درجة",
+      "definition_en": "Patient on bed with angle 30-45 degrees",
+      "englishSentence": "In the semi-Fowler position, the patient is on bed with an angle of 30 to 45 degrees.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 47,
+      "keywords": [
+        "semi-fowler position 30-45 degrees",
+        "وضعية نصف فاولر 30-45 درجة"
+      ]
+    },
+    {
+      "id": 29078,
+      "term": "Sitting Position",
+      "arabic": "وضعية الجلوس",
+      "pronunciation": "وَضعِيَّة الجُلوس",
+      "pronunciation_en": "SIT-ing poh-ZI-shun",
+      "definition": "وضعية الجلوس العمودي على السرير أو الكرسي",
+      "definition_en": "Sitting upright on the bed or chair",
+      "englishSentence": "The sitting position involves sitting upright on the bed.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 47,
+      "keywords": [
+        "sitting position",
+        "وضعية الجلوس"
+      ]
+    },
+    {
+      "id": 29079,
+      "term": "Lateral Position",
+      "arabic": "وضعية النوم على الجانب",
+      "pronunciation": "وَضعِيَّة الجانِب",
+      "pronunciation_en": "LAT-er-al poh-ZI-shun",
+      "definition": "وضعية النوم على الجانب الأيمن أو الأيسر",
+      "definition_en": "Lying on the right or left side",
+      "englishSentence": "The lateral position involves lying on the right or left side.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 47,
+      "keywords": [
+        "lateral position",
+        "وضعية النوم على الجانب"
+      ]
+    },
+    {
+      "id": 29080,
+      "term": "Prone Position",
+      "arabic": "وضعية النوم على البطن",
+      "pronunciation": "وَضعِيَّة النَّوم على البَطْن",
+      "pronunciation_en": "prohn poh-ZI-shun",
+      "definition": "وضعية النوم على البطن (وجهاً للأسفل)",
+      "definition_en": "Lying face down on the abdomen",
+      "englishSentence": "The prone position involves lying face down on the abdomen.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 47,
+      "keywords": [
+        "prone position",
+        "وضعية النوم على البطن"
+      ]
+    },
+    {
+      "id": 29081,
+      "term": "Trendelenburg Shock Position",
+      "arabic": "وضعية ترندلنبرغ (وضعية الصدمة)",
+      "pronunciation": "وَضعِيَّة الصَّدْمة تْرِنْدِلِنْبِرْغ",
+      "pronunciation_en": "TREN-del-en-berg SHOK poh-ZI-shun",
+      "definition": "في هذه الوضعية يتم رفع الأرجل أعلى من مستوى القلب؛ وتسمى أيضاً وضعية الصدمة",
+      "definition_en": "Legs elevated higher than heart level; also called shock position",
+      "englishSentence": "In the Trendelenburg position, legs are elevated above heart level; also called shock position.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 47,
+      "keywords": [
+        "trendelenburg shock position",
+        "وضعية ترندلنبرغ (وضعية الصدمة)"
+      ]
+    },
+    {
+      "id": 29082,
+      "term": "Supine Position Image",
+      "arabic": "صورة وضعية الاستلقاء على الظهر",
+      "pronunciation": "صورة وَضعِيَّة الاسْتِلقاء",
+      "pronunciation_en": "SOO-pine poh-ZI-shun IM-ij",
+      "definition": "صفحة صور توضيحية لوضعية الاستلقاء على الظهر",
+      "definition_en": "Illustrative image page for supine position",
+      "englishSentence": "This page shows the supine position illustration.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 48,
+      "keywords": [
+        "supine position image",
+        "صورة وضعية الاستلقاء على الظهر"
+      ]
+    },
+    {
+      "id": 29083,
+      "term": "Fowler and Semi-Fowler Details",
+      "arabic": "تفاصيل وضعية فاولر ونصف فاولر",
+      "pronunciation": "تَفاصيل وَضعِيَّة فاولِر",
+      "pronunciation_en": "FOW-ler SEM-ee FOW-ler de-TAYLZ",
+      "definition": "في وضعية الفاولر تكون زاوية السرير من 60-90 درجة؛ في وضعية السيمي فاولر تكون زاوية السرير من 30-45 درجة",
+      "definition_en": "Fowler: bed angle 60-90 degrees; Semi-Fowler: bed angle 30-45 degrees",
+      "englishSentence": "Fowler position bed angle is 60-90 degrees; semi-Fowler bed angle is 30-45 degrees.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 49,
+      "keywords": [
+        "fowler and semi-fowler details",
+        "تفاصيل وضعية فاولر ونصف فاولر"
+      ]
+    },
+    {
+      "id": 29084,
+      "term": "Sitting Position Image",
+      "arabic": "صورة وضعية الجلوس",
+      "pronunciation": "صورة وَضعِيَّة الجُلوس",
+      "pronunciation_en": "SIT-ing poh-ZI-shun IM-ij",
+      "definition": "صفحة صور توضيحية لوضعية الجلوس",
+      "definition_en": "Illustrative image page for sitting position",
+      "englishSentence": "This page shows the sitting position illustration.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 50,
+      "keywords": [
+        "sitting position image",
+        "صورة وضعية الجلوس"
+      ]
+    },
+    {
+      "id": 29085,
+      "term": "Trendelenburg Position Details",
+      "arabic": "تفاصيل وضعية الصدمة ترندلنبرغ",
+      "pronunciation": "تَفاصيل وَضعِيَّة الصَّدْمة",
+      "pronunciation_en": "TREN-del-en-berg de-TAYLZ",
+      "definition": "يتم رفع الأرجل أعلى من مستوى القلب عن طريق السرير؛ وتسمى أيضاً وضعية الصدمة",
+      "definition_en": "Patient elevates legs above heart level using bed; also called shock position",
+      "englishSentence": "In Trendelenburg position legs are elevated above heart level; also called shock position.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 51,
+      "keywords": [
+        "trendelenburg position details",
+        "تفاصيل وضعية الصدمة ترندلنبرغ"
+      ]
+    },
+    {
+      "id": 29086,
+      "term": "Lateral Position Image",
+      "arabic": "صورة وضعية النوم على الجانب",
+      "pronunciation": "صورة وَضعِيَّة الجانِب",
+      "pronunciation_en": "LAT-er-al poh-ZI-shun IM-ij",
+      "definition": "صفحة صور توضيحية لوضعية النوم على الجانب",
+      "definition_en": "Illustrative image for lateral position",
+      "englishSentence": "This page shows the lateral position illustration.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 52,
+      "keywords": [
+        "lateral position image",
+        "صورة وضعية النوم على الجانب"
+      ]
+    },
+    {
+      "id": 29087,
+      "term": "Prone Position Image",
+      "arabic": "صورة وضعية النوم على البطن",
+      "pronunciation": "صورة وَضعِيَّة البَطْن",
+      "pronunciation_en": "prohn poh-ZI-shun IM-ij",
+      "definition": "صفحة صور توضيحية لوضعية النوم على البطن",
+      "definition_en": "Illustrative image for prone position",
+      "englishSentence": "This page shows the prone position illustration.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 53,
+      "keywords": [
+        "prone position image",
+        "صورة وضعية النوم على البطن"
+      ]
+    },
+    {
+      "id": 29088,
+      "term": "Hygiene Chapter Title",
+      "arabic": "الفصل الخامس: النظافة الشخصية",
+      "pronunciation": "الفَصل الخامِس النَّظافة الشَّخصِيَّة",
+      "pronunciation_en": "hy-JEEN chap-ter TY-tel",
+      "definition": "الفصل الخامس: النظافة - إعداد الأستاذ أحمد المصري",
+      "definition_en": "Chapter 5: Hygiene - prepared by Mr. Ahmed Almassri",
+      "englishSentence": "Chapter 5 covers hygiene by Mr. Ahmed Almassri.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 54,
+      "keywords": [
+        "hygiene chapter title",
+        "الفصل الخامس: النظافة الشخصية"
+      ]
+    },
+    {
+      "id": 29089,
+      "term": "Hygiene Definition and Activities",
+      "arabic": "النظافة الشخصية - التعريف والأنشطة",
+      "pronunciation": "النَّظافة الشَّخصِيَّة التَّعريف",
+      "pronunciation_en": "HY-jeen def-ih-NI-shun ak-TIV-ih-teez",
+      "definition": "النظافة (الهايجين): هي الممارسات التي تعزز الصحة من خلال النظافة الشخصية؛ الأنشطة التي تعزز النظافة: 1-الاستحمام، 2-العناية بالأظافر، 3-العناية بنظافة الفم، 4-العناية بالشعر",
+      "definition_en": "Hygiene: practices that promote health through personal cleanliness; Activities: 1-Bathing, 2-Nail care, 3-Oral care, 4-Hair care",
+      "englishSentence": "Hygiene promotes health through cleanliness; activities include bathing, nail care, oral care, and hair care.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 55,
+      "keywords": [
+        "hygiene definition and activities",
+        "النظافة الشخصية - التعريف والأنشطة"
+      ]
+    },
+    {
+      "id": 29090,
+      "term": "Bathing Definition and Advantages",
+      "arabic": "الاستحمام - التعريف والفوائد",
+      "pronunciation": "الاسْتِحْمام التَّعريف والفَوائِد",
+      "pronunciation_en": "BAY-thing def-ih-NI-shun ad-VAN-tih-jez",
+      "definition": "الاستحمام: استخدام مواد التنظيف مثل الصابون والماء لإزالة العرق والزيت والوسخ والميكروبات من الجلد؛ فوائده: 1-التخلص من رائحة الجسم الكريهة، 2-تقليل احتمالية الإصابة بالعدوى، 3-تحفيز الدورة الدموية، 4-يزود الشعور بالانتعاش والاسترخاء، 5-تحسين المظهر الجسمي",
+      "definition_en": "Bathing uses soap and water to remove sweat, oil, dirt, microorganisms; Advantages: 1-Eliminates body odor, 2-Reduces infection, 3-Stimulates circulation, 4-Refreshed feeling, 5-Improves self-image",
+      "englishSentence": "Bathing eliminates body odor, reduces infection, stimulates circulation, provides refreshment, and improves self-image.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 56,
+      "keywords": [
+        "bathing definition and advantages",
+        "الاستحمام - التعريف والفوائد"
+      ]
+    },
+    {
+      "id": 29091,
+      "term": "Types of Bathing",
+      "arabic": "أنواع الاستحمام",
+      "pronunciation": "أنواع الاسْتِحْمام",
+      "pronunciation_en": "typz ov BAY-thing",
+      "definition": "1-الاستحمام تحت الدوش أو في البانيو (Tub bath or shower)؛ 2-الاستحمام الجزئي: غسيل فقط أماكن الجسم المعرضة للتلوث أو التي يصدر منها الروائح الكريهة مثل الإبط ومنطقة العانة؛ 3-الاستحمام على السرير: يستخدم فقط للمرضى العاجزين أو فاقدي الوعي",
+      "definition_en": "1-Tub bath or shower; 2-Partial bathing (only areas subject to soiling/odor like axilla and groin); 3-Bed bath (for dependent/unconscious persons only)",
+      "englishSentence": "Types: tub bath or shower, partial bathing, and bed bath for dependent or unconscious persons.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 57,
+      "keywords": [
+        "types of bathing",
+        "أنواع الاستحمام"
+      ]
+    },
+    {
+      "id": 29092,
+      "term": "Tub Bath or Shower",
+      "arabic": "الاستحمام تحت الدوش أو في البانيو",
+      "pronunciation": "الاسْتِحْمام بالدُّوش أو البانيو",
+      "pronunciation_en": "tub bath or SHOW-er",
+      "definition": "الاستحمام الكامل في حوض الاستحمام أو تحت الدوش",
+      "definition_en": "Complete bathing in bathtub or under shower",
+      "englishSentence": "A tub bath or shower is a complete bathing method for mobile patients.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 57,
+      "keywords": [
+        "tub bath or shower",
+        "الاستحمام تحت الدوش أو في البانيو"
+      ]
+    },
+    {
+      "id": 29093,
+      "term": "Partial Bathing",
+      "arabic": "الاستحمام الجزئي",
+      "pronunciation": "الاسْتِحْمام الجُزئي",
+      "pronunciation_en": "PAR-shul BAY-thing",
+      "definition": "غسيل فقط أماكن الجسم المعرضة للتلوث أو التي يصدر منها الروائح الكريهة مثل الإبط ومنطقة العانة",
+      "definition_en": "Washing only body areas subject to greatest soiling or sources of body odor (axilla, groin)",
+      "englishSentence": "Partial bathing involves washing only areas subject to soiling or body odor.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 57,
+      "keywords": [
+        "partial bathing",
+        "الاستحمام الجزئي"
+      ]
+    },
+    {
+      "id": 29094,
+      "term": "Bed Bath for Dependent Persons",
+      "arabic": "الاستحمام على السرير للمرضى العاجزين",
+      "pronunciation": "الاسْتِحْمام على السَّرير",
+      "pronunciation_en": "bed bath DEP-en-dent PER-sonz",
+      "definition": "يستخدم فقط للمرضى العاجزين أو فاقدي الوعي",
+      "definition_en": "Used only for dependent or unconscious persons",
+      "englishSentence": "A bed bath is used only for dependent or unconscious persons.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 57,
+      "keywords": [
+        "bed bath for dependent persons",
+        "الاستحمام على السرير للمرضى العاجزين"
+      ]
+    },
+    {
+      "id": 29095,
+      "term": "Shaving",
+      "arabic": "الحلاقة",
+      "pronunciation": "الحِلاقة",
+      "pronunciation_en": "SHAY-ving",
+      "definition": "هي إزالة شعر الجسم غير المرغوب به؛ تتم عملية الحلاقة باستخدام ماكينة الحلاقة الكهربائية أو باستخدام شفرة الحلاقة",
+      "definition_en": "Removes unwanted body hair; accomplished with electric or safety razor",
+      "englishSentence": "Shaving removes unwanted body hair using an electric or safety razor.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 58,
+      "keywords": [
+        "shaving",
+        "الحلاقة"
+      ]
+    },
+    {
+      "id": 29096,
+      "term": "Oral Hygiene",
+      "arabic": "نظافة الفم",
+      "pronunciation": "نَظافة الفَم",
+      "pronunciation_en": "OR-al HY-jeen",
+      "definition": "القيام بتنظيف الأسنان باستخدام الفرشاة؛ طقم الأسنان والجسور تحتاج رعاية خاصة؛ المرضى فاقدو الوعي يحتاجون نظافة الفم بشكل متكرر أكثر من المرضى الواعيين؛ منع الاختناق ضروري جداً أثناء نظافة الفم وخاصاً للمرضى فاقدي الوعي",
+      "definition_en": "Brushing and flossing teeth; dentures/bridges need special care; unconscious clients need more frequent oral care; preventing aspiration is very important especially for unconscious patients",
+      "englishSentence": "Oral hygiene: brush and floss; unconscious patients need more frequent care; preventing aspiration is very important.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 59,
+      "keywords": [
+        "oral hygiene",
+        "نظافة الفم"
+      ]
+    },
+    {
+      "id": 29097,
+      "term": "Dentures and Bridges Care",
+      "arabic": "طقم الأسنان والجسور - رعاية خاصة",
+      "pronunciation": "طَقْم الأسْنان والجُسور",
+      "pronunciation_en": "DEN-cherz and BRlJ-ez kair",
+      "definition": "طقم الأسنان والجسور تحتاج رعاية خاصة وتنظيفاً دقيقاً",
+      "definition_en": "Dentures and bridges require special cleaning and care",
+      "englishSentence": "Dentures and bridges require special cleaning and care.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 59,
+      "keywords": [
+        "dentures and bridges care",
+        "طقم الأسنان والجسور - رعاية خاصة"
+      ]
+    },
+    {
+      "id": 29098,
+      "term": "Preventing Aspiration During Oral Care",
+      "arabic": "منع الاختناق أثناء نظافة الفم",
+      "pronunciation": "مَنْع الاخْتِناق أثناء نَظافة الفَم",
+      "pronunciation_en": "pre-VEN-ting as-pih-RAY-shun OR-al kair",
+      "definition": "منع الاختناق ضروري جداً أثناء نظافة الفم وخاصاً للمرضى فاقدي الوعي",
+      "definition_en": "Preventing aspiration is very important during oral care especially for unconscious patients",
+      "englishSentence": "Preventing aspiration is very important during oral care especially for unconscious patients.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 59,
+      "keywords": [
+        "preventing aspiration during oral care",
+        "منع الاختناق أثناء نظافة الفم"
+      ]
+    },
+    {
+      "id": 29099,
+      "term": "Hair Care",
+      "arabic": "العناية بالشعر",
+      "pronunciation": "العِناية بالشَّعْر",
+      "pronunciation_en": "hair kair",
+      "definition": "العناية بالشعر: 1-استخدم الزيت إذا كان الشعر جافاً، 2-قم بجدله لمنع تشابكه، 3-قم بتمشيطه ببطء لزيادة الدورة الدموية للدهون الطبيعية (السيبم)، 4-استخدم مشط ذو أسنان واسعة والتمشيط يكون من نهاية الشعر إلى المنبت، 5-استخدم الشامبو لتنظيف الشعر",
+      "definition_en": "1-Use oil if dry, 2-Braid to prevent tangles, 3-Brush slowly to increase sebum circulation, 4-Use wide-toothed comb combing from end to crown, 5-Use shampoo to clean hair",
+      "englishSentence": "Hair care: use oil for dry hair, braid to prevent tangles, brush slowly for sebum circulation, use wide-toothed comb, use shampoo.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 60,
+      "keywords": [
+        "hair care",
+        "العناية بالشعر"
+      ]
+    },
+    {
+      "id": 29100,
+      "term": "Nail Care",
+      "arabic": "العناية بالأظافر",
+      "pronunciation": "العِناية بالأظافِر",
+      "pronunciation_en": "nail kair",
+      "definition": "المحافظة على أظافر اليد وأظافر القدم نظيفة ومقلمة؛ العناية بالأظافر تتم بحذر شديد للحالات التالية: 1-المرضى المصابون بداء السكري، 2-المرضى ذوو الأظافر السميكة",
+      "definition_en": "Keep fingernails and toenails clean and trimmed; extreme caution for: 1-Clients with diabetes, 2-Clients with thick nails",
+      "englishSentence": "Nail care requires keeping nails clean and trimmed; extreme caution for diabetic patients and those with thick nails.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 61,
+      "keywords": [
+        "nail care",
+        "العناية بالأظافر"
+      ]
+    },
+    {
+      "id": 29101,
+      "term": "Bed Bath Equipment",
+      "arabic": "الأدوات المطلوبة للاستحمام على السرير",
+      "pronunciation": "أدَوات الاسْتِحْمام على السَّرير",
+      "pronunciation_en": "bed bath ee-KWIP-ment",
+      "definition": "الأدوات المطلوبة: 1-وعاء غسيل، 2-صابون وغبق، 3-قطعة قماش للغسيل (سفنجة)، 4-بطانية الاستحمام، 5-منشفة عدد 2، 6-قفازات نظيفة",
+      "definition_en": "Equipment: 1-Wash basin, 2-Soap and dish, 3-Wash cloths/sponge, 4-Bath blanket, 5-Towel x2, 6-Clean gloves",
+      "englishSentence": "Bed bath equipment: wash basin, soap, wash cloth, bath blanket, 2 towels, and clean gloves.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 62,
+      "keywords": [
+        "bed bath equipment",
+        "الأدوات المطلوبة للاستحمام على السرير"
+      ]
+    },
+    {
+      "id": 29102,
+      "term": "Wash Basin",
+      "arabic": "وعاء الغسيل",
+      "pronunciation": "وِعاء الغَسيل",
+      "pronunciation_en": "wosh BAY-sin",
+      "definition": "وعاء يستخدم لوضع الماء الدافئ أثناء الاستحمام على السرير",
+      "definition_en": "Basin used for warm water during bed bath",
+      "englishSentence": "A wash basin holds warm water during a bed bath.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 62,
+      "keywords": [
+        "wash basin",
+        "وعاء الغسيل"
+      ]
+    },
+    {
+      "id": 29103,
+      "term": "Bath Blanket",
+      "arabic": "بطانية الاستحمام",
+      "pronunciation": "بَطانِيَّة الاسْتِحْمام",
+      "pronunciation_en": "bath BLANG-ket",
+      "definition": "بطانية خاصة تستخدم أثناء الاستحمام على السرير للحفاظ على دفء المريض وخصوصيته",
+      "definition_en": "Special blanket used during bed bath to keep patient warm and maintain privacy",
+      "englishSentence": "A bath blanket maintains warmth and privacy during a bed bath.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 62,
+      "keywords": [
+        "bath blanket",
+        "بطانية الاستحمام"
+      ]
+    },
+    {
+      "id": 29104,
+      "term": "Bed Bath Steps 1 and 2",
+      "arabic": "خطوات الاستحمام على السرير 1 و2",
+      "pronunciation": "خُطُوات الاسْتِحْمام على السَّرير 1 و2",
+      "pronunciation_en": "bed bath steps 1 and 2",
+      "definition": "1-يجب على الممرض أن يشرح للمريض آلية الاستحمام وتقييم قدرته على المساعدة في عملية الاستحمام؛ 2-مراجعة ملف المريض لمعرفة هل مسموح تحريك المريض أو لا",
+      "definition_en": "1-Discuss procedure with client and assess ability to assist; 2-Review client chart for any limitations in physical activity",
+      "englishSentence": "Step 1: Discuss procedure and assess ability to assist. Step 2: Review chart for physical activity limitations.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 63,
+      "keywords": [
+        "bed bath steps 1 and 2",
+        "خطوات الاستحمام على السرير 1 و2"
+      ]
+    },
+    {
+      "id": 29105,
+      "term": "Bed Bath Steps 3 4 5",
+      "arabic": "خطوات الاستحمام على السرير 3 و4 و5",
+      "pronunciation": "خُطُوات الاسْتِحْمام على السَّرير 3 و4 و5",
+      "pronunciation_en": "bed bath steps 3 4 5",
+      "definition": "3-إحضار الأدوات المهمة ووضعها على العربة بجانب السرير؛ 4-المحافظة على خصوصية المريض من خلال إغلاق الستائر المحيطة بالسرير وإغلاق الباب؛ 5-اغسل يديك وارتدِ القفازات النظيفة",
+      "definition_en": "3-Bring equipment to bedside stand; 4-Close curtains around bed and close door for privacy; 5-Wash your hands and wear clean gloves",
+      "englishSentence": "Step 3: Bring equipment. Step 4: Close curtains and door for privacy. Step 5: Wash hands and put on clean gloves.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 64,
+      "keywords": [
+        "bed bath steps 3 4 5",
+        "خطوات الاستحمام على السرير 3 و4 و5"
+      ]
+    },
+    {
+      "id": 29106,
+      "term": "Bed Bath Steps 6 7 8",
+      "arabic": "خطوات الاستحمام على السرير 6 و7 و8",
+      "pronunciation": "خُطُوات الاسْتِحْمام على السَّرير 6 و7 و8",
+      "pronunciation_en": "bed bath steps 6 7 8",
+      "definition": "6-إملاء الوعاء بكمية كافية من الماء الدافئ (بين 43-46 درجة مئوية)؛ 7-قم بطي (لف) قطعة قماش الغسيل على اليد ثم ضعها في الماء؛ 8-ابدأ بغسل وجه المريض والرقبة والأذن والعيون مع تجنب الصابون",
+      "definition_en": "6-Fill basin with warm water 43-46°C; 7-Fold wash cloth around hand then place in water; 8-Bath face, neck, ears, eyes avoiding soap",
+      "englishSentence": "Step 6: Fill with warm water 43-46°C. Step 7: Fold cloth around hand. Step 8: Wash face, neck, ears, eyes avoiding soap.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 65,
+      "keywords": [
+        "bed bath steps 6 7 8",
+        "خطوات الاستحمام على السرير 6 و7 و8"
+      ]
+    },
+    {
+      "id": 29107,
+      "term": "Bed Bath Steps 9 to 13",
+      "arabic": "خطوات الاستحمام على السرير 9 إلى 13",
+      "pronunciation": "خُطُوات الاسْتِحْمام على السَّرير 9 إلى 13",
+      "pronunciation_en": "bed bath steps 9 to 13",
+      "definition": "9-ضع اليد في الوعاء؛ 10-قم بغسل منطقة الصدر مع الإبط؛ 11-قم بغسل البطن وتغطية منطقة الصدر؛ 12-قم بغسل الذراعين؛ 13-قم بغسل القدمين؛ ملاحظة: أي جزء من الجسم يتم غسله يجب تجفيفه وتغطيته مباشرة حفاظاً على خصوصية المريض",
+      "definition_en": "9-Soak hand in basin; 10-Wash chest including axilla; 11-Wash abdomen cover chest; 12-Wash arms; 13-Wash legs; Note: each area washed must be dried and covered immediately for privacy",
+      "englishSentence": "Steps 9-13: soak hand, wash chest with axilla, wash abdomen, wash arms, wash legs; dry and cover each area immediately.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 66,
+      "keywords": [
+        "bed bath steps 9 to 13",
+        "خطوات الاستحمام على السرير 9 إلى 13"
+      ]
+    },
+    {
+      "id": 29108,
+      "term": "Bed Bath Steps 14 to 19",
+      "arabic": "خطوات الاستحمام على السرير 14 إلى 19",
+      "pronunciation": "خُطُوات الاسْتِحْمام على السَّرير 14 إلى 19",
+      "pronunciation_en": "bed bath steps 14 to 19",
+      "definition": "14-مساعدة المريض بوضعه على بطنه أو على جانبه؛ 15-قم بغسل الظهر من الأعلى ومن الأسفل؛ 16-قم بتنظيف منطقة العانة؛ 17-قم بتمشيط شعر المريض؛ 18-قم بتغيير شراشف السرير؛ 19-تسجيل أي ملاحظات هامة في ملف المريض",
+      "definition_en": "14-Assist to prone or side position; 15-Wash upper and lower back; 16-Clean perianal area; 17-Groom hair; 18-Change bed linens; 19-Record significant observations on chart",
+      "englishSentence": "Steps 14-19: prone/side position, wash back, clean perianal area, groom hair, change linens, record observations.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 67,
+      "keywords": [
+        "bed bath steps 14 to 19",
+        "خطوات الاستحمام على السرير 14 إلى 19"
+      ]
+    },
+    {
+      "id": 29109,
+      "term": "Vital Signs Chapter Title",
+      "arabic": "العلامات الحيوية - عنوان الفصل",
+      "pronunciation": "العَلامات الحَيوِيَّة عُنوان الفَصل",
+      "pronunciation_en": "VY-tal synz chap-ter TY-tel",
+      "definition": "الفصل: العلامات الحيوية - إعداد الأستاذ أحمد المصري",
+      "definition_en": "Chapter: Vital Signs - prepared by Mr. Ahmed Almassri",
+      "englishSentence": "This chapter covers vital signs prepared by Mr. Ahmed Almassri.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 68,
+      "keywords": [
+        "vital signs chapter title",
+        "العلامات الحيوية - عنوان الفصل"
+      ]
+    },
+    {
+      "id": 29110,
+      "term": "Five Vital Signs",
+      "arabic": "العلامات الحيوية الخمسة",
+      "pronunciation": "العَلامات الحَيوِيَّة الخَمسة",
+      "pronunciation_en": "fyv VY-tal synz",
+      "definition": "توجد خمسة علامات حيوية هامة: 1-درجة الحرارة، 2-معدل النبض، 3-معدل التنفس، 4-ضغط الدم، 5-الألم",
+      "definition_en": "Five vital signs: 1-Body temperature, 2-Pulse, 3-Respiratory rate, 4-Blood pressure, 5-Pain",
+      "englishSentence": "The five vital signs are body temperature, pulse, respiratory rate, blood pressure, and pain.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 69,
+      "keywords": [
+        "five vital signs",
+        "العلامات الحيوية الخمسة"
+      ]
+    },
+    {
+      "id": 29111,
+      "term": "Pain Fifth Vital Sign",
+      "arabic": "الألم - العلامة الحيوية الخامسة",
+      "pronunciation": "الأَلَم العَلامة الحَيوِيَّة الخامِسة",
+      "pronunciation_en": "payn FIFTH VY-tal syn",
+      "definition": "الألم هو العلامة الحيوية الخامسة ويُقاس ويُوثق كجزء من تقييم العلامات الحيوية",
+      "definition_en": "Pain is the fifth vital sign and is measured and documented as part of vital signs assessment",
+      "englishSentence": "Pain is the fifth vital sign and must be assessed and documented with other vital signs.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 69,
+      "keywords": [
+        "pain fifth vital sign",
+        "الألم - العلامة الحيوية الخامسة"
+      ]
+    },
+    {
+      "id": 29112,
+      "term": "When to Measure Vital Signs",
+      "arabic": "الحالات التي نقيس فيها العلامات الحيوية",
+      "pronunciation": "الحالات التي نَقيس فيها العَلامات الحَيوِيَّة",
+      "pronunciation_en": "when to MEJ-er VY-tal synz",
+      "definition": "تُقاس العلامات الحيوية: أ-عند دخول المريض المستشفى، ب-حسب ما هو مكتوب في ملف المريض، ج-مرة واحدة يومياً إذا كانت حالة المريض مستقرة، د-على الأقل كل أربع ساعات عندما يكون علامة حيوية واحدة أو أكثر غير طبيعية، هـ-كل 5-15 دقيقة عندما تكون حالة المريض غير مستقرة مثلاً بعد العملية، و-عندما يشعر المريض بأنه غير طبيعي، ز-قبل وأثناء وبعد نقل الدم",
+      "definition_en": "Measured: A-On admission, B-Per medical orders, C-Once daily if stable, D-Every 4 hours if abnormal, E-Every 5-15 min if unstable (post-surgery), F-When feeling unusual, G-Before/during/after blood transfusion",
+      "englishSentence": "Vital signs measured on admission, per orders, once daily if stable, every 4 hours if abnormal, every 5-15 minutes if unstable, when unusual, and with blood transfusion.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 70,
+      "keywords": [
+        "when to measure vital signs",
+        "الحالات التي نقيس فيها العلامات الحيوية"
+      ]
+    },
+    {
+      "id": 29113,
+      "term": "Body Temperature Shell and Core",
+      "arabic": "درجة حرارة الجسم السطحية والداخلية",
+      "pronunciation": "دَرَجة حَرارة الجِسْم السَّطحِيَّة والدَّاخِلِيَّة",
+      "pronunciation_en": "BOD-ee TEM-per-ah-chur shell and kor",
+      "definition": "هي دفء جسم الإنسان؛ I-حرارة الجسم السطحية (Shell): هو الدفء الذي يكون على سطح الجلد؛ II-حرارة الجسم الداخلية (Core): هو دفء الأماكن العميقة داخل الجسم مثل الدماغ والقلب؛ حرارة الجسم السطحية في العادة أقل من حرارة الجسم الداخلية",
+      "definition_en": "Warmth of human body; I-Shell temperature: warmth at skin surface; II-Core temperature: warmth in deeper sites (brain, heart); shell is usually lower than core",
+      "englishSentence": "Body temperature: shell (skin surface) and core (deeper sites like brain/heart); shell is usually lower than core.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 71,
+      "keywords": [
+        "body temperature shell and core",
+        "درجة حرارة الجسم السطحية والداخلية"
+      ]
+    },
+    {
+      "id": 29114,
+      "term": "Normal Body Temperature 35.8-37.4",
+      "arabic": "درجة حرارة الجسم الطبيعية 35.8-37.4",
+      "pronunciation": "دَرَجة حَرارة الجِسْم الطَّبيعِيَّة",
+      "pronunciation_en": "NOR-mal BOD-ee TEM-per-ah-chur 35.8 to 37.4",
+      "definition": "معدل درجة حرارة الجسم الطبيعية يتراوح من 35.8 إلى 37.4 درجة مئوية؛ ملاحظة هامة: يجب على جميع الطلبة حفظ المعدل الطبيعي للحرارة (35.8-37.4)",
+      "definition_en": "Normal shell temperature ranges from 35.8°C to 37.4°C; Important: all students must memorize the normal range (35.8-37.4)",
+      "englishSentence": "Normal body temperature ranges from 35.8°C to 37.4°C; students must memorize this normal range.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 72,
+      "keywords": [
+        "normal body temperature 35.8-37.4",
+        "درجة حرارة الجسم الطبيعية 35.8-37.4"
+      ]
+    },
+    {
+      "id": 29115,
+      "term": "Hypothalamus Temperature Regulator",
+      "arabic": "تحت المهاد - منظم الحرارة",
+      "pronunciation": "تَحْت المِهاد مُنَظِّم الحَرارة",
+      "pronunciation_en": "hy-poh-THAL-ah-mus TEM-per-ah-chur REG-yoo-lay-ter",
+      "definition": "تنظيم حرارة الجسم: تحت المهاد هي غدة موجودة داخل الدماغ مسؤولة عن تنظيم حرارة الجسم",
+      "definition_en": "Temperature regulation: hypothalamus is a structure within the brain that regulates temperature",
+      "englishSentence": "The hypothalamus is a structure within the brain responsible for regulating body temperature.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 72,
+      "keywords": [
+        "hypothalamus temperature regulator",
+        "تحت المهاد - منظم الحرارة"
+      ]
+    },
+    {
+      "id": 29116,
+      "term": "Five Temperature Assessment Sites",
+      "arabic": "أماكن قياس درجة الحرارة الخمسة",
+      "pronunciation": "أماكِن قِياس دَرَجة الحَرارة الخَمسة",
+      "pronunciation_en": "fyv TEM-per-ah-chur ah-SES-ment syts",
+      "definition": "أماكن قياس درجة الحرارة الخمسة: 1-قياس عن طريق الفم (Oral)، 2-قياس عن طريق كتحة الشرج (Rectal)، 3-قياس عن طريق الإبط (Axillary)، 4-قياس عن طريق الأذن - غشاء طبلة الأذن (Tympanic Membrane)، 5-قياس عن طريق جبهة الرأس (Temporal/Forehead)",
+      "definition_en": "5 sites: 1-Oral, 2-Rectal, 3-Axillary, 4-Ear/Tympanic Membrane, 5-Temporal/Forehead",
+      "englishSentence": "Temperature assessment sites: oral, rectal, axillary, tympanic (ear), and temporal (forehead).",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 73,
+      "keywords": [
+        "five temperature assessment sites",
+        "أماكن قياس درجة الحرارة الخمسة"
+      ]
+    },
+    {
+      "id": 29117,
+      "term": "Oral Temperature Site Details",
+      "arabic": "تفاصيل قياس الحرارة عن طريق الفم",
+      "pronunciation": "تَفاصيل قِياس الحَرارة بالفَم",
+      "pronunciation_en": "OR-al TEM-per-ah-chur syt de-TAYLZ",
+      "definition": "قياس الحرارة عن طريق الفم: يتم وضع ميزان الحرارة بجانب الشريان تحت اللسان لمدة 3-5 دقائق؛ موانع: إذا كان المريض غير متعاون، فاقد الوعي، طفل صغير، لديه عملية في الفم، يتنفس من الفم (يعاني من الزكام)، يعاني من التشنجات",
+      "definition_en": "Oral site: proximal to sublingual artery; Duration 3-5 minutes; Contraindications: uncooperative, unconscious, very young, oral surgery, mouth breathers, seizures",
+      "englishSentence": "Oral temperature: under tongue 3-5 minutes; contraindicated for uncooperative, unconscious, very young, oral surgery, mouth breathers, seizures.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 74,
+      "keywords": [
+        "oral temperature site details",
+        "تفاصيل قياس الحرارة عن طريق الفم"
+      ]
+    },
+    {
+      "id": 29118,
+      "term": "Rectal Temperature Site Details",
+      "arabic": "تفاصيل قياس الحرارة عن طريق كتحة الشرج",
+      "pronunciation": "تَفاصيل قِياس الحَرارة بالشَّرَج",
+      "pronunciation_en": "REK-tal TEM-per-ah-chur syt de-TAYLZ",
+      "definition": "قياس الحرارة عن طريق كتحة الشرج: يعتبر من أكثر الأماكن دقة لقياس درجة الحرارة وخاصة عند الأطفال؛ هذا المكان يسبب إحراجاً للمريض؛ أكبر من حرارة الفم بنصف درجة (0.5)؛ مدة القياس: دقيقة واحدة",
+      "definition_en": "Rectal site: most accurate especially in children; embarrassing; 0.5°C above oral; Duration: 1 minute",
+      "englishSentence": "Rectal site: most accurate especially for children; 0.5°C above oral; embarrassing; 1 minute duration.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 75,
+      "keywords": [
+        "rectal temperature site details",
+        "تفاصيل قياس الحرارة عن طريق كتحة الشرج"
+      ]
+    },
+    {
+      "id": 29119,
+      "term": "Axillary Temperature Site Details",
+      "arabic": "تفاصيل قياس الحرارة عن طريق الإبط",
+      "pronunciation": "تَفاصيل قِياس الحَرارة بالإبْط",
+      "pronunciation_en": "AK-sih-ler-ee TEM-per-ah-chur syt de-TAYLZ",
+      "definition": "قياس الحرارة عن طريق الإبط: أقل من حرارة الفم بنصف درجة (0.5)؛ من أفضل الأماكن لقياس درجة الحرارة عند البالغين والرضع والمواليد الجدد؛ سهل الوصول؛ آمن واحتمالية نقل العدوى قليل؛ أقل إحراجاً للمريض؛ مدة القياس: 3-5 دقائق",
+      "definition_en": "Axillary: 0.5°C lower than oral; best for adults, infants, newborns; accessible; safe; low embarrassment; Duration 3-5 minutes",
+      "englishSentence": "Axillary site: 0.5°C lower than oral; best for adults, infants, newborns; safe; 3-5 minutes duration.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 76,
+      "keywords": [
+        "axillary temperature site details",
+        "تفاصيل قياس الحرارة عن طريق الإبط"
+      ]
+    },
+    {
+      "id": 29120,
+      "term": "Ear Tympanic Temperature Site Details",
+      "arabic": "تفاصيل قياس الحرارة عن طريق الأذن",
+      "pronunciation": "تَفاصيل قِياس الحَرارة بالأُذُن",
+      "pronunciation_en": "ear tim-PAN-ik TEM-per-ah-chur syt de-TAYLZ",
+      "definition": "قياس الحرارة عن طريق الأذن: غشاء طبلة الأذن قريب من الغدة تحت المهاد (منظم الحرارة)؛ يعتبر أكثر دقة (وثوقاً) من الفم والإبط (ولكنه أقل دقة من كتحة الشرج)؛ الأكثر سرعة لقياس الحرارة؛ مدة القياس: ثوانٍ (يتم استعمال جهاز خاص إلكتروني)",
+      "definition_en": "Ear/Tympanic: near hypothalamus; more reliable than oral and axilla (less than rectal); fastest; Duration: seconds; requires electronic device",
+      "englishSentence": "Ear/tympanic site: near hypothalamus; more reliable than oral and axilla; fastest measurement; duration seconds.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 77,
+      "keywords": [
+        "ear tympanic temperature site details",
+        "تفاصيل قياس الحرارة عن طريق الأذن"
+      ]
+    },
+    {
+      "id": 29121,
+      "term": "Forehead Temporal Temperature Site Details",
+      "arabic": "تفاصيل قياس الحرارة عن طريق جبهة الرأس",
+      "pronunciation": "تَفاصيل قِياس الحَرارة بالجَبهة",
+      "pronunciation_en": "FOR-hed TEM-por-al TEM-per-ah-chur syt de-TAYLZ",
+      "definition": "قياس الحرارة عن طريق جبهة الرأس: يقيس حرارة الشريان الصدغي؛ يحتاج جهاز إلكتروني؛ آمن وسريع؛ غير دقيق؛ مدة القياس: ثوانٍ (2-60 ثانية حسب الجهاز المستخدم)",
+      "definition_en": "Forehead/Temporal: measures temporal artery; requires electronic equipment; safe and fast; non-accurate; Duration: seconds (2-60 seconds depending on device)",
+      "englishSentence": "Forehead site: temporal artery; electronic device required; safe and fast; non-accurate; 2-60 seconds.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 78,
+      "keywords": [
+        "forehead temporal temperature site details",
+        "تفاصيل قياس الحرارة عن طريق جبهة الرأس"
+      ]
+    },
+    {
+      "id": 29122,
+      "term": "Important Notes Temperature Correction",
+      "arabic": "ملاحظات هامة على تصحيح قياس درجة الحرارة",
+      "pronunciation": "مُلاحَظات هامَّة تَصْحيح الحَرارة",
+      "pronunciation_en": "im-POR-tant nohts TEM-per-ah-chur koh-REK-shun",
+      "definition": "1-عند قياس الحرارة عن طريق الفم تبقى القراءة كما هي؛ 2-عند قياس الحرارة عن طريق الإبط أو جبهة الرأس يتم إضافة نصف درجة (+0.5)؛ 3-عند قياس الحرارة عن طريق كتحة الشرج أو الأذن يتم خصم نصف درجة (-0.5)",
+      "definition_en": "1-Oral: document as is; 2-Axilla or Forehead: add 0.5°C; 3-Rectum or Ear: subtract 0.5°C",
+      "englishSentence": "Temperature correction: oral stays the same; axilla/forehead add 0.5; rectum/ear subtract 0.5.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 79,
+      "keywords": [
+        "important notes temperature correction",
+        "ملاحظات هامة على تصحيح قياس درجة الحرارة"
+      ]
+    },
+    {
+      "id": 29123,
+      "term": "Temperature Measurement Examples",
+      "arabic": "أمثلة على قياس درجة الحرارة",
+      "pronunciation": "أمثِلة على قِياس دَرَجة الحَرارة",
+      "pronunciation_en": "TEM-per-ah-chur MEJ-er-ment eg-ZAM-pulz",
+      "definition": "مثال(1): عند قياس درجة حرارة محمد عن طريق الإبط وكانت القراءة 36.6 فإن درجة الحرارة الحقيقية لمحمد هي 37.1 (36.6+0.5) ويتم تسجيلها في ملف المريض 37.1؛ مثال(2): عند قياس درجة حرارة عمر عن طريق كتحة الشرج وكانت القراءة 37.4 فإن درجة الحرارة الحقيقية لعمر هي 36.9 (37.4-0.5) ويتم تسجيلها في ملف المريض 36.9",
+      "definition_en": "Example 1: Axillary reading 36.6 → true temp=37.1 (add 0.5); Example 2: Rectal reading 37.4 → true temp=36.9 (subtract 0.5)",
+      "englishSentence": "Example 1: axillary 36.6 → true temperature 37.1 (add 0.5). Example 2: rectal 37.4 → true temperature 36.9 (subtract 0.5).",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 80,
+      "keywords": [
+        "temperature measurement examples",
+        "أمثلة على قياس درجة الحرارة"
+      ]
+    },
+    {
+      "id": 29124,
+      "term": "Clinical Thermometers List",
+      "arabic": "أجهزة قياس الحرارة المستخدمة في المستشفيات",
+      "pronunciation": "أجهِزة قِياس الحَرارة في المُسْتَشْفَيات",
+      "pronunciation_en": "KLIN-ih-kal ther-MOM-eh-terz list",
+      "definition": "أجهزة قياس الحرارة المستخدمة في المستشفيات: 1-الميزان الرقمي الإلكتروني (Digital/Electronic thermometer)، 2-الميزان الزئبقي الزجاجي (Glass thermometer)، 3-جهاز خاص للأذن (Tympanic thermometer)، 4-الشريط الكيميائي - قليل الاستخدام (Chemical Thermometer)",
+      "definition_en": "Thermometers: 1-Digital/Electronic thermometer, 2-Glass thermometer (mercury), 3-Tympanic thermometer (ear), 4-Chemical Thermometer (rarely used)",
+      "englishSentence": "Clinical thermometers: digital, glass (mercury), tympanic (ear), electronic, and chemical (rarely used).",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 81,
+      "keywords": [
+        "clinical thermometers list",
+        "أجهزة قياس الحرارة المستخدمة في المستشفيات"
+      ]
+    },
+    {
+      "id": 29125,
+      "term": "Fever Pyrexia Hyperthermia",
+      "arabic": "الحمى - البيركسيا - الهايبرثيرميا",
+      "pronunciation": "الحُمَّى البيركسيا الهايبرثيرميا",
+      "pronunciation_en": "FEE-ver py-REK-see-ah hy-per-THER-mee-ah",
+      "definition": "الحمى (Fever): الحالة التي تتجاوز فيها حرارة الجسم 37.4 درجة مئوية؛ بيركسيا (Pyrexia): مصطلح آخر للحمى، الحالة التي تكون فيها حرارة الجسم أكثر دفئاً من الطبيعي؛ هايبرثيرميا (Hyperthermia): الحالة التي تتجاوز فيها حرارة الجسم الداخلية 40.6 درجة مئوية",
+      "definition_en": "Fever: temperature exceeds 37.4°C; Pyrexia: another term, temp above normal set point; Hyperthermia: core temp excessively high exceeds 40.6°C",
+      "englishSentence": "Fever is above 37.4°C; pyrexia is another term for fever; hyperthermia is core temperature above 40.6°C.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 82,
+      "keywords": [
+        "fever pyrexia hyperthermia",
+        "الحمى - البيركسيا - الهايبرثيرميا"
+      ]
+    },
+    {
+      "id": 29126,
+      "term": "Nursing Management of Elevated Temperature",
+      "arabic": "الإجراءات التمريضية لارتفاع درجة الحرارة",
+      "pronunciation": "الإجراءات التَّمريضِيَّة لارتِفاع الحَرارة",
+      "pronunciation_en": "NUR-sing MAN-ij-ment EL-eh-vay-ted TEM-per-ah-chur",
+      "definition": "الإجراءات التمريضية: 1-تشجيع المريض على زيادة شرب السوائل، 2-تشجيع المريض على الراحة، 3-إعطاء المريض أدوية خافضة للحرارة (Antipyretics)، 4-تناول الأطعمة ذات السعرات الحرارية القليلة، 5-وضع كمادات ماء باردة على جبهة الرأس أو الإبط أو على الحوض، 6-زيادة تهوية الغرفة، 7-تشجيع المريض على تخفيف الملابس",
+      "definition_en": "Nursing interventions: 1-Increase fluid intake, 2-Rest, 3-Antipyretics, 4-Low caloric diet, 5-Cold compresses on forehead/axillary/groin, 6-Increase room ventilation, 7-Remove extra clothes",
+      "englishSentence": "Nursing management of fever: increase fluids, rest, antipyretics, low caloric diet, cold compresses, increase ventilation, remove extra clothes.",
+      "arabicSentence": "",
+      "type": "procedure",
+      "chapter": 29,
+      "page": 83,
+      "keywords": [
+        "nursing management of elevated temperature",
+        "الإجراءات التمريضية لارتفاع درجة الحرارة"
+      ]
+    },
+    {
+      "id": 29127,
+      "term": "Hypothermia and Nursing Management",
+      "arabic": "انخفاض حرارة الجسم وتدخلاته التمريضية",
+      "pronunciation": "انْخِفاض حَرارة الجِسْم وتَدَخُّلاته",
+      "pronunciation_en": "hy-poh-THER-mee-ah NUR-sing MAN-ij-ment",
+      "definition": "انخفاض حرارة الجسم: الحالة التي يكون فيها حرارة الجسم الداخلية أقل من 35 درجة مئوية؛ التدخلات التمريضية: 1-رفع حرارة الغرفة، 2-ارتداء ملابس ووضع أغطية إضافية، 3-تشجيع المريض على شرب السوائل الدافئة، 4-عمل مساج لتدفئة الجسم، 5-استعمال كمادات ماء دافئة",
+      "definition_en": "Hypothermia: core temp below 35°C; Nursing management: 1-Raise room temp, 2-More clothes and covers, 3-Warm fluids, 4-Skin massage, 5-Warm compresses",
+      "englishSentence": "Hypothermia: core temperature below 35°C; management: raise room temperature, more covers, warm fluids, massage, warm compresses.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 84,
+      "keywords": [
+        "hypothermia and nursing management",
+        "انخفاض حرارة الجسم وتدخلاته التمريضية"
+      ]
+    },
+    {
+      "id": 29128,
+      "term": "Pulse Definition and Normal Rate",
+      "arabic": "النبض - التعريف والمعدل الطبيعي",
+      "pronunciation": "النَّبْض التَّعريف والمَعدَل الطَّبيعي",
+      "pronunciation_en": "puls def-ih-NI-shun NOR-mal rayt",
+      "definition": "النبض هو عبارة عن إحساس يشبه الموجة يمكن لمسه في الشرايين الطرفية؛ معدل النبض: هو عدد النبضات الطرفية في الدقيقة الواحدة؛ المعدل الطبيعي عند البالغين: 60 إلى 100 نبضة في الدقيقة؛ معدل النبض = معدل نبض القلب",
+      "definition_en": "Pulse: wave-like sensation palpated in peripheral arteries; Pulse rate: peripheral pulsations per minute; Normal adults: 60-100/min; Pulse Rate = Heart Rate",
+      "englishSentence": "Pulse is a wave-like sensation in peripheral arteries; normal adult pulse rate is 60-100 per minute.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 85,
+      "keywords": [
+        "pulse definition and normal rate",
+        "النبض - التعريف والمعدل الطبيعي"
+      ]
+    },
+    {
+      "id": 29129,
+      "term": "Abnormal Pulse Rates",
+      "arabic": "معدل النبض غير الطبيعي",
+      "pronunciation": "مَعدَل النَّبْض غَيْر الطَّبيعي",
+      "pronunciation_en": "ab-NOR-mal puls rayts",
+      "definition": "1-معدل النبض السريع: تكيكارديا (Tachycardia): الحالة التي يكون فيها معدل النبض أكثر من 100 نبضة في الدقيقة عند البالغين؛ الخفقان (Palpitation): هو شعور الشخص بنبض قلبه؛ 2-معدل النبض البطيء: براديكارديا (Bradycardia): الحالة التي يكون فيها معدل النبض أقل من 60 نبضة في الدقيقة عند البالغين",
+      "definition_en": "1-Rapid: Tachycardia (>100/min adults), Palpitation (awareness of own heartbeat); 2-Slow: Bradycardia (<60/min adults)",
+      "englishSentence": "Abnormal pulse: tachycardia (above 100/min), palpitation (awareness of heartbeat), bradycardia (below 60/min).",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 86,
+      "keywords": [
+        "abnormal pulse rates",
+        "معدل النبض غير الطبيعي"
+      ]
+    },
+    {
+      "id": 29130,
+      "term": "Tachycardia",
+      "arabic": "تكيكارديا (تسارع القلب)",
+      "pronunciation": "تَكيكارديا",
+      "pronunciation_en": "tak-ee-KAR-dee-ah",
+      "definition": "الحالة التي يكون فيها معدل النبض أكثر من 100 نبضة في الدقيقة عند البالغين",
+      "definition_en": "Condition in which heart rate is more than 100 beats per minute for adults",
+      "englishSentence": "Tachycardia is when the heart rate exceeds 100 beats per minute in adults.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 86,
+      "keywords": [
+        "tachycardia",
+        "تكيكارديا (تسارع القلب)"
+      ]
+    },
+    {
+      "id": 29131,
+      "term": "Palpitation",
+      "arabic": "الخفقان",
+      "pronunciation": "الخَفَقان",
+      "pronunciation_en": "pal-pih-TAY-shun",
+      "definition": "هو شعور الشخص بنبض قلبه",
+      "definition_en": "Awareness of one's own heartbeat",
+      "englishSentence": "Palpitation is the awareness of one's own heartbeat.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 86,
+      "keywords": [
+        "palpitation",
+        "الخفقان"
+      ]
+    },
+    {
+      "id": 29132,
+      "term": "Bradycardia",
+      "arabic": "براديكارديا (بطء القلب)",
+      "pronunciation": "بَراديكارديا",
+      "pronunciation_en": "bray-dee-KAR-dee-ah",
+      "definition": "الحالة التي يكون فيها معدل النبض أقل من 60 نبضة في الدقيقة عند البالغين",
+      "definition_en": "Condition in which heart rate is less than 60 beats per minute for adults",
+      "englishSentence": "Bradycardia is when the heart rate is less than 60 beats per minute in adults.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 86,
+      "keywords": [
+        "bradycardia",
+        "براديكارديا (بطء القلب)"
+      ]
+    },
+    {
+      "id": 29133,
+      "term": "Normal Pulse Rates by Age Table",
+      "arabic": "جدول معدل النبض الطبيعي حسب العمر",
+      "pronunciation": "جَدول مَعدَل النَّبْض الطَّبيعي",
+      "pronunciation_en": "NOR-mal puls rayts by ayj TAY-bul",
+      "definition": "معدل النبض الطبيعي حسب العمر: المواليد الجدد: 120-160 (متوسط 140)؛ 1-12 شهر: 100-140 (متوسط 120)؛ 1-2 سنة: 90-130 (متوسط 110)؛ 3-6 سنوات: 80-120 (متوسط 100)؛ 7-12 سنة: 75-115 (متوسط 95)؛ المراهقون: 60-100 (متوسط 80)؛ البالغون: 60-100 (متوسط 80)",
+      "definition_en": "Normal pulse rates: Newborn 120-160 avg140; 1-12mo 100-140 avg120; 1-2yr 90-130 avg110; 3-6yr 80-120 avg100; 7-12yr 75-115 avg95; Adolescence 60-100 avg80; Adulthood 60-100 avg80",
+      "englishSentence": "Normal pulse rates: newborn 120-160, infants 100-140, 1-2yr 90-130, 3-6yr 80-120, 7-12yr 75-115, adolescents and adults 60-100.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 87,
+      "keywords": [
+        "normal pulse rates by age table",
+        "جدول معدل النبض الطبيعي حسب العمر"
+      ]
+    },
+    {
+      "id": 29134,
+      "term": "Pulse Assessment Techniques Radial Artery",
+      "arabic": "تقنيات تقييم النبض والشريان الكعبري",
+      "pronunciation": "تَقنيات تَقييم النَّبْض الشِّريان الكَعْبَري",
+      "pronunciation_en": "puls ah-SES-ment tek-NEEKS RAY-dee-al AR-ter-ee",
+      "definition": "المكان الأكثر استعمالاً (الأساسي) لقياس النبض هو الشريان الكعبري؛ الشريان الكعبري موجود بمحاذاة الإبهام في الرسغ؛ مقدار العجز في النبض: هو الفرق بين معدل النبض المقاط من القلب مباشرة ومعدل النبض المقاط من الشريان الكعبري؛ مقدار العجز في النبض = النبض القمي - النبض الكعبري",
+      "definition_en": "Primary pulse site: radial artery (at inner thumb side of wrist); Pulse deficit = Apical pulse - Radial pulse",
+      "englishSentence": "Primary pulse site is the radial artery; pulse deficit equals apical pulse minus radial pulse.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 88,
+      "keywords": [
+        "pulse assessment techniques radial artery",
+        "تقنيات تقييم النبض والشريان الكعبري"
+      ]
+    },
+    {
+      "id": 29135,
+      "term": "Nine Peripheral Pulse Sites",
+      "arabic": "أماكن قياس النبض التسعة",
+      "pronunciation": "أماكِن قِياس النَّبْض التِّسعة",
+      "pronunciation_en": "nyn peh-RIF-er-al puls syts",
+      "definition": "أماكن قياس النبض التسعة: 1-الصدغي (Temporal)، 2-الكعبري (Radial)، 3-السباتي (Carotid)، 4-الفخذي (Femoral)، 5-العضدي (Brachial)، 6-الظنبوبي الخلفي (Posterior tibial)، 7-ظهر القدم (Dorsalis pedis)، 8-المأبضي (Popliteal)، 9-القمي (Apical) - يرجى من الطلبة حفظ جميع هذه الأماكن غيباً",
+      "definition_en": "9 sites: 1-Temporal, 2-Radial, 3-Carotid, 4-Femoral, 5-Brachial, 6-Posterior tibial, 7-Dorsalis pedis, 8-Popliteal, 9-Apical - students must memorize all",
+      "englishSentence": "The 9 pulse sites: temporal, radial, carotid, femoral, brachial, posterior tibial, dorsalis pedis, popliteal, and apical.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 89,
+      "keywords": [
+        "nine peripheral pulse sites",
+        "أماكن قياس النبض التسعة"
+      ]
+    },
+    {
+      "id": 29136,
+      "term": "Respiration and Ventilation",
+      "arabic": "التنفس والتهوية",
+      "pronunciation": "التَّنَفُّس والتَّهوِية",
+      "pronunciation_en": "res-pih-RAY-shun and ven-tih-LAY-shun",
+      "definition": "التنفس: هي عملية تبادل الأكسجين وثاني أكسيد الكربون؛ التهوية/النفَس الكامل: هو دخول الهواء وخروجه من الصدر؛ التهوية = الشهيق (Inspiration) + الزفير (Expiration)؛ معدل التنفس: هو عدد الأنفاس في الدقيقة الواحدة",
+      "definition_en": "Respiration: exchange of O2 and CO2; Ventilation: movement of air in/out of chest = inspiration + expiration; Respiratory rate: number of ventilations per minute",
+      "englishSentence": "Respiration is O2 and CO2 exchange; ventilation = inspiration + expiration; respiratory rate = ventilations per minute.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 90,
+      "keywords": [
+        "respiration and ventilation",
+        "التنفس والتهوية"
+      ]
+    },
+    {
+      "id": 29137,
+      "term": "Normal and Abnormal Respiratory Rates",
+      "arabic": "معدل التنفس الطبيعي وغير الطبيعي",
+      "pronunciation": "مَعدَل التَّنَفُّس الطَّبيعي وغَيْر الطَّبيعي",
+      "pronunciation_en": "NOR-mal ab-NOR-mal RES-pih-rah-tor-ee rayts",
+      "definition": "المعدل الطبيعي للبالغين: 12-20 نفساً في الدقيقة؛ المعدل الطبيعي للأطفال: 15-25 نفساً في الدقيقة؛ معدل التنفس غير الطبيعي: 1-تكيبنيا (Tachypnea): الحالة التي يكون فيها معدل التنفس أعلى من المعدل الطبيعي؛ 2-برادي بنيا (Bradypnea): الحالة التي يكون فيها معدل التنفس أقل من المعدل الطبيعي",
+      "definition_en": "Normal adults: 12-20/min; children: 15-25/min; Abnormal: 1-Tachypnea (above normal); 2-Bradypnea (below normal)",
+      "englishSentence": "Normal respiratory rate: adults 12-20/min, children 15-25/min; tachypnea above normal; bradypnea below normal.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 91,
+      "keywords": [
+        "normal and abnormal respiratory rates",
+        "معدل التنفس الطبيعي وغير الطبيعي"
+      ]
+    },
+    {
+      "id": 29138,
+      "term": "Tachypnea",
+      "arabic": "تكيبنيا (تسارع التنفس)",
+      "pronunciation": "تَكيبنيا",
+      "pronunciation_en": "tak-ip-NEE-ah",
+      "definition": "هي الحالة التي يكون فيها معدل التنفس أعلى من المعدل الطبيعي",
+      "definition_en": "Rapid respiratory rate above normal",
+      "englishSentence": "Tachypnea is rapid respiratory rate above normal.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 91,
+      "keywords": [
+        "tachypnea",
+        "تكيبنيا (تسارع التنفس)"
+      ]
+    },
+    {
+      "id": 29139,
+      "term": "Bradypnea",
+      "arabic": "برادي بنيا (بطء التنفس)",
+      "pronunciation": "بَرادي بنيا",
+      "pronunciation_en": "bray-dip-NEE-ah",
+      "definition": "هي الحالة التي يكون فيها معدل التنفس أقل من المعدل الطبيعي",
+      "definition_en": "Slow respiratory rate below normal",
+      "englishSentence": "Bradypnea is slow respiratory rate below normal.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 91,
+      "keywords": [
+        "bradypnea",
+        "برادي بنيا (بطء التنفس)"
+      ]
+    },
+    {
+      "id": 29140,
+      "term": "Abnormal Breathing Characteristics",
+      "arabic": "سمات التنفس غير الطبيعية",
+      "pronunciation": "سِمات التَّنَفُّس غَيْر الطَّبيعِيَّة",
+      "pronunciation_en": "ab-NOR-mal BREE-thing kar-ik-ter-IS-tiks",
+      "definition": "1-فرط التنفس (Hyperventilation): التنفس بعمق أو بسرعة أو كلاهما؛ 2-انعدام التنفس (Hypoventilation): تعائل عملية التنفس؛ 3-عسر التنفس (Dyspnea): صعوبة التنفس؛ 4-تنفس الجلوس (Orthopnea): الحالة التي تكون فيها عملية التنفس سهلة في وضعية الجلوس أو الوقوف وتكون صعبة في وضعية النوم على الظهر؛ 5-انقطاع التنفس (Apnea): عدم التنفس",
+      "definition_en": "1-Hyperventilation: rapid or deep breathing or both; 2-Hypoventilation: diminished breathing; 3-Dyspnea: difficult/labored breathing; 4-Orthopnea: easier sitting/standing harder lying; 5-Apnea: absence of breathing",
+      "englishSentence": "Abnormal breathing: hyperventilation, hypoventilation, dyspnea, orthopnea (easier sitting than lying), apnea (no breathing).",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 92,
+      "keywords": [
+        "abnormal breathing characteristics",
+        "سمات التنفس غير الطبيعية"
+      ]
+    },
+    {
+      "id": 29141,
+      "term": "Hyperventilation",
+      "arabic": "فرط التنفس",
+      "pronunciation": "فَرْط التَّنَفُّس",
+      "pronunciation_en": "hy-per-ven-tih-LAY-shun",
+      "definition": "التنفس بعمق أو بسرعة أو كلاهما",
+      "definition_en": "Rapid or deep breathing or both",
+      "englishSentence": "Hyperventilation is rapid or deep breathing or both.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 92,
+      "keywords": [
+        "hyperventilation",
+        "فرط التنفس"
+      ]
+    },
+    {
+      "id": 29142,
+      "term": "Hypoventilation",
+      "arabic": "انعدام أو تعائل التنفس",
+      "pronunciation": "انعِدام التَّنَفُّس",
+      "pronunciation_en": "hy-poh-ven-tih-LAY-shun",
+      "definition": "انعدام التنفس / تعائل عملية التنفس",
+      "definition_en": "Diminished breathing",
+      "englishSentence": "Hypoventilation is diminished breathing.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 92,
+      "keywords": [
+        "hypoventilation",
+        "انعدام أو تعائل التنفس"
+      ]
+    },
+    {
+      "id": 29143,
+      "term": "Dyspnea",
+      "arabic": "عسر التنفس (صعوبة التنفس)",
+      "pronunciation": "عُسْر التَّنَفُّس",
+      "pronunciation_en": "DISP-nee-ah",
+      "definition": "صعوبة التنفس أو التنفس المجهد",
+      "definition_en": "Difficult or labored breathing",
+      "englishSentence": "Dyspnea is difficult or labored breathing.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 92,
+      "keywords": [
+        "dyspnea",
+        "عسر التنفس (صعوبة التنفس)"
+      ]
+    },
+    {
+      "id": 29144,
+      "term": "Orthopnea",
+      "arabic": "تنفس الجلوس (أورثوبنيا)",
+      "pronunciation": "أُورثوبنيا",
+      "pronunciation_en": "or-THOP-nee-ah",
+      "definition": "الحالة التي تكون فيها عملية التنفس سهلة في وضعية الجلوس أو الوقوف وتكون صعبة في وضعية النوم على الظهر",
+      "definition_en": "Breathing facilitated by sitting or standing position; difficult when lying down",
+      "englishSentence": "Orthopnea is easier breathing when sitting or standing and difficult when lying flat.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 92,
+      "keywords": [
+        "orthopnea",
+        "تنفس الجلوس (أورثوبنيا)"
+      ]
+    },
+    {
+      "id": 29145,
+      "term": "Apnea",
+      "arabic": "انقطاع التنفس",
+      "pronunciation": "انْقِطاع التَّنَفُّس",
+      "pronunciation_en": "AP-nee-ah",
+      "definition": "عدم التنفس",
+      "definition_en": "Absence of breathing",
+      "englishSentence": "Apnea is the absence of breathing.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 92,
+      "keywords": [
+        "apnea",
+        "انقطاع التنفس"
+      ]
+    },
+    {
+      "id": 29146,
+      "term": "Blood Pressure Definition and Blood Volume",
+      "arabic": "ضغط الدم - التعريف وحجم الدم",
+      "pronunciation": "ضَغْط الدَّم التَّعريف وحَجْم الدَّم",
+      "pronunciation_en": "blud PRESH-er def-ih-NI-shun VOL-yoom",
+      "definition": "ضغط الدم: هي القوة التي يبذلها الدم داخل الشرايين؛ حجم الدم المتداول: معدل حجم الدم الموجود في الدورة الدموية هو 4.5-5.5 لتر عند النساء البالغات و5-6 لتر عند الرجال البالغين؛ نقصان حجم الدم يسبب هبوطاً في ضغط الدم؛ زيادة حجم الدم يسبب زيادة في ضغط الدم",
+      "definition_en": "Blood pressure: force blood exerts in arteries; Circulating volume: 4.5-5.5L women, 5-6L men; Lower volume=decreased BP; Excess volume=increased BP",
+      "englishSentence": "Blood pressure is the force blood exerts in arteries; blood volume 4.5-5.5L for women and 5-6L for men.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 93,
+      "keywords": [
+        "blood pressure definition and blood volume",
+        "ضغط الدم - التعريف وحجم الدم"
+      ]
+    },
+    {
+      "id": 29147,
+      "term": "Cardiac Output Formula CO HR SV",
+      "arabic": "معادلة حجم الدم القلبي CO = HR × SV",
+      "pronunciation": "مُعادَلة CO يُساوي HR مَضروب في SV",
+      "pronunciation_en": "KAR-dee-ak OWT-put FOR-myoo-lah CO HR SV",
+      "definition": "كارديات أوت بوت: حجم الدم الذي ينبع من القلب في الدقيقة الواحدة = معدل نبض القلب في الدقيقة ضرب حجم الضربة؛ CO/m = HR/m × SV (70 ml)؛ ستوك فوليوم: هو حجم الدم الذي ينبع من القلب في كل نبضة ويساوي تقريباً 70 مل من الدم",
+      "definition_en": "Cardiac output per minute = HR per minute × Stroke Volume (70ml); CO/m = HR/m × SV(70ml); Stroke volume ≈ 70ml per beat",
+      "englishSentence": "Cardiac output per minute equals heart rate per minute multiplied by stroke volume of approximately 70 ml.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 94,
+      "keywords": [
+        "cardiac output formula co hr sv",
+        "معادلة حجم الدم القلبي CO = HR × SV"
+      ]
+    },
+    {
+      "id": 29148,
+      "term": "Factors Affecting Blood Pressure Part 1",
+      "arabic": "العوامل التي تؤثر على ضغط الدم - الجزء الأول",
+      "pronunciation": "العَوامِل المُؤَثِّرة على ضَغْط الدَّم الجُزء الأول",
+      "pronunciation_en": "FAK-terz ah-FEK-ting blud PRESH-er part 1",
+      "definition": "العوامل التي تؤثر على ضغط الدم: 1-العمر: ازدياد العمر يؤدي إلى زيادة ضغط الدم بسبب تصلب الشرايين (Atherosclerosis)؛ 2-الجنس: ضغط الدم عند النساء غالباً أقل من الرجال لنفس الفئة العمرية؛ 3-التمارين الرياضية: ضغط الدم يزداد أثناء ممارسة التمارين الرياضية والنشاط؛ 4-الألم والقلق والعواطف والتوتر: تؤدي إلى زيادة ضغط الدم",
+      "definition_en": "Factors: 1-Age (increases due to atherosclerosis); 2-Gender (women tend lower); 3-Exercise (raises BP); 4-Emotions and pain (raise BP)",
+      "englishSentence": "Factors affecting BP: age (atherosclerosis), gender (women lower), exercise (raises BP), emotions and pain (raise BP).",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 95,
+      "keywords": [
+        "factors affecting blood pressure part 1",
+        "العوامل التي تؤثر على ضغط الدم - الجزء الأول"
+      ]
+    },
+    {
+      "id": 29149,
+      "term": "Factors Affecting Blood Pressure Part 2",
+      "arabic": "العوامل التي تؤثر على ضغط الدم - الجزء الثاني",
+      "pronunciation": "العَوامِل المُؤَثِّرة على ضَغْط الدَّم الجُزء الثاني",
+      "pronunciation_en": "FAK-terz ah-FEK-ting blud PRESH-er part 2",
+      "definition": "ضغط الدم يكون أقل بوضعية النوم على الظهر من الجلوس أو الوقوف؛ ضغط الدم يكون مرتفعاً في الحالات التالية: عندما تكون مثانة البول ممتلئة، عندما يكون الساقان كول بعض (تقاطع الساقين)، عندما يكون الشخص بارداً، عند تناول الأدوية التي تحفز القلب",
+      "definition_en": "BP lower when lying than sitting/standing; BP higher when: bladder full, legs crossed, person cold, heart-stimulating drugs taken",
+      "englishSentence": "BP is lower when lying down; BP is higher with full bladder, crossed legs, cold environment, or stimulant drugs.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 96,
+      "keywords": [
+        "factors affecting blood pressure part 2",
+        "العوامل التي تؤثر على ضغط الدم - الجزء الثاني"
+      ]
+    },
+    {
+      "id": 29150,
+      "term": "Systolic Diastolic Pulse Pressure",
+      "arabic": "ضغط الدم الانقباضي والانبساطي وضغط النبض",
+      "pronunciation": "ضَغْط الدَّم الانقِباضي والانبِساطي وضَغْط النَّبْض",
+      "pronunciation_en": "sis-TOL-ik dy-ah-STOL-ik puls PRESH-er",
+      "definition": "ضغط الدم الانقباضي: هو الضغط داخل الشرايين عندما يكون القلب منقبضاً؛ ضغط الدم الانبساطي: هو الضغط داخل الشرايين عندما يكون القلب مرتخياً ويمتلئ بالدم؛ ضغط النبض: هو الفرق بين ضغط الدم الانقباضي وضغط الدم الانبساطي؛ ضغط النبض = الانقباضي - الانبساطي",
+      "definition_en": "Systolic: pressure when heart contracts; Diastolic: pressure when heart relaxes and fills; Pulse pressure: difference between systolic and diastolic; Pulse pressure = Systolic - Diastolic",
+      "englishSentence": "Systolic pressure: heart contracting; diastolic: heart relaxing; pulse pressure = systolic minus diastolic.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 97,
+      "keywords": [
+        "systolic diastolic pulse pressure",
+        "ضغط الدم الانقباضي والانبساطي وضغط النبض"
+      ]
+    },
+    {
+      "id": 29151,
+      "term": "Blood Pressure Assessment Sites",
+      "arabic": "أماكن قياس ضغط الدم",
+      "pronunciation": "أماكِن قِياس ضَغْط الدَّم",
+      "pronunciation_en": "blud PRESH-er ah-SES-ment syts",
+      "definition": "في العادة يتم قياس الضغط من الشريان العضدي (الأكثر استخداماً)؛ وأيضاً قد يتم قياس الضغط من الشريان الكعبري؛ يتم قياس الضغط من الشريان المأبضي (البوبليتيال) الموجود خلف الركبة في الحالات التالية: ذراعا المريض مبتوستان، استئصال الثديين عند المريضة، إذا كان لدى المريض عملية في أوعية الذراع",
+      "definition_en": "Usually from brachial artery (most common); also radial; popliteal artery (behind knee) when: arms missing, mastectomy, vascular surgery on arms",
+      "englishSentence": "BP usually from brachial artery; popliteal artery used when arms missing, mastectomy, or arm vascular surgery.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 98,
+      "keywords": [
+        "blood pressure assessment sites",
+        "أماكن قياس ضغط الدم"
+      ]
+    },
+    {
+      "id": 29152,
+      "term": "Equipment for Measuring Blood Pressure",
+      "arabic": "أدوات قياس ضغط الدم",
+      "pronunciation": "أدَوات قِياس ضَغْط الدَّم",
+      "pronunciation_en": "ee-KWIP-ment MEJ-er-ing blud PRESH-er",
+      "definition": "أدوات قياس ضغط الدم: 1-جهاز ضغط الدم الزئبقي (Sphygmomanometer)، 2-جهاز ضغط الدم الهوائي (Aneroid manometer)، 3-جهاز ضغط الدم الإلكتروني (Electronic manometer)، 4-الكفة المنفوخة (Inflatable cuff) - ما يوضع على الذراع، 5-السماعة الطبية (Stethoscope)، 6-صوت كوروتكوف (Korotkoff sound): هو الصوت الذي يتم سماعه أثناء قياس ضغط الدم نتيجة اهتزازات الدم داخل جدار الشريان",
+      "definition_en": "Equipment: 1-Sphygmomanometer (mercury), 2-Aneroid manometer, 3-Electronic manometer, 4-Inflatable cuff, 5-Stethoscope, 6-Korotkoff sound (vibrations of blood in arterial wall during measurement)",
+      "englishSentence": "BP equipment: sphygmomanometer, aneroid, electronic manometer, inflatable cuff, stethoscope; Korotkoff sound heard during measurement.",
+      "arabicSentence": "",
+      "type": "equipment",
+      "chapter": 29,
+      "page": 99,
+      "keywords": [
+        "equipment for measuring blood pressure",
+        "أدوات قياس ضغط الدم"
+      ]
+    },
+    {
+      "id": 29153,
+      "term": "Abnormal Blood Pressure Measurements",
+      "arabic": "قياسات ضغط الدم غير الطبيعية",
+      "pronunciation": "قِياسات ضَغْط الدَّم غَيْر الطَّبيعِيَّة",
+      "pronunciation_en": "ab-NOR-mal blud PRESH-er MEJ-er-ments",
+      "definition": "ضغط الدم المرتفع أو المنخفض عن المعدل الطبيعي مؤشر على وجود مشاكل صحية في الجسم؛ ارتفاع ضغط الدم (Hypertension): ضغط الدم المرتفع؛ انخفاض ضغط الدم (Hypotension): ضغط الدم المنخفض؛ هبوط ضغط الدم الوضعي (Postural/Orthostatic Hypotension): هبوط ضغط الدم بشكل مفاجئ عند قيام الشخص بسرعة من وضعية الاستلقاء",
+      "definition_en": "BP above or below normal indicates health problems; Hypertension: high BP; Hypotension: low BP; Postural/Orthostatic Hypotension: sudden drop when rising from reclining",
+      "englishSentence": "Abnormal BP: hypertension (high), hypotension (low), postural hypotension (sudden drop when standing up quickly).",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 100,
+      "keywords": [
+        "abnormal blood pressure measurements",
+        "قياسات ضغط الدم غير الطبيعية"
+      ]
+    },
+    {
+      "id": 29154,
+      "term": "Normal Blood Pressure Values mmHg",
+      "arabic": "قيم ضغط الدم الطبيعية mmHg",
+      "pronunciation": "قِيَم ضَغْط الدَّم الطَّبيعِيَّة",
+      "pronunciation_en": "NOR-mal blud PRESH-er VAL-yooz mmHg",
+      "definition": "وحدة قياس ضغط الدم هي mmHg ويتم كتابة القراءة بصورة كسر (SBP/DBP)؛ ضغط الدم الطبيعي: الانقباضي = 90-139، الانبساطي = 60-89",
+      "definition_en": "Unit: mmHg, written as fraction SBP/DBP; Normal: Systolic = 90-139, Diastolic = 60-89",
+      "englishSentence": "Blood pressure measured in mmHg written as SBP/DBP; normal: systolic 90-139, diastolic 60-89.",
+      "arabicSentence": "",
+      "type": "concept",
+      "chapter": 29,
+      "page": 101,
+      "keywords": [
+        "normal blood pressure values mmhg",
+        "قيم ضغط الدم الطبيعية mmHg"
+      ]
+    },
+    {
+      "id": 29155,
+      "term": "Hypertension and Hypotension Values",
+      "arabic": "قيم ارتفاع وانخفاض ضغط الدم",
+      "pronunciation": "قِيَم ارتِفاع وانخِفاض ضَغْط الدَّم",
+      "pronunciation_en": "hy-per-TEN-shun hy-poh-TEN-shun VAL-yooz",
+      "definition": "ارتفاع ضغط الدم (Hypertension): الانقباضي أكبر من أو يساوي 140، الانبساطي أكبر من أو يساوي 90؛ انخفاض ضغط الدم (Hypotension): الانقباضي أصغر من أو يساوي 89، الانبساطي أصغر من أو يساوي 59",
+      "definition_en": "Hypertension: Systolic ≥140, Diastolic ≥90; Hypotension: Systolic ≤89, Diastolic ≤59",
+      "englishSentence": "Hypertension: systolic 140 or above, diastolic 90 or above; Hypotension: systolic 89 or below, diastolic 59 or below.",
+      "arabicSentence": "",
+      "type": "condition",
+      "chapter": 29,
+      "page": 102,
+      "keywords": [
+        "hypertension and hypotension values",
+        "قيم ارتفاع وانخفاض ضغط الدم"
+      ]
+    }
+  ]
+}
